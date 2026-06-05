@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "989008b006737a21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96e3199b93df362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9092b7f41da7afa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obra ouro valley/Ouro Valley - Lote 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ouro Valley - Lote 6"
+            }
+          },
+          {
+            "id": "5c5a68fc34f1316f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "material em falta para ouro valley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "material em falta para ouro valley"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58f975325c975f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9d8df918c75a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120d59677b893e51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "2602f7dda1bdbee0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "753cc97ea71a0bec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02f95464b0f7023a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0da0f53079a570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0d3cda83f45668",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para Bem-vindo"
+            }
+          },
+          {
+            "id": "edbcac740fb3f67e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de Bem-vindo"
+            }
+          },
+          {
+            "id": "e5e6dd85d9ecde61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b6f0481c622877e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "f1fc6c9158ca3389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Bem-vindo"
+            }
+          },
+          {
+            "id": "f3469ff21d72734c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "9b3d2e75c0509b5e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "8de64f947283968b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Criar novo Canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "bases:Criar nova base": false,
+      "remotely-save:Remotely Save": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "5c5a68fc34f1316f",
+  "lastOpenFiles": [
+    "textgenerator/templates/dalle/quaBokeh.md",
+    "textgenerator/templates/dalle/artStock.md",
+    "textgenerator/templates/dalle/ligStudio.md",
+    "textgenerator/templates/dalle/artVanGogh.md",
+    "textgenerator/templates/dalle/artVaporwave.md",
+    "textgenerator/templates/dalle/artPixel.md",
+    "textgenerator/templates/dalle/sitNature.md",
+    "textgenerator/templates/dalle/artGraffiti.md",
+    "textgenerator/templates/dalle/qua35mm.md",
+    "textgenerator/templates/dalle/artCartoon.md",
+    "textgenerator/templates/dalle/quaTiltShift.md",
+    "textgenerator/templates/dalle/ligFlare.md",
+    "textgenerator/templates/dalle/artColoringBook.md",
+    "textgenerator/templates/dalle/qua85mm.md",
+    "textgenerator/templates/dalle/modAwardWinning.md",
+    "textgenerator/templates/dalle/quaMacro.md",
+    "textgenerator/templates/dalle/artUkiyoe.md",
+    "textgenerator/templates/dalle/ligAmbient.md",
+    "textgenerator/templates/dalle/modArtStation.md",
+    "textgenerator/templates/dalle/modFanart.md",
+    "textgenerator/templates/dalle/quaCinematic.md",
+    "textgenerator/templates/dalle/ligCinematic.md",
+    "textgenerator/templates/dalle/qua4K.md",
+    "textgenerator/templates/dalle/dall-e-core.md",
+    "textgenerator/templates/dalle/getPhoto.md",
+    "textgenerator/templates/dalle/artSprayPainted.md",
+    "textgenerator/templates/dalle",
+    "textgenerator/templates",
+    "textgenerator",
+    "Sem título.base",
+    "Clippings",
+    "templates",
+    "next yard 2",
+    "Sem título.canvas",
+    "obra ouro valley/máquinas e ferramentas",
+    "obra ouro valley/lote 3",
+    "obra ouro valley/lote 6"
+  ]
+}
