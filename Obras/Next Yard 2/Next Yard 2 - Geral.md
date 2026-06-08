@@ -15,12 +15,12 @@ data_inicio: 2026-05-15
 
 ## 📊 Resumo dos Blocos
 
-| Bloco | Total Pisos | Apartamentos/Piso | Estado |
-|-------|------------|------------------|--------|
-| [[Next Yard 2 - Bloco A]] | 10 | 4-6 | 🔵 Em andamento |
-| [[Next Yard 2 - Bloco B]] | 10 | 4-6 | 🔵 Em andamento |
-| [[Next Yard 2 - Bloco C]] | 9 | 4-6 | 🔵 Em andamento |
-| **TOTAL** | **29** | — | — |
+| Bloco                     | Total Pisos | Apartamentos/Piso | Estado          |
+| ------------------------- | ----------- | ----------------- | --------------- |
+| [[Next Yard 2 - Bloco A]] | 10          | 4                 | 🔵 Em andamento |
+| [[Next Yard 2 - Bloco B]] | 10          | 4                 | 🔵 Em andamento |
+| [[Next Yard 2 - Bloco C]] | 9           | 3                 | 🔵 Em andamento |
+| **TOTAL**                 | **29**      | —                 | —               |
 
 ---
 
@@ -43,22 +43,17 @@ data_inicio: 2026-05-15
 ---
 
 ## 👷 Equipa
-- [[António]]
-- [[Afonso]]
-- [[Diogo]]
-- [[Tiago]]
-- [[Yuri]]
-- [[Abel]]
-
+jose Magalhães 
+antonio rocha
 ---
 
 ## 📅 Datas Importantes
-| Marco | Data |
-|-------|------|
-| Início obra | 15/05/2026 |
+| Marco             | Data       |
+| ----------------- | ---------- |
+| Início obra       | 15/05/2026 |
 | Finalizar esgotos | 25/06/2026 |
-| Teste final | 10/07/2026 |
-| Conclusão geral | 20/07/2026 |
+| Teste final       | 25/06/2026 |
+| Conclusão geral   | 30/06/2026 |
 
 ---
 

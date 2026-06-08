@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obra ouro valley/Ouro Valley - Lote 6.md",
+                "file": "Obras/Next Yard 2/Next Yard 2 - Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ouro Valley - Lote 6"
-            }
-          },
-          {
-            "id": "5c5a68fc34f1316f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "material em falta para ouro valley.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "material em falta para ouro valley"
+              "title": "Next Yard 2 - Geral"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de ficheiros"
@@ -235,8 +220,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5c5a68fc34f1316f",
+  "active": "9092b7f41da7afa0",
   "lastOpenFiles": [
+    "obra ouro valley/Ouro Valley - Lote 5.md",
+    "obra ouro valley/Ouro Valley - Lote 6.md",
+    "António.md",
+    "material em falta para ouro valley.md",
+    "Template - maquinas e ferramentas.md",
+    "Dashboard.md",
+    "Obras/Next Yard 2/Next Yard 2 - Geral.md",
+    "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
+    "2026-05-26.md",
+    "obra ouro valley/Ouro Valley - Geral.md",
+    "obra ouro valley/Ouro Valley - Lote 2.md",
+    "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
+    "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
+    "Material/Encomendas/2026-06-15 Tubos PPR 25mm.md",
     "textgenerator/templates/dalle/quaBokeh.md",
     "textgenerator/templates/dalle/artStock.md",
     "textgenerator/templates/dalle/ligStudio.md",
@@ -249,20 +248,6 @@
     "textgenerator/templates/dalle/artCartoon.md",
     "textgenerator/templates/dalle/quaTiltShift.md",
     "textgenerator/templates/dalle/ligFlare.md",
-    "textgenerator/templates/dalle/artColoringBook.md",
-    "textgenerator/templates/dalle/qua85mm.md",
-    "textgenerator/templates/dalle/modAwardWinning.md",
-    "textgenerator/templates/dalle/quaMacro.md",
-    "textgenerator/templates/dalle/artUkiyoe.md",
-    "textgenerator/templates/dalle/ligAmbient.md",
-    "textgenerator/templates/dalle/modArtStation.md",
-    "textgenerator/templates/dalle/modFanart.md",
-    "textgenerator/templates/dalle/quaCinematic.md",
-    "textgenerator/templates/dalle/ligCinematic.md",
-    "textgenerator/templates/dalle/qua4K.md",
-    "textgenerator/templates/dalle/dall-e-core.md",
-    "textgenerator/templates/dalle/getPhoto.md",
-    "textgenerator/templates/dalle/artSprayPainted.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates",
     "textgenerator",

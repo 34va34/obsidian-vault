@@ -115,14 +115,16 @@ Status:
 
 ### Tarefas Hoje por Pessoa
 
-| Pessoa | Tarefas | Horas | Status |
-|--------|---------|-------|--------|
-| [[António]] | | | |
-| [[Afonso]] | | | |
-| [[Diogo]] | | | |
-| [[Tiago]] | | | |
-| [[Yuri]] | | | |
-| [[Abel]] | | | |
+| Pessoa         | Tarefas | Horas | Status |
+| -------------- | ------- | ----- | ------ |
+| [[António]]    |         |       |        |
+| [[Afonso]]     |         |       |        |
+| [[Diogo]]      |         |       |        |
+| [[Tiago]]      |         |       |        |
+| [[Yuri]]       |         |       |        |
+| [[Abel]]       |         |       |        |
+| jose Magalhaes |         |       |        |
+| Antônio rocha  |         |       |        |
 
 ---
 

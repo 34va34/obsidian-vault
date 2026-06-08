@@ -13,18 +13,19 @@ estado: Em andamento
 
 ## 📊 Distribuição
 
-| Piso | Apartamentos | Estado |
-|------|-------------|--------|
-| Piso 10 | 5 | 🔵 Progresso |
-| Piso 9 | 5 | 🔵 Progresso |
-| Piso 8 | 6 | 🔵 Progresso |
-| Piso 7 | 6 | 🟡 Parcial |
-| Piso 6 | 6 | 🟡 Parcial |
-| Piso 5 | 6 | 🟡 Parcial |
-| Piso 4 | 6 | ⚪ Por fazer |
-| Piso 3 | 6 | ⚪ Por fazer |
-| Piso 2 | 6 | ⚪ Por fazer |
-| Piso 1 | 6 | ⚪ Por fazer |
+| Piso    | Apartamentos | Estado       |
+| ------- | ------------ | ------------ |
+| Piso 10 | 4            | 🔵 Progresso |
+| Piso 9  | 4            | 🔵 Progresso |
+| Piso 8  | 4            | 🔵 Progresso |
+| Piso 7  | 4            | 🟡 Parcial   |
+| Piso 6  | 4            | 🟡 Parcial   |
+| Piso 5  | 4            | 🟡 Parcial   |
+| Piso 4  | 4            | ⚪ Por fazer  |
+| Piso 3  | 4            | ⚪ Por fazer  |
+| Piso 2  | 4            | ⚪ Por fazer  |
+| Piso 1  | 4            | ⚪ Por fazer  |
+|         |              |              |
 
 ---
 
