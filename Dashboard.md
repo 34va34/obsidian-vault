@@ -1,51 +1,180 @@
-ouro valley
-next yard
-# 🏗️ Obras Ativas
+---
+tags: dashboard, home
+---
 
-```dataview
-TABLE Estado, "Data início"
-FROM "Obras"
-SORT file.name ASC
-```
+# 🏗️ DASHBOARD — Gestão de Obras
+
+> Última atualização: Hoje  
+> Equipa Ativa: 6 pessoas
 
 ---
 
-# 📋 Tarefas Pendentes
-
-```tasks
-not done
-sort by due
-limit 15
-```
-
----
-
-# ⚠️ Tarefas Urgentes
+## 🚨 URGENTE — Próximas 24h
 
 ```tasks
 not done
 due before tomorrow
 sort by due
+limit 5
 ```
 
 ---
 
-# 📖 Últimos Diários
+## 📊 STATUS GERAL DAS OBRAS
+
+### Ouro Valley — Visão Geral
+
+| Lote | Progresso | Responsável | Status |
+|------|-----------|-------------|--------|
+| [[Ouro Valley - Lote 6]] | 70% | [[Diogo]] | 🟢 Avançado |
+| [[Ouro Valley - Lote 4]] | 40% | | 🔵 Em andamento |
+| [[Ouro Valley - Lote 2]] | 20% | | 🟡 Iniciando |
+
+---
+
+## 👥 EQUIPA HOJE
 
 ```dataview
-LIST
-FROM "Diário"
-SORT file.ctime DESC
-LIMIT 10
+TABLE nome as "Pessoa", cargo as "Cargo", estado as "Estado"
+FROM "Equipa/Pessoas"
+WHERE estado = "Ativo"
+SORT file.name ASC
 ```
 
 ---
 
-# 📦 Material
+## 📋 TAREFAS DO DIA
+
+### 🟢 Completas
+```tasks
+done
+due today
+limit 10
+```
+
+### 🟡 Em Progresso
+```tasks
+not done
+due today
+limit 10
+```
+
+### 🔴 Atraso
+```tasks
+not done
+due before today
+limit 5
+```
+
+---
+
+## 📦 MATERIAL — AÇÕES NECESSÁRIAS
+
+### Encomendas Pendentes
+```dataview
+TABLE Data as "Data", Material as "Material", Status as "Status"
+FROM "Material/Encomendas"
+WHERE Status = "Pendente" OR Status = "Pedido"
+SORT Data ASC
+```
+
+### Receções Hoje
+```dataview
+TABLE Material as "Material", Quantidade as "Qtd", Fornecedor as "Fornecedor"
+FROM "Material/Encomendas"
+WHERE date(Data) = today()
+SORT Material ASC
+```
+
+### Inventário Crítico (< 5 unidades)
+```dataview
+TABLE Material as "Material", Saldo as "Stock", Lote as "Lote"
+FROM "Material/Inventário"
+WHERE Saldo < 5
+SORT Material ASC
+```
+
+---
+
+## 🔧 MÁQUINAS & FERRAMENTAS
+
+Status:
+- ✅ Operacional
+- 🔄 Em manutenção
+- 🔨 Em reparação
+
+| Equipamento | Estado | Responsável | Observações |
+|-------------|--------|-------------|-------------|
+| Máquina PPR | ✅ Operacional | | |
+| Furadeira | ✅ Operacional | | |
+| Nível Laser | ✅ Operacional | | |
+
+---
+
+## 👤 PERFORMANCE DA EQUIPA
+
+### Tarefas Hoje por Pessoa
+
+| Pessoa | Tarefas | Horas | Status |
+|--------|---------|-------|--------|
+| [[António]] | | | |
+| [[Afonso]] | | | |
+| [[Diogo]] | | | |
+| [[Tiago]] | | | |
+| [[Yuri]] | | | |
+| [[Abel]] | | | |
+
+---
+
+## 📅 PRÓXIMAS ATIVIDADES
+
+### Hoje
+- [ ] Reunião com equipa (08:30)
+- [ ] Receção de material PPR
+- [ ] Progressão Lote 6 - Blocos C, D
+
+### Semana Que Vem
+- [ ] Iniciar Lote 4
+- [ ] Manutenção Máquina PPR
+- [ ] Relatório 20-20 (até 20/06)
+
+---
+
+## 📝 ÚLTIMOS DIÁRIOS
 
 ```dataview
-LIST
-FROM "Material"
+LIST file.link
+FROM "Diário/Diários Diários"
 SORT file.ctime DESC
-LIMIT 10
+LIMIT 5
 ```
+
+---
+
+## ⚠️ ALERTAS E AVISOS
+
+- ❌ Nenhum alerta crítico
+- 🟡 3 tarefas em atraso
+- 📦 Material crítico: Tubos PPR 25mm
+
+---
+
+## 🎯 ATALHOS RÁPIDOS
+
+| Ação | Link |
+|------|------|
+| ➕ Nova Tarefa | [[Template - Tarefa de Trabalho]] |
+| 📦 Nova Encomenda | [[Template - Encomenda de Material]] |
+| 👥 Atribuir Tarefas | [[Template - Atribuição de Tarefas]] |
+| 📅 Novo Diário | [[Template - Diário de Obra]] |
+| 📊 Novo Relatório | [[Template - Relatório 20-20]] |
+
+---
+
+## 📱 INFO RÁPIDA
+
+- **Período Relatório**: 20/mês - 20/mês
+- **Equipa**: 6 pessoas
+- **Obras Ativas**: 3 lotes
+- **Tarefas Totais**: 24
+- **Taxa Conclusão**: 45%
