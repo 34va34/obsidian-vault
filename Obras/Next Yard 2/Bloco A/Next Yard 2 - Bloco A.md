@@ -24,7 +24,7 @@ estado: Em andamento
 | Piso 4  | 4            | ⚪ Por fazer  |
 | Piso 3  | 4            | ⚪ Por fazer  |
 | Piso 2  | 4            | ⚪ Por fazer  |
-| Piso 1  | 4            | ⚪ Por fazer  |
+| Piso 1  | 3            | ⚪ Por fazer  |
 |         |              |              |
 
 ---

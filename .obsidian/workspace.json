@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Next Yard 2/Next Yard 2 - Geral.md",
+                "file": "EQUIPA/Equipa hoje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Yard 2 - Geral"
+              "title": "Equipa hoje"
+            }
+          },
+          {
+            "id": "9751eac798dd9434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-12 Conexões e Válvulas"
             }
           }
         ]
@@ -222,20 +236,22 @@
   },
   "active": "9092b7f41da7afa0",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
+    "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
+    "Material/Encomendas/2026-06-15 Tubos PPR 25mm.md",
+    "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
+    "EQUIPA/Equipa hoje.md",
+    "EQUIPA",
+    "Obras/Next Yard 2/Next Yard 2 - Geral.md",
     "obra ouro valley/Ouro Valley - Lote 5.md",
     "obra ouro valley/Ouro Valley - Lote 6.md",
     "António.md",
     "material em falta para ouro valley.md",
     "Template - maquinas e ferramentas.md",
-    "Dashboard.md",
-    "Obras/Next Yard 2/Next Yard 2 - Geral.md",
-    "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
     "2026-05-26.md",
     "obra ouro valley/Ouro Valley - Geral.md",
     "obra ouro valley/Ouro Valley - Lote 2.md",
-    "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
-    "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
-    "Material/Encomendas/2026-06-15 Tubos PPR 25mm.md",
     "textgenerator/templates/dalle/quaBokeh.md",
     "textgenerator/templates/dalle/artStock.md",
     "textgenerator/templates/dalle/ligStudio.md",
@@ -247,7 +263,6 @@
     "textgenerator/templates/dalle/qua35mm.md",
     "textgenerator/templates/dalle/artCartoon.md",
     "textgenerator/templates/dalle/quaTiltShift.md",
-    "textgenerator/templates/dalle/ligFlare.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates",
     "textgenerator",
@@ -257,7 +272,6 @@
     "next yard 2",
     "Sem título.canvas",
     "obra ouro valley/máquinas e ferramentas",
-    "obra ouro valley/lote 3",
-    "obra ouro valley/lote 6"
+    "obra ouro valley/lote 3"
   ]
 }

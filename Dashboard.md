@@ -54,9 +54,9 @@ limit 10
 
 ### 🟡 Em Progresso
 ```tasks
+```
 not done
-due today
-limit 10
+``` 
 ```
 
 ### 🔴 Atraso

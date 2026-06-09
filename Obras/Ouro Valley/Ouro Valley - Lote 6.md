@@ -39,7 +39,7 @@ data_inicio: 2026-05-11
 - [ ] Ligar águas cozinha
 - [ ] concluir prumadas
 - [ ] iniciar esgotos finos
-- [ ] iniciar prumadas cozinha e wc serviço 
+- [x] iniciar prumadas cozinha e wc serviço ✅ 2026-06-09
 - [ ] testar wc piso 3
 - [ ] ligação as caixas piso 2📅 2026-06-05 
 - [ ] testar piso 3⏳ 2026-06-06 

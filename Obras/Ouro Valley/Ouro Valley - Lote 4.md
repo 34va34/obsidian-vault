@@ -36,7 +36,7 @@ morada: Ouro Valley — Lote 4
 ## 🔧 Trabalhos a Realizar
 - [ ] soldar tubos de ppr🔼 
 - [ ] fazer transição de pex para ppr🔺 
-- [ ] iniciar prumadas casa de banho🔼 
+- [x] iniciar prumadas casa de banho 🔼 ✅ 2026-06-09
 - [ ] fazer arranhas piso 1 e 2
 - [ ] 
 
