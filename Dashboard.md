@@ -26,9 +26,9 @@ limit 5
 
 | Lote | Progresso | Responsável | Status |
 |------|-----------|-------------|--------|
-| [[Ouro Valley - Lote 6]] | 70% | [[Diogo]] | 🟢 Avançado |
-| [[Ouro Valley - Lote 4]] | 40% | | 🔵 Em andamento |
-| [[Ouro Valley - Lote 2]] | 20% | | 🟡 Iniciando |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 6]] | 70% | [[Equipa/Pessoas/Diogo]] | 🟢 Avançado |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 4]] | 40% | | 🔵 Em andamento |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 2]] | 20% | | 🟡 Iniciando |
 
 ---
 
@@ -117,12 +117,12 @@ Status:
 
 | Pessoa         | Tarefas | Horas | Status |
 | -------------- | ------- | ----- | ------ |
-| [[António]]    |         |       |        |
-| [[Afonso]]     |         |       |        |
-| [[Diogo]]      |         |       |        |
-| [[Tiago]]      |         |       |        |
-| [[Yuri]]       |         |       |        |
-| [[Abel]]       |         |       |        |
+| [[Equipa/Pessoas/António]]    |         |       |        |
+| [[Equipa/Pessoas/Afonso]]     |         |       |        |
+| [[Equipa/Pessoas/Diogo]]      |         |       |        |
+| [[Equipa/Pessoas/Tiago]]      |         |       |        |
+| [[Equipa/Pessoas/Yuri]]       |         |       |        |
+| [[Equipa/Pessoas/Abel]]       |         |       |        |
 | jose Magalhaes |         |       |        |
 | Antônio rocha  |         |       |        |
 
@@ -165,11 +165,11 @@ LIMIT 5
 
 | Ação | Link |
 |------|------|
-| ➕ Nova Tarefa | [[Template - Tarefa de Trabalho]] |
-| 📦 Nova Encomenda | [[Template - Encomenda de Material]] |
-| 👥 Atribuir Tarefas | [[Template - Atribuição de Tarefas]] |
-| 📅 Novo Diário | [[Template - Diário de Obra]] |
-| 📊 Novo Relatório | [[Template - Relatório 20-20]] |
+| ➕ Nova Tarefa | [[Templates/Template - Tarefa de Trabalho]] |
+| 📦 Nova Encomenda | [[Templates/Template - Encomenda de Material]] |
+| 👥 Atribuir Tarefas | [[Templates/Template - Atribuição de Tarefas]] |
+| 📅 Novo Diário | [[Templates/Template - Diário de Obra]] |
+| 📊 Novo Relatório | [[Templates/Template - Relatório 20-20]] |
 
 ---
 
