@@ -170,6 +170,8 @@ LIMIT 5
 | 👥 Atribuir Tarefas | [[Templates/Template - Atribuição de Tarefas]] |
 | 📅 Novo Diário | [[Templates/Template - Diário de Obra]] |
 | 📊 Novo Relatório | [[Templates/Template - Relatório 20-20]] |
+| 🚀 Criar Nova Obra | [[Templates/Ação - Nova Obra]] |
+| 👤 Adicionar Pessoa | [[Templates/Ação - Nova Pessoa]] |
 
 ---
 
