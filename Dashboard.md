@@ -115,16 +115,16 @@ Status:
 
 ### Tarefas Hoje por Pessoa
 
-| Pessoa         | Tarefas | Horas | Status |
-| -------------- | ------- | ----- | ------ |
-| [[Equipa/Pessoas/António]]    |         |       |        |
-| [[Equipa/Pessoas/Afonso]]     |         |       |        |
-| [[Equipa/Pessoas/Diogo]]      |         |       |        |
-| [[Equipa/Pessoas/Tiago]]      |         |       |        |
-| [[Equipa/Pessoas/Yuri]]       |         |       |        |
-| [[Equipa/Pessoas/Abel]]       |         |       |        |
-| jose Magalhaes |         |       |        |
-| Antônio rocha  |         |       |        |
+| Pessoa                     | Tarefas | Horas | Status |
+| -------------------------- | ------- | ----- | ------ |
+| [[Equipa/Pessoas/António]] |         |       |        |
+| [[Equipa/Pessoas/Afonso]]  |         |       |        |
+| [[Equipa/Pessoas/Diogo]]   |         |       |        |
+| [[Equipa/Pessoas/Tiago]]   |         |       |        |
+| [[Equipa/Pessoas/Yuri]]    |         |       |        |
+| [[Equipa/Pessoas/Abel]]    |         |       |        |
+|                            |         |       |        |
+|                            |         |       |        |
 
 ---
 

@@ -4,14 +4,14 @@ nome: {{name}}
 cargo: {{role}}
 estado: Ativo
 ---
-# 👤 {{name}}
+# 👤 {{José Magalhães }}
 
 ## Contacto
 - **Email**: 
 - **Telefone**: 
 
 ## Funções
-- {{role}}
+- {{canalizador experiente}}
 
 ## Observações
 - 

@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a96e3199b93df362",
+        "id": "239894ea8afe2c65",
         "type": "tabs",
         "children": [
           {
-            "id": "9092b7f41da7afa0",
+            "id": "5d4e18825a0cfc6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EQUIPA/Equipa hoje.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Equipa hoje"
-            }
-          },
-          {
-            "id": "9751eac798dd9434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-12 Conexões e Válvulas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -234,14 +216,26 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9092b7f41da7afa0",
+  "active": "8de64f947283968b",
   "lastOpenFiles": [
+    "EQUIPA/Pessoas/Diogo.md",
+    "EQUIPA/Pessoas/José Magalhães.md",
+    "Templates/Template - Pessoa.md",
+    "Templates/Template - Atribuição de Tarefas.md",
     "Dashboard.md",
-    "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
-    "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
-    "Material/Encomendas/2026-06-15 Tubos PPR 25mm.md",
-    "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
     "EQUIPA/Equipa hoje.md",
+    "EQUIPA/Pessoas/Yuri.md",
+    "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
+    "Scripts/new_person.sh",
+    "Templates/Template - Tarefa de Trabalho.md",
+    "Templates/Template - Relatório 20-20.md",
+    "Templates/Template - Obra Geral.md",
+    "Templates/Template - Diário de Obra.md",
+    "EQUIPA/Pessoas/António.md",
+    "EQUIPA/Pessoas/Afonso.md",
+    "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
+    "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
+    "Material/Encomendas/2026-06-15 Tubos PPR 25mm.md",
     "EQUIPA",
     "Obras/Next Yard 2/Next Yard 2 - Geral.md",
     "obra ouro valley/Ouro Valley - Lote 5.md",
@@ -252,17 +246,6 @@
     "2026-05-26.md",
     "obra ouro valley/Ouro Valley - Geral.md",
     "obra ouro valley/Ouro Valley - Lote 2.md",
-    "textgenerator/templates/dalle/quaBokeh.md",
-    "textgenerator/templates/dalle/artStock.md",
-    "textgenerator/templates/dalle/ligStudio.md",
-    "textgenerator/templates/dalle/artVanGogh.md",
-    "textgenerator/templates/dalle/artVaporwave.md",
-    "textgenerator/templates/dalle/artPixel.md",
-    "textgenerator/templates/dalle/sitNature.md",
-    "textgenerator/templates/dalle/artGraffiti.md",
-    "textgenerator/templates/dalle/qua35mm.md",
-    "textgenerator/templates/dalle/artCartoon.md",
-    "textgenerator/templates/dalle/quaTiltShift.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates",
     "textgenerator",
@@ -271,7 +254,6 @@
     "templates",
     "next yard 2",
     "Sem título.canvas",
-    "obra ouro valley/máquinas e ferramentas",
-    "obra ouro valley/lote 3"
+    "obra ouro valley/máquinas e ferramentas"
   ]
 }
