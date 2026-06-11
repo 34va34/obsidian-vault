@@ -76,6 +76,7 @@ morada: Ouro Valley — Lote 5
 
 ## ⚠️ Problemas / Ocorrências
 - falta joelhos ppr 32
+- falta encomendar pvc, tubos e acessórios 
 
 ## 📝 Notas
 - [[Ouro Valley - Geral]]

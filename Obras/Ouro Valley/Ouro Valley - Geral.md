@@ -15,14 +15,13 @@ data_inicio: 2026-05-11
 
 ## 📊 Resumo dos Lotes
 
-| Lote | Total Casas | T1 | T2 | T3 | Estado |
-|---|---|---|---|---|---|
-| [[Ouro Valley - Lote 2]] | 80 | 10 | 42 | 28 | 🔵 Em andamento |
-| Lote 3 | — | — | — | — | ⚪ Por iniciar |
-| [[Ouro Valley - Lote 4]] | 60 | 8 | 42 | 10 | 🔵 Em andamento |
-| [[Ouro Valley - Lote 5]] | 24 | — | 12 | 12 | 🔵 Em andamento |
-| [[Ouro Valley - Lote 6]] | 55 | 13 | 42 | — | 🟢 Mais avançado |
-| **TOTAL** | **219** | **31** | **138** | **50** | |
+| Lote                     | Total Casas | T1     | T2      | T3     | Estado           |
+| ------------------------ | ----------- | ------ | ------- | ------ | ---------------- |
+| [[Ouro Valley - Lote 2]] | 80          | 10     | 42      | 28     | 🔵 Em andamento  |
+| [[Ouro Valley - Lote 4]] | 60          | 8      | 42      | 10     | 🔵 Em andamento  |
+| [[Ouro Valley - Lote 5]] | 24          | —      | 12      | 12     | 🔵 Em andamento  |
+| [[Ouro Valley - Lote 6]] | 55          | 13     | 42      | —      | 🟢 Mais avançado |
+| **TOTAL**                | **219**     | **31** | **138** | **50** |                  |
 
 ---
 
