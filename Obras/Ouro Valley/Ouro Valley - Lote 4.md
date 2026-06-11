@@ -38,6 +38,10 @@ morada: Ouro Valley — Lote 4
 - [ ] fazer transição de pex para ppr🔺 
 - [x] iniciar prumadas casa de banho 🔼 ✅ 2026-06-09
 - [ ] fazer arranhas piso 1 e 2
+- [ ] concluir piso 1
+- [ ] arranhas piso 1
+- [ ] aranhas piso 2
+- [ ] iniciar pluviais
 - [ ] 
 
 ---

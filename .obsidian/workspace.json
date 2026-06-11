@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Next Yard 2/Next Yard 2 - Geral.md",
+                "file": "Obras/Ouro Valley/Ouro Valley - Lote 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Yard 2 - Geral"
+              "title": "Ouro Valley - Lote 2"
             }
           }
         ]
@@ -181,8 +181,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,15 +223,18 @@
   },
   "active": "9962169c7a3e8cf4",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "Obras/Ouro Valley/Ouro Valley - Lote 6.md",
+    "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
     "Sem título.md",
+    "copilot/copilot-conversations/como_esta_o_lote_6@20260611_114918.md",
+    "Obras/Next Yard 2/Next Yard 2 - Geral.md",
+    "Dashboard.md",
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260522_120611.md",
     "textgenerator/templates/dalle/art3D.md",
     "Excalidraw/Drawing 2026-06-11 10.05.19.excalidraw.md",
     "Excalidraw",
     "2026-06-11.md",
     "copilot/copilot-conversations/ola@20260521_101125.md",
-    "Obras/Next Yard 2/Next Yard 2 - Geral.md",
     "EQUIPA/Pessoas/Moisés kalandula.md",
     "EQUIPA/Pessoas/José Magalhães .md",
     "EQUIPA/Pessoas/José Magalhães.md",
@@ -247,9 +250,6 @@
     "Templates/Template - Obra Geral.md",
     "EQUIPA/Pessoas/Afonso.md",
     "EQUIPA/Pessoas/António.md",
-    "EQUIPA/Pessoas/Abel.md",
-    "EQUIPA/Pessoas/abel mande.md",
-    "EQUIPA/Equipa hoje.md",
     "Obras/Next yard 3/Lotes",
     "Obras/Next yard 3",
     "Scripts/new_person.sh",

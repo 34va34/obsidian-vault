@@ -34,7 +34,7 @@ morada: Ouro Valley — Lote 2
 ---
 
 ## 🔧 Trabalhos a Realizar
-- [ ] 
+- [ ] colocar ralos no chão (ralos de ferro)
 - [ ] 
 
 ---

@@ -36,20 +36,23 @@ data_inicio: 2026-05-11
 ---
 
 ## 🔧 Trabalhos a Realizar
-- [ ] Ligar águas cozinha
-- [ ] concluir prumadas
-- [ ] iniciar esgotos finos
+- [ ] Ligar águas cozinha e esgotos finos🛫 2026-06-11 
+- [ ] concluir prumadas 🛫 2026-06-11 ⏳ 2026-06-12 
+- [x] iniciar esgotos finos ✅ 2026-06-11
 - [x] iniciar prumadas cozinha e wc serviço ✅ 2026-06-09
-- [ ] testar wc piso 3
+- [x] testar wc piso 3 ✅ 2026-06-11
 - [ ] ligação as caixas piso 2📅 2026-06-05 
-- [ ] testar piso 3⏳ 2026-06-06 
+- [x] testar piso 3 ⏳ 2026-06-06 ✅ 2026-06-11
+- [ ] fazer prumadas da cozinhas🔼 
+- [ ] colocar ralos no piso superior para desviar água da chuva
+- [ ] 
 
 ---
 
 ## ✅ Trabalhos Concluídos
 - [x] Testar esgotos WC piso 2 ✅ 2026-05-12
 - [x] Montar válvula geral ✅
-- [ ] aguas no tetos dos corredores
+- [x] aguas no tetos dos corredores ✅ 2026-06-11
 - [ ] 
 
 ---
