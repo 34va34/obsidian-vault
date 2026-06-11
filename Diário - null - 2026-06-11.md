@@ -13,16 +13,22 @@ responsavel: vânio Andrade
 - **Tempo**: 
 
 ## 👷 Equipa Presente
-- 
+- Diogo 
+- Abel
+- Antônio 
+- Tiago 
+- Moisés 
 
 ## 📝 Atividades do Dia
-- 
+- prumadas lote 4
+- esgotos finos lote 6 e casas de banho do fundo piso 3 lote 6
+- desvio de tubo de 90
 
 ## 🚧 Problemas/Ocorrências
 - 
 
 ## ✅ Tarefas Concluídas
-- 
+- desvio de tubo de 90
 
 ## 🔜 Próximas Atividades
 - 
