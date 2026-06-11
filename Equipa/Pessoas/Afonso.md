@@ -1,18 +1,41 @@
 ---
 tags: pessoa, equipa
 nome: Afonso
-cargo: Operário
+cargo: 
 estado: Ativo
 ---
 # 👤 Afonso
 
-## Contacto
-- **Email**: afonso@exemplo.com
-- **Telefone**: +351 912 345 678
+---
 
-## Funções
-- Operário geral
-- Apoio em instalações idraulicas ppr
+## 📜 HISTÓRICO AUTOMÁTICO
 
-## Observações
-- Experiência em canalização.
+### 📅 Presenças Recentes
+```dataview
+TABLE data as "Data", obra as "Obra", horas_extras as "Horas Extras", sabado as "Sábado"
+FROM "Equipa/Presenças"
+WHERE contains(funcionario, this.file.link)
+SORT data DESC
+LIMIT 10
+```
+
+### 📝 Tarefas Atribuídas
+```dataview
+TABLE status as "Status", due as "Data Limite", project as "Obra"
+FROM "Tarefa"
+WHERE contains(responsavel, this.file.link)
+SORT status ASC, due ASC
+```
+
+### 💬 Menções em Diários
+```dataview
+LIST rows.file.link
+FROM "Diário/Diários Diários"
+WHERE contains(file.outlinks, this.file.link) OR contains(file.text, this.nome)
+GROUP BY file.link
+LIMIT 5
+```
+
+---
+## 📝 Notas e Observações
+- 
