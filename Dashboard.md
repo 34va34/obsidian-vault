@@ -170,7 +170,7 @@ LIMIT 5
 | 🌅 **Início de Dia (Presenças + Tarefas)** | [[Templates/Ação - Início de Dia]] |
 | 🚀 **Nova Obra** | [[Templates/Ação - Nova Obra]] |
 | 👤 **Nova Pessoa** | [[Templates/Ação - Nova Pessoa]] |
-| ✅ **Registar Presenças** | [[Templates/Ação - Registar Presenças]] |
+| 📅 **Mapa de Presenças Semanal** | [[Templates/Ação - Novo Mapa Semanal]] |
 | 📅 **Novo Diário** | [[Templates/Ação - Novo Diário]] |
 | 📦 **Nova Encomenda** | [[Templates/Ação - Nova Encomenda]] |
 | 📝 **Nova Tarefa** | [[Templates/Ação - Nova Tarefa]] |
