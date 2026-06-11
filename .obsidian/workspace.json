@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca03241ad3556190",
+        "id": "cfe0b7af6ba51666",
         "type": "tabs",
         "children": [
           {
-            "id": "9962169c7a3e8cf4",
+            "id": "ed1a62c34b2392da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-06-11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-06-11"
+              "title": "Nova aba"
             }
           }
         ]
@@ -156,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Bem-vindo"
+              "title": "Índice"
             }
           },
           {
@@ -196,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -221,8 +216,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9962169c7a3e8cf4",
+  "active": "8de64f947283968b",
   "lastOpenFiles": [
+    "2026-06-11.md",
     "Obras/Ouro Valley/Ouro Valley - Geral.md",
     "Sem título.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 5.md",
@@ -236,7 +232,6 @@
     "textgenerator/templates/dalle/art3D.md",
     "Excalidraw/Drawing 2026-06-11 10.05.19.excalidraw.md",
     "Excalidraw",
-    "2026-06-11.md",
     "copilot/copilot-conversations/ola@20260521_101125.md",
     "EQUIPA/Pessoas/Moisés kalandula.md",
     "EQUIPA/Pessoas/José Magalhães .md",
