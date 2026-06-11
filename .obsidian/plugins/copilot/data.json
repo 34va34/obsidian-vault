@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "manus-1.6|openrouterai",
+  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -341,6 +341,12 @@
     {
       "name": "claude-opus-4-8",
       "provider": "anthropic",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "~google/gemini-flash-latest",
+      "provider": "openrouterai",
       "enabled": true,
       "apiKey": ""
     }
