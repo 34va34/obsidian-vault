@@ -12,8 +12,8 @@ ligar caixas no piso 2 lote 6
 
 ## Detalhes
 - **Data de Criação**: 2026-06-11
-- **Data Limite**: 2026
-- **Prioridade**: Média
+- **Data Limite**: 2026-06-12
+- **Prioridade**: urgente 
 - **Status**: Pendente
 
 ## Obra/Projeto
@@ -21,6 +21,6 @@ ligar caixas no piso 2 lote 6
 - **Lote**: 
 
 ## Responsável
-- **Pessoa**: 
+- **Pessoa**: António 
 
 ## Notas
