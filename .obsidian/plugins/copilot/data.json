@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultModelKey": "manus-1.6|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -334,6 +334,12 @@
     },
     {
       "name": "claude-haiku-4-5-20251001",
+      "provider": "anthropic",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-opus-4-8",
       "provider": "anthropic",
       "enabled": true,
       "apiKey": ""
