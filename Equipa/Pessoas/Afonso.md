@@ -12,7 +12,7 @@ estado: Ativo
 
 ## Funções
 - Operário geral
-- Apoio em instalações
+- Apoio em instalações idraulicas ppr
 
 ## Observações
 - Experiência em canalização.

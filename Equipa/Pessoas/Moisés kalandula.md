@@ -1,5 +1,7 @@
 ---
-tags: pessoa, equipa
+tags:
+  - pessoa, equipa
+  - "#ourovalley"
 nome: Moisés kalandula
 cargo: canalizador
 estado: Ativo

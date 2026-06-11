@@ -1,9 +1,15 @@
 ---
-tags: diario, obra
-data: {{date}}
-obra: 
-lote: 
-responsavel: 
+tags: pessoa, equipa
+data:
+  "{ date }":
+obra:
+lote:
+responsavel:
+nome:
+  "{ name }":
+cargo:
+  "{ role }":
+estado: Ativo
 ---
 # 📅 Diário de Obra — {{date}}
 
@@ -12,7 +18,18 @@ responsavel:
 - **Tempo**: 
 
 ## 👷 Equipa Presente
+-# 👤 {{António }}
+
+## Contacto
+- **Email**: 
+- **Telefone**: 
+
+## Funções
+- {{canalizador experiente}}
+
+## Observações
 - 
+
 
 ## 📝 Atividades do Dia
 - 

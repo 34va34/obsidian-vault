@@ -24,11 +24,11 @@ limit 5
 
 ### Ouro Valley — Visão Geral
 
-| Lote | Progresso | Responsável | Status |
-|------|-----------|-------------|--------|
-| [[Obras/Ouro Valley/Ouro Valley - Lote 6]] | 70% | [[Equipa/Pessoas/Diogo]] | 🟢 Avançado |
-| [[Obras/Ouro Valley/Ouro Valley - Lote 4]] | 40% | | 🔵 Em andamento |
-| [[Obras/Ouro Valley/Ouro Valley - Lote 2]] | 20% | | 🟡 Iniciando |
+| Lote                                       | Progresso | Responsável              | Status          |
+| ------------------------------------------ | --------- | ------------------------ | --------------- |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 6]] | 70%       | [[Equipa/Pessoas/Diogo]] | 🟢 Avançado     |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 4]] | 40%       |                          | 🔵 Em andamento |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 2]] | 20%       |                          | 🟡 Iniciando    |
 
 ---
 
