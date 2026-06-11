@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "239894ea8afe2c65",
+        "id": "1af688b0b14ac235",
         "type": "tabs",
         "children": [
           {
-            "id": "5d4e18825a0cfc6c",
+            "id": "32aea54d45cdba3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Ação - Nova Pessoa.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Ação - Nova Pessoa"
             }
           }
         ]
@@ -216,23 +220,26 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8de64f947283968b",
+  "active": "32aea54d45cdba3f",
   "lastOpenFiles": [
+    "Templates/Ação - Nova Obra.md",
+    "Templates/Template - Pessoa.md",
+    "Templates/Template - Obra Geral.md",
+    "Templates/Template - Atribuição de Tarefas.md",
+    "Templates/Ação - Nova Pessoa.md",
     "EQUIPA/Pessoas/Diogo.md",
     "EQUIPA/Pessoas/José Magalhães.md",
-    "Templates/Template - Pessoa.md",
-    "Templates/Template - Atribuição de Tarefas.md",
+    "EQUIPA/Pessoas/Afonso.md",
     "Dashboard.md",
+    "EQUIPA/Pessoas/Abel.md",
     "EQUIPA/Equipa hoje.md",
     "EQUIPA/Pessoas/Yuri.md",
     "Material/Encomendas/2026-06-12 Conexões e Válvulas.md",
     "Scripts/new_person.sh",
     "Templates/Template - Tarefa de Trabalho.md",
     "Templates/Template - Relatório 20-20.md",
-    "Templates/Template - Obra Geral.md",
     "Templates/Template - Diário de Obra.md",
     "EQUIPA/Pessoas/António.md",
-    "EQUIPA/Pessoas/Afonso.md",
     "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
     "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
     "Material/Encomendas/2026-06-15 Tubos PPR 25mm.md",
@@ -243,9 +250,6 @@
     "António.md",
     "material em falta para ouro valley.md",
     "Template - maquinas e ferramentas.md",
-    "2026-05-26.md",
-    "obra ouro valley/Ouro Valley - Geral.md",
-    "obra ouro valley/Ouro Valley - Lote 2.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates",
     "textgenerator",

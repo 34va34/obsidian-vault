@@ -1,6 +1,6 @@
 <%*
-const name = await tp.system.prompt("Nome da Pessoa");
-const role = await tp.system.prompt("Cargo ou Função");
+const name = await tp.system.prompt("José Magalhães");
+const role = await tp.system.prompt("canalizador");
 
 if (name && role) {
     const folder = "Equipa/Pessoas";
@@ -35,3 +35,4 @@ estado: Ativo
     new Notice("Criação cancelada: Nome ou Cargo em falta.", 5000);
 }
 %>
+
