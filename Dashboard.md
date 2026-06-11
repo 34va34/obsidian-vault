@@ -167,6 +167,7 @@ LIMIT 5
 |------|------|
 | 🚀 **Nova Obra** | [[Templates/Ação - Nova Obra]] |
 | 👤 **Nova Pessoa** | [[Templates/Ação - Nova Pessoa]] |
+| ✅ **Registar Presenças** | [[Templates/Ação - Registar Presenças]] |
 | 📅 **Novo Diário** | [[Templates/Ação - Novo Diário]] |
 | 📦 **Nova Encomenda** | [[Templates/Ação - Nova Encomenda]] |
 | 📝 **Nova Tarefa** | [[Templates/Ação - Nova Tarefa]] |
