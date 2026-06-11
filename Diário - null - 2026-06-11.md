@@ -1,0 +1,38 @@
+---
+tags: diario, obra
+data: 2026-06-11
+obra: null
+lote: 
+responsavel: 
+---
+concluir lote 6 de prumadas 
+e colocar redução no tubo que falta no 3 piso lote 6 
+colocar te de 1100x90 no piso 2 perto das caixas, para fazer sanita
+# 📅 Diário de Obra — null  — 2026-06-11
+
+## ☀️ Condições Climáticas
+- **Temperatura**: 
+- **Tempo**: 
+
+## 👷 Equipa Presente
+- 
+
+## 📝 Atividades do Dia
+- 
+
+## 🚧 Problemas/Ocorrências
+- 
+
+## ✅ Tarefas Concluídas
+- 
+
+## 🔜 Próximas Atividades
+- 
+
+## 📸 Fotos/Anexos
+- 
+
+## ✍️ Observações Gerais
+concluir lote 6 de prumadas 
+e colocar redução no tubo que falta no 3 piso lote 6 
+colocar te de 1100x90 no piso 2 perto das caixas, para fazer sanita

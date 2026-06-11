@@ -1,7 +1,7 @@
 ---
 tags: pessoa, equipa
 nome: Diogo
-cargo: Encarregado de Obra
+cargo: canalizador
 estado: Ativo
 ---
 # 👤 Diogo
