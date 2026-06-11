@@ -4,6 +4,8 @@ tags: dashboard, home
 
 # 🏗️ DASHBOARD — Gestão de Obras
 
+[📊 Ver Relatórios Automáticos (Custos e Horas)]([[Relatórios Automáticos]])
+
 > Última atualização: Hoje  
 > Equipa Ativa: 6 pessoas
 
