@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Ouro Valley/Ouro Valley - Geral.md",
+                "file": "2026-06-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ouro Valley - Geral"
+              "title": "2026-06-11"
             }
           }
         ]
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +223,12 @@
   },
   "active": "9962169c7a3e8cf4",
   "lastOpenFiles": [
+    "Obras/Ouro Valley/Ouro Valley - Geral.md",
+    "Sem título.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 5.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 2.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 6.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
-    "Sem título.md",
     "copilot/copilot-conversations/como_esta_o_lote_6@20260611_114918.md",
     "Obras/Next Yard 2/Next Yard 2 - Geral.md",
     "Dashboard.md",
@@ -250,7 +250,6 @@
     "Templates/Ação - Nova Obra.md",
     "Templates/Ação - Nova Pessoa.md",
     "Templates/Template - Pessoa.md",
-    "Templates/Template - Obra Geral.md",
     "Obras/Next yard 3/Lotes",
     "Obras/Next yard 3",
     "Scripts/new_person.sh",
