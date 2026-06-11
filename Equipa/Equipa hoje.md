@@ -1,4 +1,3 @@
-TABLE nome as "Pessoa", cargo as "Cargo", estado as "Estado"
+TABLE cargo as "Função", estado as "Status"
 FROM "Equipa/Pessoas"
 WHERE estado = "Ativo"
-SORT file.name ASC
