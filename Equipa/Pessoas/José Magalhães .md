@@ -1,7 +1,9 @@
 ---
-tags: pessoa, equipa
-nome: José Magalhães 
-cargo: 
+tags:
+  - pessoa, equipa
+  - "#nextyard"
+nome: José Magalhães
+cargo:
 estado: Ativo
 ---
 # 👤 José Magalhães 

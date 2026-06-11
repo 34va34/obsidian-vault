@@ -1,13 +1,11 @@
 ---
 tags: diario, obra
 data: 2026-06-11
-obra: null
-lote: 
-responsavel: 
+obra:
+lote:
+responsavel: vânio Andrade
 ---
-concluir lote 6 de prumadas 
-e colocar redução no tubo que falta no 3 piso lote 6 
-colocar te de 1100x90 no piso 2 perto das caixas, para fazer sanita
+
 # 📅 Diário de Obra — null  — 2026-06-11
 
 ## ☀️ Condições Climáticas

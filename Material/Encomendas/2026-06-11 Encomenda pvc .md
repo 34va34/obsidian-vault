@@ -31,7 +31,8 @@ responsavel_recepcao:
 | uniões dn 75  |            |         |             |             |            |
 | forq dn 90    |            |         |             |             |            |
 | unioes dn 90  |            |         |             |             |            |
-| diogo         |            |         |             |             |            |
+|               |            |         |             |             |            |
+|               |            |         |             |             |            |
 
 ## 💰 Valores
 - **Subtotal**: 
