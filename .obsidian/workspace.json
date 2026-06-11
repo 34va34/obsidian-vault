@@ -232,15 +232,18 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "9a34c40f1fff72f4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-11 10.05.19.excalidraw.md",
+    "Dashboard.md",
+    "Excalidraw",
     "2026-06-11.md",
     "copilot/copilot-conversations/ola@20260521_101125.md",
     "Obras/Next Yard 2/Next Yard 2 - Geral.md",
-    "Dashboard.md",
     "EQUIPA/Pessoas/Moisés kalandula.md",
     "EQUIPA/Pessoas/José Magalhães .md",
     "EQUIPA/Pessoas/José Magalhães.md",
@@ -262,7 +265,6 @@
     "Sem título.md",
     "EQUIPA/Pessoas/dicor mendes.md",
     "EQUIPA/Pessoas/António rocha.md",
-    "Obras/Ouro Valley/Ouro Valley - Lote 6.md",
     "Obras/Next yard 3/Lotes",
     "Obras/Next yard 3",
     "Scripts/new_person.sh",
@@ -272,7 +274,6 @@
     "textgenerator",
     "Sem título.base",
     "Clippings",
-    "templates",
     "Sem título.canvas"
   ]
 }
