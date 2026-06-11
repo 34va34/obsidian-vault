@@ -161,17 +161,16 @@ LIMIT 5
 
 ---
 
-## 🎯 ATALHOS RÁPIDOS
+## 🎯 ATALHOS RÁPIDOS (AÇÕES INTERATIVAS)
 
 | Ação | Link |
 |------|------|
-| ➕ Nova Tarefa | [[Templates/Template - Tarefa de Trabalho]] |
-| 📦 Nova Encomenda | [[Templates/Template - Encomenda de Material]] |
-| 👥 Atribuir Tarefas | [[Templates/Template - Atribuição de Tarefas]] |
-| 📅 Novo Diário | [[Templates/Template - Diário de Obra]] |
-| 📊 Novo Relatório | [[Templates/Template - Relatório 20-20]] |
-| 🚀 Criar Nova Obra | [[Templates/Ação - Nova Obra]] |
-| 👤 Adicionar Pessoa | [[Templates/Ação - Nova Pessoa]] |
+| 🚀 **Nova Obra** | [[Templates/Ação - Nova Obra]] |
+| 👤 **Nova Pessoa** | [[Templates/Ação - Nova Pessoa]] |
+| 📅 **Novo Diário** | [[Templates/Ação - Novo Diário]] |
+| 📦 **Nova Encomenda** | [[Templates/Ação - Nova Encomenda]] |
+| 📝 **Nova Tarefa** | [[Templates/Ação - Nova Tarefa]] |
+| 📊 **Novo Relatório** | [[Templates/Ação - Novo Relatório]] |
 
 ---
 
