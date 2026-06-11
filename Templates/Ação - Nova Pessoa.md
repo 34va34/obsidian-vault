@@ -1,6 +1,6 @@
 <%*
-const name = await tp.system.prompt("José Magalhães");
-const role = await tp.system.prompt("canalizador");
+const name = await tp.system.prompt("nome da pessoa");
+const role = await tp.system.prompt("categoria");
 
 if (name && role) {
     const folder = "Equipa/Pessoas";
