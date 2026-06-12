@@ -89,7 +89,12 @@
     "ImageExtractor": true
   },
   "displayErrorInEditor": false,
-  "LLMProviderProfiles": {},
+  "LLMProviderProfiles": {
+    "Google GenerativeAI (Langchain) 1": {
+      "extends": "Google GenerativeAI (Langchain)",
+      "name": "Google GenerativeAI 1"
+    }
+  },
   "LLMProviderOptions": {
     "whisper": {
       "base_path": "https://api.openai.com/v1",
@@ -125,6 +130,11 @@
       "api_key": ""
     },
     "Google GenerativeAI (Langchain)": {
+      "model": "gemini-2.0-flash",
+      "enableThinking": false,
+      "api_key": ""
+    },
+    "Google GenerativeAI (Langchain) 1": {
       "model": "gemini-2.0-flash",
       "enableThinking": false,
       "api_key": ""
