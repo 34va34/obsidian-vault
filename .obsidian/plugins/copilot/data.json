@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultModelKey": "liquid/lfm-2.5-1.2b-instruct:free|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -340,6 +340,12 @@
     {
       "name": "gemini-3.1-flash-image",
       "provider": "google",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "liquid/lfm-2.5-1.2b-instruct:free",
+      "provider": "openrouterai",
       "enabled": true,
       "apiKey": ""
     }

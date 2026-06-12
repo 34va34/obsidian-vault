@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Ouro Valley - Lote 5"
             }
+          },
+          {
+            "id": "dd07312979ce2d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lista de trabalhos feitos na obra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lista de trabalhos feitos na obra"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,8 +250,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2fb992d7894a45f9",
+  "active": "9b3d2e75c0509b5e",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Lista_Trabalhos@20260612_125031.md",
+    "Obras/Ouro Valley/Ouro Valley - Lote 5.md",
+    "lista de trabalhos feitos na obra.md",
     "EQUIPA/Pessoas/Moisés kalandula.md",
     "EQUIPA/Pessoas/José Magalhães .md",
     "EQUIPA/Pessoas/Diogo.md",
@@ -255,15 +272,12 @@
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
     "Tarefa - ligar caixas no piso 2 lote 6.md",
     "Sem título 1.md",
-    "Sem título.md",
     "Material/Encomendas/2026-06-10 Tubos PPR 32mm.md",
     "Templates/Template - Mapa Semanal.md",
     "Dashboard.md",
     "Templates/Ação - Novo Mapa Semanal.md",
     "[[Relatórios.md",
     "2026-06-11.md",
-    "Relatórios Automáticos.md",
-    "EQUIPA/Pessoas/jose maga.md",
     "Scripts/daily_maintenance.sh",
     "Excalidraw",
     "Obras/Next yard 3/Lotes",
