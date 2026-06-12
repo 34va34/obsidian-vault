@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ação - Início de Dia.md",
+                "file": "EQUIPA/Equipa hoje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ação - Início de Dia"
+              "title": "Equipa hoje"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,6 +223,21 @@
   },
   "active": "8f198c3b3cc43fec",
   "lastOpenFiles": [
+    "EQUIPA/Pessoas/Tiago.md",
+    "EQUIPA/Pessoas/Moisés kalandula.md",
+    "EQUIPA/Pessoas/José Magalhães .md",
+    "EQUIPA/Pessoas/Yuri.md",
+    "EQUIPA/Pessoas/dicor mendes.md",
+    "EQUIPA/Pessoas/Diogo.md",
+    "EQUIPA/Pessoas/António rocha.md",
+    "EQUIPA/Pessoas/António.md",
+    "EQUIPA/Pessoas/Afonso.md",
+    "EQUIPA/Pessoas/abel mande.md",
+    "EQUIPA/Pessoas/Abel.md",
+    "Dashboard.md",
+    "Templates/Template - Pessoa.md",
+    "Templates/Template - Registo de Presenças.md",
+    "Templates/Ação - Início de Dia.md",
     "Relatórios Automáticos.md",
     "Tarefa - ligar caixas no piso 2 lote 6.md",
     "Sem título 1.md",
@@ -233,23 +247,8 @@
     "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
     "lista de trabalhos feitos na obra.md",
     "copilot/copilot-conversations/Lista_Trabalhos@20260612_125031.md",
-    "EQUIPA/Pessoas/Moisés kalandula.md",
-    "EQUIPA/Pessoas/José Magalhães .md",
-    "EQUIPA/Pessoas/Diogo.md",
-    "EQUIPA/Pessoas/dicor mendes.md",
-    "EQUIPA/Pessoas/António rocha.md",
-    "EQUIPA/Pessoas/António.md",
-    "EQUIPA/Pessoas/Afonso.md",
-    "EQUIPA/Pessoas/abel mande.md",
     "EQUIPA/Equipa hoje.md",
     "Templates/Ação - Nova Encomenda.md",
-    "Templates/Ação - Início de Dia.md",
-    "Material/Encomendas/2026-06-12 Encomenda pvc.md",
-    "Material/Encomendas/2026-06-11 Encomenda pvc .md",
-    "Diário - null - 2026-06-11.md",
-    "Diário - ouro valley - lote 6 - 2026-06-11.md",
-    "Material/Encomendas/2026-06-10 Tubos PPR 32mm.md",
-    "Templates/Template - Mapa Semanal.md",
     "Scripts/daily_maintenance.sh",
     "Excalidraw",
     "Obras/Next yard 3/Lotes",

@@ -3,7 +3,7 @@ tags:
   - pessoa, equipa
   - "#nextyard"
 nome: José Magalhães
-cargo:
+cargo: canalizador
 estado: Ativo
 ---
 # 👤 José Magalhães 

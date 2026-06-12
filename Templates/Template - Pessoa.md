@@ -1,13 +1,16 @@
 ---
 tags: pessoa, equipa
-nome: {{name}}
-cargo: {{role}}
+nome:
+  "{ name }":
+cargo:
+  "{ role }":
 estado: Ativo
+obra: next yard 2
 ---
-# 👤 {{name}}
+# 👤 {{jose maga 02}}
 
 ## 📋 Informações Gerais
-- **Cargo**: {{role}}
+- **Cargo**: {{canalizador}}
 - **Contacto**: 
 - **Estado**: Ativo
 
