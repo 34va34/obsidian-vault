@@ -1,5 +1,5 @@
 <%*
-const obra = await tp.system.prompt("Nome da Obra");
+const obra = await tp.system.prompt("ouro valley");
 if (!obra) {
     new Notice("Nome da Obra não fornecido. Script abortado.", 5000);
     return;

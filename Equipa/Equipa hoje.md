@@ -17,10 +17,10 @@ estado: Ativo
 
 | Funcionário                | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 | -------------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[Equipa/Pessoas/António]] | [sim ]   | 8             | 1            | [ ]     |             |
-| [[Equipa/Pessoas/Afonso]]  | [nao]    | 0             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Diogo]]   | [ sim]   | 8             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Tiago]]   | [sim]    | 8             | 0            | [ ]     |             |
+| [[Equipa/Pessoas/António]] | [ativo]  | 8             | 1            | [ ]     |             |
+| [[Equipa/Pessoas/Afonso]]  | [ativo]  | 0             | 0            | [ ]     |             |
+| [[Equipa/Pessoas/Diogo]]   | [ ativo] | 8             | 0            | [ ]     |             |
+| [[Equipa/Pessoas/Tiago]]   | [ativo ] | 8             | 0            | [ ]     |             |
 | [[Equipa/Pessoas/Yuri]]    | [ nao]   | 0             | 0            | [ ]     |             |
 |                            |          |               |              |         |             |
 
