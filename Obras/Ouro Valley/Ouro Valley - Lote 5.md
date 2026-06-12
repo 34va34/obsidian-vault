@@ -6,13 +6,13 @@ morada: Ouro Valley — Lote 5
 
 # 🏗️ Ouro Valley — Lote 5
 
-> **24 casas** | T2×12 · T3×12
+> **24 casas** | T2×12 · T3×10
 
 | Tipologia | Nº Casas |
-|---|---|
-| T2 | 12 |
-| T3 | 12 |
-| **Total** | **24** |
+| --------- | -------- |
+| T2        | 12       |
+| T3        | 12       |
+| **Total** | 24       |
 
 ---
 
