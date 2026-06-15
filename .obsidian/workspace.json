@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relatórios Automáticos.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relatórios Automáticos"
+              "title": "Dashboard"
             }
           }
         ]
@@ -221,15 +221,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8de64f947283968b",
+  "active": "6bc02e83a9bd9be7",
   "lastOpenFiles": [
+    "Relatórios Automáticos.md",
     "[[Relatórios.md",
     "Dashboard.md",
     "Diário - null - 2026-06-11.md",
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
     "lista de trabalhos feitos na obra.md",
     "presencas hoje.md",
-    "Relatórios Automáticos.md",
     "EQUIPA/Pessoas/Tiago.md",
     "Sem título.md",
     "EQUIPA/Pessoas/José Magalhães .md",
