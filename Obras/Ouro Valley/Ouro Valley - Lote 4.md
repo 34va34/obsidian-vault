@@ -42,6 +42,11 @@ morada: Ouro Valley — Lote 4
 - [ ] arranhas piso 1
 - [ ] aranhas piso 2
 - [ ] iniciar pluviais
+- [ ] faltar soldar unios de ppr piso 2
+- [ ] colocar as curvas de ppr a entrar nas casas piso 2
+- [ ] ligar wc fora do sitio piso 2
+- [ ] partir chão 
+- [ ] fazer transicao de pex para ppr piso 2 de 9 caas
 - [ ] 
 
 ---
