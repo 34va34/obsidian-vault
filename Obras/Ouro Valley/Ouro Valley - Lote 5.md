@@ -28,13 +28,14 @@ morada: Ouro Valley — Lote 5
 ---
 
 ## 👷 Equipa na Obra
-- 
+- [[Yuri]]
 
 ---
 
 ## 🔧 Trabalhos a Realizar
 - [ ] tubos de ppr no teto corredor🔽 🔁 ➕ 2026-06-05 
 - [ ] ligação de esgotos🔼 
+- [ ] colocação de abraçadeiras piso 2 ➕ 2026-06-22 
 
 ---
 

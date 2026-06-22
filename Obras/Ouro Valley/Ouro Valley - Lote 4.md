@@ -29,6 +29,8 @@ morada: Ouro Valley — Lote 4
 ---
 
 ## 👷 Equipa na Obra
+- [[Diogo]]
+- [[Abel]]
 - 
 
 ---

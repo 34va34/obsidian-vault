@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: dicor mendes
-cargo: 
-estado: Ativo
+cargo:
+estado: inativo
 ---
 # 👤 dicor mendes
 

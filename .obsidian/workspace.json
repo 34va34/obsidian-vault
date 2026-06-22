@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ouro Valley - Lote 4"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "5fbc903e491a20b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diário - ouro valley - lote 6 - 2026-06-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diário - ouro valley - lote 6 - 2026-06-11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"responsavel\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +89,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Encomendas/2026-06-10 Tubos PPR 20mm.md",
+                "file": "Diário - ouro valley - lote 6 - 2026-06-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de 2026-06-10 Tubos PPR 20mm"
+              "title": "Índice de Diário - ouro valley - lote 6 - 2026-06-11"
             }
           },
           {
@@ -196,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,11 +237,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6bc02e83a9bd9be7",
+  "active": "5fbc903e491a20b7",
   "lastOpenFiles": [
+    "EQUIPA/Pessoas/dicor mendes.md",
+    "venacio.md",
+    "domingos felix.md",
+    "Sem título.md",
+    "Dashboard.md",
+    "Obras/Ouro Valley/Ouro Valley - Lote 6.md",
+    "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
+    "Obras/Ouro Valley/Ouro Valley - Lote 5.md",
     "Relatórios Automáticos.md",
     "Diário - null - 2026-06-11.md",
-    "Dashboard.md",
     "[[Relatórios.md",
     "Templates/Template - Tarefa de Trabalho.md",
     "EQUIPA/Equipa hoje.md",
@@ -235,7 +258,6 @@
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
     "presencas hoje.md",
     "EQUIPA/Pessoas/Tiago.md",
-    "Sem título.md",
     "EQUIPA/Pessoas/José Magalhães .md",
     "EQUIPA/Pessoas/José Magalhães.md",
     "Templates/Ação - Registar Presenças.md",
@@ -243,12 +265,6 @@
     "Obras/Next Yard 2/Bloco A/Next Yard 2 - Bloco A.md",
     "Templates/Ação - Início de Dia.md",
     "EQUIPA/Pessoas/Moisés kalandula.md",
-    "EQUIPA/Pessoas/Yuri.md",
-    "EQUIPA/Pessoas/dicor mendes.md",
-    "EQUIPA/Pessoas/Diogo.md",
-    "EQUIPA/Pessoas/António rocha.md",
-    "EQUIPA/Pessoas/António.md",
-    "EQUIPA/Pessoas/Afonso.md",
     "Scripts/daily_maintenance.sh",
     "Excalidraw",
     "Obras/Next yard 3/Lotes",
