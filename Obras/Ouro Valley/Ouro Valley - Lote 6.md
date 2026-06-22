@@ -31,9 +31,9 @@ data_inicio: 2026-05-11
 ---
 
 ## 👷 Equipa na Obra
-- [[Afonso]]
-- [[Moisés kalandula]]
-- [[Tiago]]
+- [[Afonso.md]]
+- [[Moisés kalandula.md]]
+- [[Tiago rocha.md]]
 - [[]]
 
 ---

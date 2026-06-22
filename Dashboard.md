@@ -28,7 +28,7 @@ limit 5
 
 | Lote                                       | Progresso | Responsável              | Status          |
 | ------------------------------------------ | --------- | ------------------------ | --------------- |
-| [[Obras/Ouro Valley/Ouro Valley - Lote 6]] | 70%       | [[Equipa/Pessoas/Diogo]] | 🟢 Avançado     |
+| [[Obras/Ouro Valley/Ouro Valley - Lote 6]] | 70%       | [[Diogo nunes.md]] | 🟢 Avançado     |
 | [[Obras/Ouro Valley/Ouro Valley - Lote 4]] | 40%       |                          | 🔵 Em andamento |
 | [[Obras/Ouro Valley/Ouro Valley - Lote 2]] | 20%       |                          | 🟡 Iniciando    |
 
@@ -119,11 +119,11 @@ Status:
 
 | Pessoa                     | Tarefas | Horas | Status |
 | -------------------------- | ------- | ----- | ------ |
-| [[Equipa/Pessoas/António]] |         |       |        |
-| [[Equipa/Pessoas/Afonso]]  |         |       |        |
-| [[Equipa/Pessoas/Diogo]]   |         |       |        |
-| [[Equipa/Pessoas/Tiago]]   |         |       |        |
-| [[Equipa/Pessoas/Yuri]]    |         |       |        |
+| [[António.md]] |         |       |        |
+| [[Afonso.md]]  |         |       |        |
+| [[Diogo nunes.md]]   |         |       |        |
+| [[Tiago rocha.md]]   |         |       |        |
+| [[Yuri.md]]    |         |       |        |
 | [[Equipa/Pessoas/Abel]]    |         |       |        |
 |                            |         |       |        |
 |                            |         |       |        |

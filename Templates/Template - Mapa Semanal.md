@@ -11,12 +11,12 @@ obra:
 
 | Funcionário                         | Seg | Ter | Qua | Qui | Sex | Sáb | Total Horas | Extras |
 | :---------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------: | :----: |
-| [[Equipa/Pessoas/António\|António]] | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   1    |
-| [[Equipa/Pessoas/Afonso\|Afonso]]   | [x] | [x] | [x] | []  | [x] | [ ] |     40      |   0    |
-| [[Equipa/Pessoas/Diogo\|Diogo]]     | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   0    |
-| [[Equipa/Pessoas/Tiago\|Tiago]]     | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   0    |
-| [[Equipa/Pessoas/Yuri\|Yuri]]       | [x] | [x] | [x] | []  | [x] | [ ] |     40      |   0    |
-| [[abel mande]]                      |     |     |     |     |     |     |             |        |
+| [[António.md\|António]] | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   1    |
+| [[Afonso.md\|Afonso]]   | [x] | [x] | [x] | []  | [x] | [ ] |     40      |   0    |
+| [[Diogo nunes.md\|Diogo]]     | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   0    |
+| [[Tiago rocha.md\|Tiago]]     | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   0    |
+| [[Yuri.md\|Yuri]]       | [x] | [x] | [x] | []  | [x] | [ ] |     40      |   0    |
+| [[abel mande.md]]                      |     |     |     |     |     |     |             |        |
 |                                     |     |     |     |     |     |     |             |        |
 
 ---

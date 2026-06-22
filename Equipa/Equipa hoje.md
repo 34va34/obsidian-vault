@@ -15,14 +15,14 @@ estado: Ativo
 
 ## 👷 Tabela de Presenças
 
-| Funcionário                              | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
-| ---------------------------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[Equipa/Pessoas/António]]               | [Ativo]  | 9             | 1            | [ ]     |             |
-| [[Equipa/Pessoas/Afonso]]                | [Ativo]  | 9             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Diogo]]                 | [Ativo]  | 8             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Tiago]]                 | [Ativo]  | 8             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Yuri]]                  | [Ativo]  | 8             | 0            | [ ]     |             |
-| [[Equipa/Presenças/${presencaFileName}]] |          |               |              |         |             |
+| Funcionário        | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
+| ------------------ | -------- | ------------- | ------------ | ------- | ----------- |
+| [[António.md]]     | [Ativo]  | 9             | 1            | [ ]     |             |
+| [[Afonso.md]]      | [Ativo]  | 9             | 0            | [ ]     |             |
+| [[Diogo nunes.md]] | [Ativo]  | 8             | 0            | [ ]     |             |
+| [[Tiago rocha.md]] | [Ativo]  | 8             | 0            | [ ]     |             |
+| [[Yuri.md]]        | [Ativo]  | 8             | 0            | [ ]     |             |
+| [[]]               |          |               |              |         |             |
 
 ## 📊 Resumo do Dia
 - **Total de Funcionários**: 

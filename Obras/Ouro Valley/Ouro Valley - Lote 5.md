@@ -28,7 +28,7 @@ morada: Ouro Valley — Lote 5
 ---
 
 ## 👷 Equipa na Obra
-- [[Yuri]]
+- [[Yuri.md]]
 
 ---
 

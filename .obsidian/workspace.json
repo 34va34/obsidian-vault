@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EQUIPA/Pessoas/abel mande.md",
+                "file": "Equipa/Pessoas/abel mande.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abel mande"
+              "title": "abel mande.md"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EQUIPA/Pessoas/abel mande.md",
+                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abel mande"
+              "title": "Tarefa - prumadas lote 4"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EQUIPA/Pessoas/abel mande.md",
+                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para abel mande"
+              "title": "Backlinks para Tarefa - prumadas lote 4"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EQUIPA/Pessoas/abel mande.md",
+                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de abel mande"
+              "title": "Links externos de Tarefa - prumadas lote 4"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EQUIPA/Pessoas/abel mande.md",
+                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de abel mande"
+              "title": "Índice de Tarefa - prumadas lote 4"
             }
           },
           {
@@ -238,13 +238,25 @@
   },
   "active": "422112d1bc7c30bf",
   "lastOpenFiles": [
-    "EQUIPA/Presenças/Presenças - ouro valley - 2026-06-22.md",
-    "EQUIPA/Equipa hoje.md",
+    "Equipa/Equipa hoje.md",
+    "Equipa/Presenças/Presenças - ouro valley - 2026-06-22.md",
+    "EQUIPA/Presenças/${presencaFileName}.md",
+    "Sem título 1.md",
+    "Templates/Ação - Início de Dia.md",
+    "Equipa/Pessoas/José Magalhães.md.md",
+    "Equipa/Pessoas/Yuri.md.md",
+    "Equipa/Pessoas/venacio.md.md",
+    "Equipa/Pessoas/Tiago rocha.md.md",
+    "Equipa/Pessoas/Moisés kalandula.md.md",
+    "Equipa/Pessoas/domingos felix.md.md",
+    "Equipa/Pessoas/Diogo nunes.md.md",
+    "Equipa/Pessoas/dicor mendes.md.md",
+    "Equipa/Pessoas/António.md.md",
+    "Equipa/Pessoas/Afonso.md.md",
+    "Equipa/Pessoas/abel mande.md.md",
     "textgenerator/templates/dalle/art3D.md",
     "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
     "Relatórios Automáticos.md",
-    "Sem título 1.md",
-    "Equipa/Presenças/Presenças - ouro valley - 2026-06-22.md",
     "Dashboard.md",
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
     "Diário - null - 2026-06-11.md",
@@ -252,28 +264,15 @@
     "Diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
     "diário/Diários Diários",
     "Diário/Diários Diários",
-    "EQUIPA/Pessoas/abel mande.md",
-    "EQUIPA/Pessoas/Afonso.md",
-    "EQUIPA/Pessoas/António.md",
-    "EQUIPA/Pessoas/domingos felix.md",
     "EQUIPA/Pessoas/Abel.md",
-    "Templates/Ação - Início de Dia.md",
-    "Sem título.md",
-    "EQUIPA/Presenças/${presencaFileName}.md",
-    "copilot/copilot-conversations/Registrar_Presenças@20260622_085050.md",
-    "EQUIPA/Pessoas/Yuri.md",
-    "Equipa/Presenças/${presencaFileName}.md",
-    "EQUIPA/Presenças",
     "Equipa/Presenças",
-    "Tarefa - ligar caixas no piso 2 lote 6.md",
-    "lista de trabalhos feitos na obra.md",
-    "[[Relatórios.md",
+    "Equipa/Presenças",
     "Scripts/daily_maintenance.sh",
     "Excalidraw",
     "Obras/Next yard 3/Lotes",
     "Obras/Next yard 3",
     "Scripts/new_person.sh",
-    "EQUIPA",
+    "Equipa",
     "Sem título.canvas"
   ]
 }

@@ -306,3 +306,85 @@ Depois de criar as notas dos funcionários na pasta `Equipa/Pessoas`, execute no
 #### Sources
 [^1]: [[Ação - Início de Dia]]
 [Timestamp: 2026/06/22 09:18:55]
+
+**user**: aparece que a pasta equipas/pessoas n esta a funcionar. como corrigir?
+[Timestamp: 2026/06/22 09:33:08]
+
+**ai**: O problema de a tabela aparecer vazia, sem o nome de ninguém, indica que o script [[Ação - Início de Dia]] não conseguiu encontrar os ficheiros dos seus funcionários na pasta `Equipa/Pessoas` [^1].
+
+Para corrigir isso, precisa de garantir que a pasta existe e que contém as notas dos seus funcionários da forma correta:
+
+1.  **Verifique a Existência e o Caminho da Pasta**:
+    *   No seu Obsidian, navegue até à pasta `Equipa`.
+    *   Confirme que existe uma subpasta chamada `Pessoas` dentro dela. O caminho completo deve ser `Equipa/Pessoas`.
+    *   Se a pasta não existir, crie-a exatamente com esse nome.
+
+2.  **Crie as Notas dos Funcionários**:
+    *   Dentro da pasta `Equipa/Pessoas`, cada funcionário deve ter a sua própria nota (ficheiro `.md`).
+    *   O nome do ficheiro será o nome do funcionário. Por exemplo, para o funcionário "António", deve ter um ficheiro chamado `António.md` dentro de `Equipa/Pessoas` [^1].
+    *   Pode usar o template [[Template - Pessoa]] para criar estas notas, o que já as estrutura com campos úteis para cada pessoa.
+
+**Exemplos de ficheiros que o script espera encontrar:**
+*   `Equipa/Pessoas/António.md` [^1]
+*   `Equipa/Pessoas/Afonso.md` [^1]
+*   `Equipa/Pessoas/Diogo nunes.md` [^1]
+*   `Equipa/Pessoas/Yuri.md` [^1]
+*   `Equipa/Pessoas/abel mande.md` [^1]
+*   `Equipa/Pessoas/dicor mendes.md` [^1]
+*   `Equipa/Pessoas/José Magalhães.md` [^1]
+*   `Equipa/Pessoas/Moisés kalandula.md` [^1]
+*   `Equipa/Pessoas/Tiago rocha.md` [^1]
+
+O script percorre todos os ficheiros `.md` dentro de `Equipa/Pessoas` e usa o nome de cada ficheiro (sem a extensão `.md`) como o nome do funcionário na tabela de presenças [^1].
+
+Depois de criar ou verificar que as notas dos funcionários estão corretamente na pasta `Equipa/Pessoas`, execute novamente a [[Ação - Início de Dia]]. A tabela de presenças deverá agora ser preenchida com os nomes dos seus funcionários [^1].
+
+#### Sources
+[^1]: [[Ação - Início de Dia]]
+[Timestamp: 2026/06/22 09:33:25]
+
+**user**: consegues ver a pasta e o que tem dentro?
+[Timestamp: 2026/06/22 09:37:15]
+
+**ai**: Como um assistente de IA, eu **não consigo "ver" diretamente a estrutura de pastas ou o conteúdo do seu vault Obsidian em tempo real** [^1]. Eu só tenho acesso às informações que me são fornecidas no contexto das suas perguntas.
+
+No entanto, o script [[Ação - Início de Dia]] contém uma lógica que me permite inferir o que pode estar a acontecer [^1]:
+
+```javascript
+const peopleFolder = app.vault.getAbstractFileByPath("Equipa/Pessoas");
+// ...
+if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
+    // ... código para listar pessoas
+} else {
+    new Notice("Aviso: Pasta 'Equipa/Pessoas' não encontrada ou não é uma pasta válida. Tabela de presenças pode estar vazia.", 5000);
+}
+```
+
+Se a tabela aparece vazia, isso indica que a condição `if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder)` falhou [^1]. Isso pode acontecer por duas razões principais:
+
+1.  **A pasta `Equipa/Pessoas` não existe** no seu vault, ou o caminho está incorreto (por exemplo, `Equipa/
+<errorChunk>[GoogleGenerativeAI Error]: Failed to parse stream</errorChunk>
+
+#### Sources:
+
+[^1]: [[Ação - Início de Dia]]
+[^2]: [[Ação - Nova Obra]]
+[^3]: [[Ação - Registar Presenças]]
+[^4]: [[O ANTIGRAVITY 2.0 foi liberado…e Mudou TUDO!]]
+[^5]: [[Vinzent03obsidian-git Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian]]
+[^6]: [[Ação - Novo Diário]]
+[^7]: [[Dashboard]]
+[^8]: [[Ação - Nova Tarefa]]
+[^9]: [[Ação - Nova Encomenda]]
+[^10]: [[Ação - Novo Mapa Semanal]]
+[^11]: [[Odysseus Chat]]
+[^12]: [[Ação - Nova Pessoa]]
+[^13]: [[dall-e-core]]
+[^14]: [[artDeco]]
+[^15]: [[modDetailed]]
+[^16]: [[artAnime]]
+[^17]: [[artSprayPainted]]
+[^18]: [[getPhoto]]
+[^19]: [[getPhoto2]]
+[^20]: [[getPhotos]]
+[Timestamp: 2026/06/22 09:37:31]

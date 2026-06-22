@@ -29,7 +29,7 @@ morada: Ouro Valley — Lote 4
 ---
 
 ## 👷 Equipa na Obra
-- [[Diogo]]
+- [[Diogo nunes.md]]
 - [[Abel]]
 - 
 
