@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72caa1efd520b4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipa/Pessoas/abel mande.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "abel mande.md"
-            }
-          },
-          {
             "id": "422112d1bc7c30bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarefa - prumadas lote 4"
+              "title": "Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Tarefa - prumadas lote 4"
+              "title": "Backlinks para Dashboard"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Tarefa - prumadas lote 4"
+              "title": "Links externos de Dashboard"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
+                "file": "Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Tarefa - prumadas lote 4"
+              "title": "Índice de Dashboard"
             }
           },
           {
@@ -211,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -238,8 +223,20 @@
   },
   "active": "422112d1bc7c30bf",
   "lastOpenFiles": [
-    "Equipa/Equipa hoje.md",
     "Equipa/Presenças/Presenças - ouro valley - 2026-06-22.md",
+    "Equipa/Pessoas/Afonso.md",
+    "Equipa/Pessoas/abel mande.md",
+    "Equipa/Equipa hoje.md",
+    "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
+    "Equipa/Pessoas/venacio.md",
+    "Equipa/Pessoas/domingos felix.md",
+    "Equipa/Pessoas/dicor mendes.md",
+    "Equipa/Pessoas/Yuri.md",
+    "Equipa/Pessoas/Tiago rocha.md",
+    "Equipa/Pessoas/Moisés kalandula.md",
+    "Equipa/Pessoas/José Magalhães.md",
+    "Equipa/Pessoas/Diogo nunes.md",
+    "Equipa/Pessoas/António.md",
     "EQUIPA/Presenças/${presencaFileName}.md",
     "Sem título 1.md",
     "Templates/Ação - Início de Dia.md",
@@ -252,19 +249,8 @@
     "Equipa/Pessoas/Diogo nunes.md.md",
     "Equipa/Pessoas/dicor mendes.md.md",
     "Equipa/Pessoas/António.md.md",
-    "Equipa/Pessoas/Afonso.md.md",
-    "Equipa/Pessoas/abel mande.md.md",
-    "textgenerator/templates/dalle/art3D.md",
-    "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
-    "Relatórios Automáticos.md",
-    "Dashboard.md",
-    "Diário - ouro valley - lote 6 - 2026-06-11.md",
-    "Diário - null - 2026-06-11.md",
-    "diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
-    "Diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
     "diário/Diários Diários",
     "Diário/Diários Diários",
-    "EQUIPA/Pessoas/Abel.md",
     "Equipa/Presenças",
     "Equipa/Presenças",
     "Scripts/daily_maintenance.sh",
