@@ -8,6 +8,7 @@ version: 0.0.1
 stream: false
 disableProvider: true
 ---
+
 ```handlebars
 {{#run "getPhoto" "r" "tg_selection"}}
  {{selection}}, deco art
