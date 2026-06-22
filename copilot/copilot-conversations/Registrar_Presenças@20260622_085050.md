@@ -1,6 +1,6 @@
 ---
 epoch: 1782114650105
-modelKey: "gemini-3.5-flash|google"
+modelKey: "gemini-2.5-flash|google"
 topic: "Registrar Presenças"
 
 
@@ -245,3 +245,64 @@ Se o erro continuar a aparecer:
 
 **user**: perguntou o nome da obra e as tarefas e funcionou. mas n perguntou as presenças
 [Timestamp: 2026/06/22 09:12:12]
+
+**ai**: É perfeitamente normal! O script foi desenhado dessa forma de propósito para ser mais rápido e prático [^1]. 
+
+Se o script fizesse uma pergunta (prompt) para cada funcionário, seria muito demorado e cansativo (especialmente se tiver muitos trabalhadores).
+
+### Como o sistema funciona:
+
+1. **Preenchimento Automático**: O script vai à sua pasta `Equipa/Pessoas`, recolhe o nome de todos os funcionários ativos e cria automaticamente uma tabela onde **todos começam marcados como presentes `[x]`** com 8 horas normais [^1].
+2. **Onde alterar as presenças**: 
+   - Vá à pasta `Equipa/Presenças` [^1].
+   - Abra o ficheiro que acabou de ser criado (terá o nome `Presenças - [Nome da Obra] - [Data]`) [^1].
+   - Na tabela, basta **desmarcar a caixa** (mudar de `[x]` para `[ ]`) de quem faltou, ou alterar o número de horas normais e extras diretamente no texto da tabela [^1].
+
+Desta forma, só precisa de perder tempo a editar os funcionários que faltaram ou que fizeram horas diferentes, em vez de ter de responder a perguntas para cada um deles!
+
+#### Sources
+[^1]: [[Ação - Início de Dia]]
+[Timestamp: 2026/06/22 09:14:09]
+
+**user**: aparece a tabela mas n tem o nome de ninguém
+[Timestamp: 2026/06/22 09:17:11]
+
+**ai**: 
+<errorChunk>[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:streamGenerateContent?alt=sse: [429 ] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.5-flash
+Please retry in 18.190134198s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-3.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"18s"}]</errorChunk>
+[Timestamp: 2026/06/22 09:17:41]
+
+**user**: aparece a tabela mas n tem o nome de ninguém
+[Timestamp: 2026/06/22 09:18:07]
+
+**ai**: 
+<errorChunk>402 This request requires more credits, or fewer max_tokens. You requested up to 6000 tokens, but can only afford 4341. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account</errorChunk>
+[Timestamp: 2026/06/22 09:18:10]
+
+**user**: aparece a tabela mas n tem o nome de ninguém
+[Timestamp: 2026/06/22 09:18:35]
+
+**ai**: Se a tabela aparece, mas sem o nome de ninguém, isso significa que o script não conseguiu encontrar os ficheiros dos seus funcionários na pasta esperada [^1].
+
+O script [[Ação - Início de Dia]] procura os nomes dos funcionários na pasta `Equipa/Pessoas` [^1]. Para que os nomes apareçam na tabela, precisa de ter notas de markdown (ficheiros `.md`) dentro dessa pasta, uma para cada funcionário.
+
+Por exemplo, se tiver um funcionário chamado "António", deve ter um ficheiro chamado `António.md` dentro da pasta `Equipa/Pessoas` [^1].
+
+**Para resolver isso, siga estes passos:**
+
+1.  **Verifique a pasta `Equipa/Pessoas`**:
+    *   No seu Obsidian, navegue até à pasta `Equipa`.
+    *   Confirme que existe uma subpasta chamada `Pessoas` dentro dela.
+    *   Abra a pasta `Pessoas`.
+
+2.  **Crie as notas dos funcionários**:
+    *   Dentro da pasta `Equipa/Pessoas`, crie uma nova nota para cada funcionário.
+    *   O nome da nota deve ser o nome do funcionário (ex: `António.md`, `Afonso.md`, `Diogo.md`) [^1].
+    *   Pode usar o template [[Template - Pessoa]] para criar estas notas, se quiser ter uma estrutura para cada funcionário.
+
+Depois de criar as notas dos funcionários na pasta `Equipa/Pessoas`, execute novamente a [[Ação - Início de Dia]]. A tabela de presenças deverá agora ser preenchida com os nomes dos seus funcionários [^1].
+
+#### Sources
+[^1]: [[Ação - Início de Dia]]
+[Timestamp: 2026/06/22 09:18:55]

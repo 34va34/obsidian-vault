@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relatórios Automáticos.md",
+                "file": "EQUIPA/Pessoas/abel mande.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relatórios Automáticos"
+              "title": "abel mande"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relatórios Automáticos.md",
+                "file": "EQUIPA/Pessoas/abel mande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Relatórios Automáticos"
+              "title": "Backlinks para abel mande"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relatórios Automáticos.md",
+                "file": "EQUIPA/Pessoas/abel mande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Relatórios Automáticos"
+              "title": "Links externos de abel mande"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relatórios Automáticos.md",
+                "file": "EQUIPA/Pessoas/abel mande.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Relatórios Automáticos"
+              "title": "Índice de abel mande"
             }
           },
           {
@@ -238,6 +238,11 @@
   },
   "active": "422112d1bc7c30bf",
   "lastOpenFiles": [
+    "EQUIPA/Presenças/Presenças - ouro valley - 2026-06-22.md",
+    "EQUIPA/Equipa hoje.md",
+    "textgenerator/templates/dalle/art3D.md",
+    "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
+    "Relatórios Automáticos.md",
     "Sem título 1.md",
     "Equipa/Presenças/Presenças - ouro valley - 2026-06-22.md",
     "Dashboard.md",
@@ -247,7 +252,6 @@
     "Diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
     "diário/Diários Diários",
     "Diário/Diários Diários",
-    "EQUIPA/Presenças/Presenças - ouro valley - 2026-06-22.md",
     "EQUIPA/Pessoas/abel mande.md",
     "EQUIPA/Pessoas/Afonso.md",
     "EQUIPA/Pessoas/António.md",
@@ -258,16 +262,12 @@
     "EQUIPA/Presenças/${presencaFileName}.md",
     "copilot/copilot-conversations/Registrar_Presenças@20260622_085050.md",
     "EQUIPA/Pessoas/Yuri.md",
-    "EQUIPA/Equipa hoje.md",
     "Equipa/Presenças/${presencaFileName}.md",
     "EQUIPA/Presenças",
     "Equipa/Presenças",
     "Tarefa - ligar caixas no piso 2 lote 6.md",
-    "Relatórios Automáticos.md",
     "lista de trabalhos feitos na obra.md",
     "[[Relatórios.md",
-    "2026-06-22.md",
-    "EQUIPA/Pessoas/dicor mendes.md",
     "Scripts/daily_maintenance.sh",
     "Excalidraw",
     "Obras/Next yard 3/Lotes",
