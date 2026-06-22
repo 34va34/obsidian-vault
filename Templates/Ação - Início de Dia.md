@@ -5,7 +5,7 @@ if (!obra) {
     return;
 }
 
-const tarefasInput = await tp.system.prompt("Tarefas Principais para Hoje (separadas por vírgula)");
+const tarefasInput = await tp.system.prompt("Tarefas para hoje (ex: Pintar sala @Afonso, Limpar entulho @Yuri)");
 const date = tp.date.now("YYYY-MM-DD");
 
 // --- Função auxiliar para garantir que uma pasta existe ---
@@ -38,14 +38,18 @@ const peopleFolder = app.vault.getAbstractFileByPath("Equipa/Pessoas");
 let tableRows = "";
 
 if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
-    for (const file of peopleFolder.children) {
-        if (file instanceof tp.obsidian.TFile && file.extension === "md") {
-            const personName = file.basename;
-            tableRows += `| [[${file.path}|${personName}]] | [x] | 8 | 0 | [ ] | |\n`;
-        }
+    // Ordenar funcionários por nome
+    const peopleFiles = peopleFolder.children
+        .filter(f => f instanceof tp.obsidian.TFile && f.extension === "md")
+        .sort((a, b) => a.basename.localeCompare(b.basename));
+
+    for (const file of peopleFiles) {
+        const personName = file.basename;
+        // Formato: | Funcionário | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
+        tableRows += `| [[${personName}]] | [x] | 8 | 0 | [ ] | |\n`;
     }
 } else {
-    new Notice("Aviso: Pasta 'Equipa/Pessoas' não encontrada ou não é uma pasta válida. Tabela de presenças pode estar vazia.", 5000);
+    new Notice("Aviso: Pasta 'Equipa/Pessoas' não encontrada. Tabela de presenças estará vazia.", 5000);
 }
 
 const presencaContent = `---
@@ -59,29 +63,40 @@ obra: "${obra}"
 | Funcionário | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 |-------------|----------|---------------|--------------|---------|-------------|
 ${tableRows}
+
+> [!TIP] Instruções
+> - **Presença**: [x] para presente, [ ] para falta.
+> - **Sábado**: Marcar [x] se o trabalho for realizado ao sábado.
 `;
 
-// Verifica se o ficheiro já existe para evitar sobrescrever
+// Criar ficheiro de presenças
 const existingPresencaFile = app.vault.getAbstractFileByPath(`${presencaFolder}/${presencaFileName}.md`);
-if (existingPresencaFile) {
-    new Notice(`O registo de presenças para '${obra}' em ${date} já existe. Não foi criado um novo.`, 5000);
-} else {
+if (!existingPresencaFile) {
     await tp.file.create_new(presencaContent, presencaFileName, false, presencaTargetFolder);
-    new Notice(`Registo de Presenças para '${obra}' criado com sucesso!`, 3000);
 }
 
+// --- 2. Processar Tarefas e Atribuições ---
+let listaTarefasMarkdown = "";
+if (tarefasInput) {
+    const tarefasArray = tarefasInput.split(',').map(t => t.trim());
+    listaTarefasMarkdown = tarefasArray.map(t => {
+        // Regex para encontrar @Nome ou #Nome
+        const match = t.match(/[@#]([^\s,]+)/);
+        if (match) {
+            const nome = match[1];
+            const tarefaLimpa = t.replace(match[0], "").trim();
+            return `- [ ] ${tarefaLimpa} 👤 [[${nome}]]`;
+        }
+        return `- [ ] ${t}`;
+    }).join('\n');
+} else {
+    listaTarefasMarkdown = "- [ ] Nenhuma tarefa definida.";
+}
 
-// --- 2. Criar/Atualizar Diário de Obra ---
+// --- 3. Criar Diário de Obra ---
 const diarioFolder = "Diário/Diários Diários";
 const diarioFileName = `Diário - ${obra} - ${date}`;
 const diarioTargetFolder = await ensureFolderExists(diarioFolder);
-
-if (!diarioTargetFolder) {
-    new Notice(`Erro: Não foi possível aceder ou criar a pasta '${diarioFolder}'. Script abortado.`, 5000);
-    return;
-}
-
-const listaTarefas = tarefasInput ? tarefasInput.split(',').map(t => `- [ ] ${t.trim()}`).join('\n') : "- [ ] Nenhuma tarefa principal definida.";
 
 const diarioContent = `---
 tags: diario, obra
@@ -91,10 +106,10 @@ obra: "${obra}"
 # 📅 Diário de Obra — ${obra} — ${date}
 
 ## 📝 Planeamento do Dia
-${listaTarefas}
+${listaTarefasMarkdown}
 
 ## 👷 Equipa em Obra
-Ver registo detalhado em: [[${presencaFolder}/${presencaFileName}|Registo de Presenças]]
+Ver registo detalhado em: [[${presencaFileName}|Registo de Presenças]]
 
 ## ☀️ Condições Climáticas
 - **Temperatura**: 
@@ -109,11 +124,9 @@ Ver registo detalhado em: [[${presencaFolder}/${presencaFileName}|Registo de Pre
 
 const existingDiarioFile = app.vault.getAbstractFileByPath(`${diarioFolder}/${diarioFileName}.md`);
 if (existingDiarioFile) {
-    new Notice(`O diário de obra para '${obra}' em ${date} já existe. Não foi criado um novo.`, 5000);
+    new Notice(`O diário de obra para '${obra}' em ${date} já existe.`, 5000);
 } else {
     await tp.file.create_new(diarioContent, diarioFileName, false, diarioTargetFolder);
-    new Notice(`Diário de Obra para '${obra}' criado com sucesso!`, 3000);
+    new Notice(`Diário de Obra e Presenças criados para ${obra}!`, 3000);
 }
-
-new Notice(`✅ Início de Dia concluído para ${obra}!`, 5000);
 %>
