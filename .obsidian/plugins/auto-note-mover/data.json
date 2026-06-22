@@ -1,0 +1,48 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Material",
+      "tag": "#material",
+      "pattern": ""
+    },
+    {
+      "folder": "Material/Encomendas",
+      "tag": "#encomendas",
+      "pattern": ""
+    },
+    {
+      "folder": "tarefas",
+      "tag": "#tarefas",
+      "pattern": ""
+    },
+    {
+      "folder": "Material/inventário",
+      "tag": "#falta",
+      "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": true,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}
