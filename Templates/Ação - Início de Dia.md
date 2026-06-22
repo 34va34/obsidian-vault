@@ -11,7 +11,7 @@ const date = tp.date.now("YYYY-MM-DD");
 // --- Função auxiliar para garantir que uma pasta existe ---
 async function ensureFolderExists(folderPath) {
     const folder = app.vault.getAbstractFileByPath(folderPath);
-    if (!folder || !(folder instanceof TFolder)) {
+    if (!folder || !(folder instanceof tp.obsidian.TFolder)) {
         try {
             await app.vault.createFolder(folderPath);
             new Notice(`Pasta '${folderPath}' criada.`, 3000);
@@ -37,11 +37,10 @@ if (!presencaTargetFolder) {
 const peopleFolder = app.vault.getAbstractFileByPath("Equipa/Pessoas");
 let tableRows = "";
 
-if (peopleFolder && peopleFolder instanceof TFolder) {
+if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
     for (const file of peopleFolder.children) {
-        if (file instanceof TFile && file.extension === "md") {
+        if (file instanceof tp.obsidian.TFile && file.extension === "md") {
             const personName = file.basename;
-            // O link deve ser para o ficheiro do funcionário, usando o caminho completo
             tableRows += `| [[${file.path}|${personName}]] | [x] | 8 | 0 | [ ] | |\n`;
         }
     }
@@ -52,7 +51,7 @@ if (peopleFolder && peopleFolder instanceof TFolder) {
 const presencaContent = `---
 tags: equipa, presencas
 data: ${date}
-obra: "${obra}" # Usar aspas para garantir que o Dataview interpreta corretamente se houver caracteres especiais
+obra: "${obra}"
 ---
 # 📅 Registo de Presenças — ${obra} — ${date}
 
