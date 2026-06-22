@@ -15,14 +15,14 @@ estado: Ativo
 
 ## 👷 Tabela de Presenças
 
-| Funcionário                | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
-| -------------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[Equipa/Pessoas/António]] | [ativo]  | 8             | 1            | [ ]     |             |
-| [[Equipa/Pessoas/Afonso]]  | [ativo]  | 0             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Diogo]]   | [ ativo] | 8             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Tiago]]   | [ativo ] | 8             | 0            | [ ]     |             |
-| [[Equipa/Pessoas/Yuri]]    | [ nao]   | 0             | 0            | [ ]     |             |
-|                            |          |               |              |         |             |
+| Funcionário                              | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
+| ---------------------------------------- | -------- | ------------- | ------------ | ------- | ----------- |
+| [[Equipa/Pessoas/António]]               | [Ativo]  | 9             | 1            | [ ]     |             |
+| [[Equipa/Pessoas/Afonso]]                | [Ativo]  | 9             | 0            | [ ]     |             |
+| [[Equipa/Pessoas/Diogo]]                 | [Ativo]  | 8             | 0            | [ ]     |             |
+| [[Equipa/Pessoas/Tiago]]                 | [Ativo]  | 8             | 0            | [ ]     |             |
+| [[Equipa/Pessoas/Yuri]]                  | [Ativo]  | 8             | 0            | [ ]     |             |
+| [[Equipa/Presenças/${presencaFileName}]] |          |               |              |         |             |
 
 ## 📊 Resumo do Dia
 - **Total de Funcionários**: 

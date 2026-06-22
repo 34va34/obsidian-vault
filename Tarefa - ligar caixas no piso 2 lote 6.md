@@ -1,9 +1,9 @@
 ---
 tags: tarefa, trabalho
-status: Pendente
-due: 
+status: realizado
+due:
 project: ouro valley
-responsavel: 
+responsavel:
 ---
 # 📝 Tarefa: ligar caixas no piso 2 lote 6
 

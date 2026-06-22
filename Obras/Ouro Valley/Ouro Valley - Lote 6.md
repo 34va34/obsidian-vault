@@ -44,7 +44,7 @@ data_inicio: 2026-05-11
 - [x] iniciar esgotos finos ✅ 2026-06-11
 - [x] iniciar prumadas cozinha e wc serviço ✅ 2026-06-09
 - [x] testar wc piso 3 ✅ 2026-06-11
-- [ ] ligação as caixas piso 2📅 2026-06-05 
+- [x] ligação as caixas piso 2 📅 2026-06-05 ✅ 2026-06-22
 - [x] testar piso 3 ⏳ 2026-06-06 ✅ 2026-06-11
 - [ ] fazer prumadas da cozinhas🔼 
 - [ ] colocar ralos no piso superior para desviar água da chuva
