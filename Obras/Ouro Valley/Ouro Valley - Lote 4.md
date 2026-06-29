@@ -37,14 +37,14 @@ morada: Ouro Valley — Lote 4
 
 ## 🔧 Trabalhos a Realizar
 - [ ] soldar tubos de ppr🔼 
-- [ ] fazer transição de pex para ppr🔺 
+- [ ] fazer transição de pex para ppr no piso 2 ⏳ 2026-06-30 🔺 
 - [x] iniciar prumadas casa de banho 🔼 ✅ 2026-06-09
 - [ ] fazer arranhas piso 1 e 2
-- [ ] concluir piso 1
+- [x] concluir piso 1 ✅ 2026-06-29
 - [ ] arranhas piso 1
 - [ ] aranhas piso 2
 - [ ] iniciar pluviais
-- [ ] faltar soldar unios de ppr piso 2
+- [ ] faltar soldar uniões de ppr piso 2
 - [ ] colocar as curvas de ppr a entrar nas casas piso 2
 - [ ] ligar wc fora do sitio piso 2
 - [ ] partir chão 

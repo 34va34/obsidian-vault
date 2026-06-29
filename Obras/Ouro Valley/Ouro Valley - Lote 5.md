@@ -33,27 +33,29 @@ morada: Ouro Valley — Lote 5
 ---
 
 ## 🔧 Trabalhos a Realizar
-- [ ] tubos de ppr no teto corredor🔽 🔁 ➕ 2026-06-05 
+- [x] tubos de ppr no teto corredor🔽 🔁 ➕ 2026-06-05 ✅ 2026-06-29
 - [ ] ligação de esgotos🔼 
-- [ ] colocação de abraçadeiras piso 2 ➕ 2026-06-22 
+- [x] colocação de abraçadeiras piso 2 ➕ 2026-06-22 ✅ 2026-06-29
+- [ ] inicio de esgoto🔼 🛫 2026-06-29 
 
 ---
 
 ## ✅ Trabalhos Concluídos
 - tubo de ppr no corredor piso 1
+- ppr teto concluído 
 
 ---
 
 ## 📦 Material Necessário
 
 ### PVC (Esgotos)
-| Material | Qtd | Unidade | Encomendado |
-|---|---|---|---|
-| Tubo DN110 | | m | ☐ |
-| Tubo DN75 | | m | ☐ |
-| Tubo DN40 | | m | ☐ |
-| Tê DN110 | | un | ☐ |
-| Tê DN75x40 | | un | ☐ |
+| Material   | Qtd | Unidade | Encomendado |
+| ---------- | --- | ------- | ----------- |
+| Tubo DN110 |     | m       | ☐           |
+| Tubo DN75  |     | m       | ☐           |
+| Tubo DN40  |     | m       | ☐           |
+| Tê DN110   |     | un      | ☐           |
+| Tê DN75x40 |     | un      | ☐           |
 
 ### PPR (Águas)
 | Material             | Qtd | Unidade | Encomendado | Tenho    | falta      |     |
