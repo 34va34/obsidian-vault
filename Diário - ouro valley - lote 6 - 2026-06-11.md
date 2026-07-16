@@ -12,13 +12,13 @@ responsavel:
 - **Tempo**: 
 
 ## 👷 Equipa Presente
-- 
+- [[abel mande]], [[venacio]],[[domingos felix]],
 
 ## 📝 Atividades do Dia
-- 
+- agua interiores, carga piso 1
 
 ## 🚧 Problemas/Ocorrências
-- 
+- tubos com pouca agua no piso 1
 
 ## ✅ Tarefas Concluídas
 - 

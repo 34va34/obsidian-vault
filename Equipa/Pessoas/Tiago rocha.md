@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: Tiago
 cargo: canalizador
-estado: Ativo
+estado: inativo
 ---
 # 👤 Tiago
 
