@@ -136,10 +136,11 @@ Status:
 - [ ] Reunião com equipa (08:30)
 - [x] Receção de material PPR ✅ 2026-07-16
 - [ ] início carga lote 6 piso 1🛫 2026-07-16 
+- [ ] inicio aguas lote 6 piso 2 atribuido:: [[Mario sousa]], e [[domingos felix]] 🛫 2026-07-16 
 
 ### Semana Que Vem
-- [x] Iniciar Lote 4 ✅ 2026-07-16
-- [ ] Manutenção Máquina PPR
+- [ ] 🔺 iniciar transição de pex para ppr
+- [ ] contar peças de ppr casq 1/2 x dn25 e de 3/4 x dn25
 - [ ] Relatório 20-20 (até 20/06)
 
 ---
