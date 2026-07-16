@@ -134,11 +134,11 @@ Status:
 
 ### Hoje
 - [ ] Reunião com equipa (08:30)
-- [ ] Receção de material PPR
-- [ ] Progressão Lote 6 - Blocos C, D
+- [x] Receção de material PPR ✅ 2026-07-16
+- [ ] início carga lote 6 piso 1🛫 2026-07-16 
 
 ### Semana Que Vem
-- [ ] Iniciar Lote 4
+- [x] Iniciar Lote 4 ✅ 2026-07-16
 - [ ] Manutenção Máquina PPR
 - [ ] Relatório 20-20 (até 20/06)
 

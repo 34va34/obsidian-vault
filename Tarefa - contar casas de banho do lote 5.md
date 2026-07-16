@@ -5,7 +5,7 @@ due:
 project: ouro valley
 responsavel: 
 ---
-# 📝 Tarefa: contar casas de banho do lote 5
+ 📝 Tarefa: contar casas de banho do lote 5
 
 ## Descrição
 contar casas de banho do lote 5

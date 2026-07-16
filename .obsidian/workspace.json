@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarefa - contar casas de banho do lote 5.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarefa - contar casas de banho do lote 5"
+              "title": "Dashboard"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Equipa hoje"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,14 +235,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b3a365ee01fe3413",
+  "active": "716524404f85a852",
   "lastOpenFiles": [
+    "tarefas/Águas Interiores/Tarefa - aguas interiores piso 2 lote 6.md",
+    "tarefas/Águas Interiores/Untitled.md",
+    "Tarefa - contar casas de banho do lote 5.md",
+    "Equipa/Equipa hoje.md",
     "Equipa/Presenças/Presenças - ouro valley - 2026-06-22.md",
     "Equipa/Pessoas/Moisés kalandula.md",
     "Equipa/Pessoas/Mario sousa.md",
     "Equipa/Pessoas/José Magalhães.md",
     "Sem título.md",
-    "Tarefa - contar casas de banho do lote 5.md",
     "Sem título 1.md",
     "Templates/Template - Pessoa.md",
     "Templates/Ação - Nova Pessoa.md",
@@ -261,9 +263,6 @@
     "tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
     "Obras/Next Yard 1/lote 10E.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 2.md",
-    "copilot/copilot-conversations/Ouro_Valley_Status@20260629_123459.md",
-    "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
-    "Obras/Ouro Valley/Ouro Valley - Lote 5.md",
     "Obras/Next Yard 1/Lotes",
     "Obras/Next Yard 1",
     "Gestão/Dashboard Chefe",
