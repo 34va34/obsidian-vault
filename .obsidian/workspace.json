@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d1fc449e27ba8b70",
+        "id": "110ec2c81385c6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "adfd4561901eb4ad",
+            "id": "716524404f85a852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2026-07-16 12-19-01.md",
+                "file": "Tarefa - contar casas de banho do lote 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks Plugin - Review and check your Statuses 2026-07-16 12-19-01"
+              "title": "Tarefa - contar casas de banho do lote 5"
+            }
+          },
+          {
+            "id": "b3a365ee01fe3413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipa/Equipa hoje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipa hoje"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,12 +236,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "adfd4561901eb4ad",
+  "active": "b3a365ee01fe3413",
   "lastOpenFiles": [
-    "Tasks Plugin - Review and check your Statuses 2026-06-22 12-50-43.md",
-    "Tasks Plugin - Review and check your Statuses 2026-07-16 12-19-01.md",
-    "Tarefa - ligar caixas no piso 2 lote 6.md",
+    "Equipa/Presenças/Presenças - ouro valley - 2026-06-22.md",
+    "Equipa/Pessoas/Moisés kalandula.md",
+    "Equipa/Pessoas/Mario sousa.md",
+    "Equipa/Pessoas/José Magalhães.md",
+    "Sem título.md",
     "Tarefa - contar casas de banho do lote 5.md",
+    "Sem título 1.md",
+    "Templates/Template - Pessoa.md",
+    "Templates/Ação - Nova Pessoa.md",
+    "copilot/copilot-conversations/Registrar_Presenças@20260622_085050.md",
+    "Tasks Plugin - Review and check your Statuses 2026-07-16 12-19-01.md",
+    "Tasks Plugin - Review and check your Statuses 2026-06-22 12-50-43.md",
+    "Tarefa - ligar caixas no piso 2 lote 6.md",
     "Relatórios Automáticos.md",
     "Falha - ouro valley - lote 6 - 2026-06-22.md",
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
@@ -240,15 +264,6 @@
     "copilot/copilot-conversations/Ouro_Valley_Status@20260629_123459.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 4.md",
     "Obras/Ouro Valley/Ouro Valley - Lote 5.md",
-    "Obras/Ouro Valley/Ouro Valley - Geral.md",
-    "Obras/Ouro Valley/Ouro Valley - Lote 2 1.md",
-    "Obras/Next Yard 2/Next Yard 2 - Bloco A.md",
-    "Obras/Next Yard 2/Next Yard 2 - Bloco C.md",
-    "Obras/Next Yard 2/Next Yard 2 - Bloco B.md",
-    "Obras/Next Yard 2/Next Yard 2 - Geral.md",
-    "Obras/Next Yard 1/Next Yard 1 - Geral.md",
-    "Sem título.md",
-    "bloco 12A.md",
     "Obras/Next Yard 1/Lotes",
     "Obras/Next Yard 1",
     "Gestão/Dashboard Chefe",
