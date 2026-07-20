@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão/Dashboard Chefe/Dashboard Principal.md",
+                "file": "Templates/Ação - Realizar Vistoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard Principal"
+              "title": "Ação - Realizar Vistoria"
             }
           }
         ]
@@ -221,14 +221,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "120d59677b893e51",
+  "active": "a38b210fd2e57fa8",
   "lastOpenFiles": [
+    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Equipa/Equipa hoje.md",
     "copilot/copilot-conversations/Lista_Trabalhos@20260612_125031.md",
     "diário/diário -diario/diario.md",
     "diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
     "Templates/Ação - Início de Dia.md",
-    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Sem título 1.md",
     "Sem título.md",
     "Diário - ouro valley - 2026-07-16.md",
