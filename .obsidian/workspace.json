@@ -223,6 +223,10 @@
   },
   "active": "9b3d2e75c0509b5e",
   "lastOpenFiles": [
+    "textgenerator/templates/huggingface/summarizeBART.md",
+    "textgenerator/templates/huggingface/classify-bart-large-mnli.md",
+    "textgenerator/templates/huggingface/completeTextBloom.md",
+    "textgenerator/templates/huggingface",
     "copilot/copilot-conversations/Ouro_Valley_AI_Errors@20260720_101056.md",
     "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Tarefa - ligar caixas no piso 2 lote 6.md",
@@ -246,9 +250,6 @@
     "Equipa/Pessoas/Mario sousa.md",
     "Equipa/Pessoas/José Magalhães.md",
     "Templates/Template - Pessoa.md",
-    "Templates/Ação - Nova Pessoa.md",
-    "copilot/copilot-conversations/Registrar_Presenças@20260622_085050.md",
-    "Tasks Plugin - Review and check your Statuses 2026-07-16 12-19-01.md",
     "Obras/Next Yard 1/Lotes",
     "Obras/Next Yard 1",
     "Gestão/Dashboard Chefe",
@@ -258,7 +259,6 @@
     "Equipa/Presenças",
     "Equipa/Presenças",
     "Scripts/daily_maintenance.sh",
-    "Excalidraw",
     "Sem título.canvas"
   ]
 }
