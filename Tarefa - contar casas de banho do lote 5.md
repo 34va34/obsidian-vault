@@ -1,9 +1,9 @@
 ---
 tags: tarefa, trabalho
-status: Pendente
-due: 
+status: realizado
+due:
 project: ouro valley
-responsavel: 
+responsavel: vânio Andrade
 ---
  📝 Tarefa: contar casas de banho do lote 5
 

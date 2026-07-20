@@ -36,13 +36,16 @@ morada: Ouro Valley — Lote 5
 - [x] tubos de ppr no teto corredor🔽 🔁 ➕ 2026-06-05 ✅ 2026-06-29
 - [ ] ligação de esgotos🔼 
 - [x] colocação de abraçadeiras piso 2 ➕ 2026-06-22 ✅ 2026-06-29
-- [ ] inicio de esgoto🔼 🛫 2026-06-29 
+- [x] inicio de esgoto 🔼 🛫 2026-06-29 ✅ 2026-07-20
+- [ ] prumadas para lavandaria🔼 
+- [ ] prumadas da cozinha🔼 
 
 ---
 
 ## ✅ Trabalhos Concluídos
 - tubo de ppr no corredor piso 1
 - ppr teto concluído 
+- esgotos piso 1 e 2
 
 ---
 
@@ -78,8 +81,8 @@ morada: Ouro Valley — Lote 5
 ---
 
 ## ⚠️ Problemas / Ocorrências
-- falta joelhos ppr 32
-- falta encomendar pvc, tubos e acessórios 
+- ~~falta joelhos ppr 32~~
+- ~~falta encomendar pvc, tubos e acessórios~~ 
 
 ## 📝 Notas
 - [[Ouro Valley - Geral]]
