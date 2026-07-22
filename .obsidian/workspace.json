@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,7 +222,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9b3d2e75c0509b5e",
+  "active": "2602f7dda1bdbee0",
   "lastOpenFiles": [
     "textgenerator/templates/huggingface/summarizeBART.md",
     "textgenerator/templates/huggingface/classify-bart-large-mnli.md",
