@@ -15,9 +15,12 @@ resultado:
 
 ## 📋 Check-list de Verificação
 - [ ] Limpeza do local
-- [ ] Conformidade com o projeto
-- [ ] Acabamentos
-- [ ] Funcionamento de sistemas (se aplicável)
+- [ ] teste de esgotos/fugas
+- [ ] confirmar medidas esgotos
+- [ ] confirmar medidas das águas
+- [ ] confirmar caimento dos esgotos
+- [ ] confirmar kombifixo se está bem fixo.
+- [ ] teste de pressão águas 
 
 ## 💬 Observações do Chefe
 - 
