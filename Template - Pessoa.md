@@ -1,10 +1,21 @@
 ---
-tags: pessoa, equipa
-nome: Tiago
-cargo: canalizador
-estado: inativo
+tags:
+  - pessoa, equipa
+nome:
+  "{ name }":
+cargo:
+  "{ role }":
+estado:
+obra:
+data_inicio:
+data_fim:
 ---
-# 👤 Tiago
+# 👤 {{}}
+
+## 📋 Informações Gerais
+- **Cargo**: {{}}
+- **Contacto**: 
+- **Estado**: Ativo
 
 ---
 

@@ -1,10 +1,14 @@
 ---
 tags: pessoa, equipa
 nome: abel mande
-cargo: 
-estado: Ativo
+cargo: canalizador
+estado: inativo
+observação:
+  - mudou de obra
+início:
+saída: 2026-07-28
 ---
-# 👤 abel mande
+# 👤 Abel mande
 
 ---
 

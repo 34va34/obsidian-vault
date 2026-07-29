@@ -3,7 +3,10 @@ tags: tarefa, trabalho
 status: Pendente
 due:
 project:
-responsavel: diogo
+responsavel:
+data_inicio:
+data_fim:
+data_atribuicao:
 ---
 # 📝 Tarefa: completar lote 6
 
@@ -16,10 +19,10 @@ falta ligar casa de banho piso 3
 - **Status**: Pendente
 
 ## Obra/Projeto
-- **Obra**: ouro valley
-- **Lote**: 6
+- **Obra**:
+- **Lote**:
 
 ## Responsável
-- **Pessoa**: diogo
+
 
 ## Notas
