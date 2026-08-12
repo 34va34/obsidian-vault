@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão/Dashboard Chefe/Dashboard Principal.md",
+                "file": "Relatórios Automáticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard Principal"
+              "title": "Relatórios Automáticos"
             }
           }
         ]
@@ -223,6 +223,11 @@
   },
   "active": "b9f6b145d868cc75",
   "lastOpenFiles": [
+    "Relatórios Automáticos.md",
+    "Sem título.md",
+    "Relatório 20-20 - ouro valley - 2026-08-10.md",
+    "diário/diário -diario/diario.md",
+    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Tasks Plugin - Review and check your Statuses 2026-06-22 12-50-43.md",
     "Tarefa - ligar caixas no piso 2 lote 6.md",
     "Tarefa - contar casas de banho do lote 5.md",
@@ -230,11 +235,9 @@
     "Equipa/Pessoas/António.md",
     "Equipa/Presenças/Presenças - ouro valley - 2026-07-29.md",
     "diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
-    "diário/diário -diario/diario.md",
     "Sem título 1.md",
     "Diário - ouro valley - 2026-07-29.md",
     "Templates/Ação - Início de Dia.md",
-    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Gestão/Vistorias/Vistoria - ouro valley - lote 6 piso 1 - 2026-07-27.md",
     "Templates/Template - Tarefa de Trabalho.md",
     "Templates/Template - Mapa Semanal.md",
@@ -246,9 +249,6 @@
     "Equipa/Pessoas/abel mande.md",
     "Equipa/Pessoas/Afonso.md",
     "Equipa/Equipa hoje.md",
-    "Sem título.md",
-    "Gestão/Vistorias/lote 6.md",
-    "Templates/Ação - Realizar Vistoria.md",
     "Gestão/Vistorias",
     "textgenerator/templates/huggingface",
     "Obras/Next Yard 1/Lotes",
