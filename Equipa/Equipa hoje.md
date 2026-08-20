@@ -17,7 +17,7 @@ estado: Ativo
 
 | Funcionário          | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 | -------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[António.md]]       | [Ativo]  | 9             | 1            | [ ]     |             |
+| [[António Manuel]]       | [Ativo]  | 9             | 1            | [ ]     |             |
 | [[Afonso.md]]        | [Ativo]  | 9             | 0            | [ ]     |             |
 | [[Diogo nunes.md]]   | [Ativo]  | 8             | 0            | [ ]     |             |
 | [[Tiago rocha.md]]   | [Ativo]  | 8             | 0            | [ ]     |             |

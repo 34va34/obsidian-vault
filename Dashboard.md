@@ -119,7 +119,7 @@ Status:
 
 | Pessoa                     | Tarefas | Horas | Status |
 | -------------------------- | ------- | ----- | ------ |
-| [[António.md]] |         |       |        |
+| [[António Manuel]] |         |       |        |
 | [[Afonso.md]]  |         |       |        |
 | [[Diogo nunes.md]]   |         |       |        |
 | [[Tiago rocha.md]]   |         |       |        |

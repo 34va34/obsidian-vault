@@ -230,7 +230,7 @@ new Notice(`✅ Início de Dia concluído para ${obra}!`, 5000);
 ```
 
 ### Passo 2: Verificar as Pastas
-Certifique-se de que a pasta `Equipa/Pessoas` existe no seu Obsidian e que tem lá dentro as notas dos seus funcionários (como [[António]] ou [[Afonso]]) [^2]. O script precisa dessa pasta para listar as pessoas na tabela [^1].
+Certifique-se de que a pasta `Equipa/Pessoas` existe no seu Obsidian e que tem lá dentro as notas dos seus funcionários (como [[António Manuel]] ou [[Afonso]]) [^2]. O script precisa dessa pasta para listar as pessoas na tabela [^1].
 
 ### Passo 3: Como ver o erro real (se persistir)
 Se o erro continuar a aparecer:

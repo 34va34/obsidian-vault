@@ -4,7 +4,7 @@ nome: Mario sousa
 cargo: canalizador 
 estado: Ativo
 ---
-# 👤 Mario sousa
+# 👤 Mario Sousa
 
 ## Contacto
 - **Email**: 
@@ -15,3 +15,4 @@ estado: Ativo
 
 ## Observações
 - fez aguas na obra do quim
+- fez aguas aqui e esgotos prumadas cozinhas

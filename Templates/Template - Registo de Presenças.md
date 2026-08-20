@@ -12,7 +12,7 @@ obra: ouro valley
 
 | Funcionário                | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 | -------------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[António.md]] | [x ]     | 8             | 0            | [x ]    |             |
+| [[António Manuel]] | [x ]     | 8             | 0            | [x ]    |             |
 | [[Afonso.md]]  | [ x]     | 8             | 0            | [x ]    |             |
 | [[Diogo nunes.md]]   | [ x]     | 8             | 0            | [ ]     |             |
 | [[Tiago rocha.md]]   | [ x]     | 8             | 0            | [ ]     |             |

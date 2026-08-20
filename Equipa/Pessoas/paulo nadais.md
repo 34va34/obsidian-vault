@@ -4,7 +4,7 @@ nome: paulo nadais
 cargo: chefe de equipa
 estado: Ativo
 ---
-# 👤 paulo nadais
+# 👤 Paulo Nadais
 
 ## Contacto
 - **Email**: 

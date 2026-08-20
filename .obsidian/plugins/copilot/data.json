@@ -1,6 +1,9 @@
 {
   "userId": "e3ae49c2-1567-4c58-b53f-5f1a528f4559",
+  "isPaidUser": false,
   "isPlusUser": false,
+  "entitlementToken": "",
+  "entitlementExpiresAt": 0,
   "plusLicenseKey": "",
   "openAIApiKey": "",
   "openAIOrgId": "",
@@ -20,9 +23,6 @@
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
-  "githubCopilotAccessToken": "",
-  "githubCopilotToken": "",
-  "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "liquid/lfm-2.5-1.2b-instruct:free|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
@@ -33,10 +33,14 @@
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
+  "copilotFolder": "copilot",
+  "copilotRootHistory": [
+    "copilot"
+  ],
+  "upgradedToV8FromLegacy": false,
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
-  "generateAIChatTitleOnSave": true,
   "autoAddActiveContentToContext": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
@@ -59,10 +63,10 @@
       "isBuiltIn": true,
       "core": true,
       "plusExclusive": true,
-      "projectEnabled": false,
       "capabilities": [
         "vision"
       ],
+      "projectEnabled": false,
       "apiKey": ""
     },
     {
@@ -71,10 +75,10 @@
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
+      "projectEnabled": true,
       "apiKey": ""
     },
     {
@@ -467,34 +471,31 @@
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
   "showSuggestedPrompts": true,
-  "showRelevantNotes": true,
   "numPartitions": 1,
   "lexicalSearchRamLimit": 100,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
   "chatHistorySortStrategy": "recent",
-  "projectListSortStrategy": "recent",
   "projectsFolder": "copilot/projects",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "4.0.1",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
   "enableSemanticSearchV3": false,
   "enableSelfHostMode": false,
   "enableMiyo": false,
+  "enableMiyoSearchSkill": false,
   "miyoSearchAll": false,
-  "selfHostModeValidatedAt": null,
-  "selfHostValidationCount": 0,
-  "selfHostUrl": "",
-  "selfHostApiKey": "",
   "miyoServerUrl": "",
+  "miyoSyncedExclusions": "",
   "selfHostSearchProvider": "firecrawl",
   "firecrawlApiKey": "",
   "perplexityApiKey": "",
   "supadataApiKey": "",
+  "docProcessorBackend": "plus",
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": false,
   "autonomousAgentMaxIterations": 4,
@@ -523,6 +524,230 @@
   "defaultSystemPromptTitle": "",
   "autoCompactThreshold": 128000,
   "convertedDocOutputFolder": "",
-  "_keychainOnly": true,
-  "_keychainVaultId": "bb2407be"
+  "agentMode": {
+    "byok": {},
+    "activeBackend": "opencode",
+    "backends": {},
+    "debugFullFrames": true,
+    "welcomeDismissed": false,
+    "skills": {
+      "folder": "copilot/skills"
+    }
+  },
+  "providers": {
+    "1623c6dc-599c-4234-a4ba-2c964b675400": {
+      "providerType": "openai-compatible",
+      "displayName": "OpenRouter",
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "enableCors": false,
+      "requiresApiKey": true,
+      "origin": {
+        "kind": "byok",
+        "catalogProviderId": "openrouter"
+      },
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "addedAt": 1787210029813,
+      "apiKeyKeychainId": "copilot-vbb2407be-provider-1623c6dc-599c-4234-a4ba-2c964b675400"
+    },
+    "44eccc85-63fb-40c3-983d-8472f7992b03": {
+      "providerType": "google",
+      "displayName": "Gemini",
+      "baseUrl": "https://generativelanguage.googleapis.com/v1beta",
+      "enableCors": false,
+      "requiresApiKey": true,
+      "origin": {
+        "kind": "byok",
+        "catalogProviderId": "google"
+      },
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "addedAt": 1787210029840,
+      "apiKeyKeychainId": "copilot-vbb2407be-provider-44eccc85-63fb-40c3-983d-8472f7992b03"
+    }
+  },
+  "configuredModels": [
+    {
+      "configuredModelId": "4409d2e6-4622-4ff8-b767-c086ded29b49",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "google/gemini-2.5-flash",
+        "displayName": "google/gemini-2.5-flash"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "e8d19261-852b-4f05-bb5d-dac26f32364a",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "google/gemini-3.5-flash",
+        "displayName": "google/gemini-3.5-flash"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "4e9240f4-d560-4aed-b12a-db7bee811ee9",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "google/gemini-3.1-pro-preview",
+        "displayName": "google/gemini-3.1-pro-preview"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "0190be14-56f9-4294-8a5d-2af109d42ea0",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "google/gemini-2.5-pro",
+        "displayName": "google/gemini-2.5-pro"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "4787d024-25fa-4420-9edb-c8ed3be93711",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "openai/gpt-5.5",
+        "displayName": "openai/gpt-5.5"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "b5772d5b-bccc-4dec-8a29-69deac80a71e",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "openai/gpt-5.4-mini",
+        "displayName": "openai/gpt-5.4-mini"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "9d0009f1-4595-4436-873a-8f8c28672675",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "x-ai/grok-4.3",
+        "displayName": "x-ai/grok-4.3"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "bbb20e8c-6be9-49b9-bb5a-319288e2a50d",
+      "providerId": "1623c6dc-599c-4234-a4ba-2c964b675400",
+      "info": {
+        "id": "liquid/lfm-2.5-1.2b-instruct:free",
+        "displayName": "liquid/lfm-2.5-1.2b-instruct:free"
+      },
+      "configuredAt": 1787210029837
+    },
+    {
+      "configuredModelId": "dad9cf8a-bb22-4bd1-9e07-7e8fbe501cb8",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-3.5-flash",
+        "displayName": "gemini-3.5-flash"
+      },
+      "configuredAt": 1787210029845
+    },
+    {
+      "configuredModelId": "deed5318-704c-434e-91a9-5ba89431148b",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-3.1-flash-lite",
+        "displayName": "gemini-3.1-flash-lite"
+      },
+      "configuredAt": 1787210029845
+    },
+    {
+      "configuredModelId": "fdaef9f8-a6ee-4d85-9230-00859bdc89a0",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-2.5-flash",
+        "displayName": "gemini-2.5-flash"
+      },
+      "configuredAt": 1787210029845
+    },
+    {
+      "configuredModelId": "bdb4787f-bd39-46e4-9a21-e2111a8d8405",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-3.1-pro-preview",
+        "displayName": "gemini-3.1-pro-preview"
+      },
+      "configuredAt": 1787210029845
+    },
+    {
+      "configuredModelId": "9a5b28e0-292b-42ef-8e6f-c791b575b885",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-2.5-pro",
+        "displayName": "gemini-2.5-pro"
+      },
+      "configuredAt": 1787210029845
+    },
+    {
+      "configuredModelId": "085df61d-fcaa-42e9-a47c-1ee0064b8ecd",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-2.0-flash",
+        "displayName": "gemini-2.0-flash"
+      },
+      "configuredAt": 1787210029845
+    },
+    {
+      "configuredModelId": "4ea1b838-343f-4806-b73f-06cc8ffc269b",
+      "providerId": "44eccc85-63fb-40c3-983d-8472f7992b03",
+      "info": {
+        "id": "gemini-3.1-flash-image",
+        "displayName": "gemini-3.1-flash-image"
+      },
+      "configuredAt": 1787210029845
+    }
+  ],
+  "backends": {
+    "chat": {
+      "enabledModels": [
+        "4409d2e6-4622-4ff8-b767-c086ded29b49",
+        "e8d19261-852b-4f05-bb5d-dac26f32364a",
+        "4e9240f4-d560-4aed-b12a-db7bee811ee9",
+        "0190be14-56f9-4294-8a5d-2af109d42ea0",
+        "4787d024-25fa-4420-9edb-c8ed3be93711",
+        "b5772d5b-bccc-4dec-8a29-69deac80a71e",
+        "9d0009f1-4595-4436-873a-8f8c28672675",
+        "bbb20e8c-6be9-49b9-bb5a-319288e2a50d",
+        "dad9cf8a-bb22-4bd1-9e07-7e8fbe501cb8",
+        "deed5318-704c-434e-91a9-5ba89431148b",
+        "fdaef9f8-a6ee-4d85-9230-00859bdc89a0",
+        "bdb4787f-bd39-46e4-9a21-e2111a8d8405",
+        "9a5b28e0-292b-42ef-8e6f-c791b575b885",
+        "085df61d-fcaa-42e9-a47c-1ee0064b8ecd",
+        "4ea1b838-343f-4806-b73f-06cc8ffc269b"
+      ]
+    },
+    "opencode": {
+      "enabledModels": [
+        "4409d2e6-4622-4ff8-b767-c086ded29b49",
+        "e8d19261-852b-4f05-bb5d-dac26f32364a",
+        "4e9240f4-d560-4aed-b12a-db7bee811ee9",
+        "0190be14-56f9-4294-8a5d-2af109d42ea0",
+        "4787d024-25fa-4420-9edb-c8ed3be93711",
+        "b5772d5b-bccc-4dec-8a29-69deac80a71e",
+        "9d0009f1-4595-4436-873a-8f8c28672675",
+        "bbb20e8c-6be9-49b9-bb5a-319288e2a50d",
+        "dad9cf8a-bb22-4bd1-9e07-7e8fbe501cb8",
+        "deed5318-704c-434e-91a9-5ba89431148b",
+        "fdaef9f8-a6ee-4d85-9230-00859bdc89a0",
+        "bdb4787f-bd39-46e4-9a21-e2111a8d8405",
+        "9a5b28e0-292b-42ef-8e6f-c791b575b885",
+        "085df61d-fcaa-42e9-a47c-1ee0064b8ecd",
+        "4ea1b838-343f-4806-b73f-06cc8ffc269b"
+      ]
+    }
+  },
+  "generateAIChatTitleOnSave": true,
+  "showRelevantNotes": true,
+  "projectListSortStrategy": "recent",
+  "selfHostModeValidatedAt": null,
+  "selfHostValidationCount": 0,
+  "selfHostUrl": "",
+  "selfHostApiKey": "",
+  "_keychainVaultId": "bb2407be",
+  "settingsVersion": 9
 }

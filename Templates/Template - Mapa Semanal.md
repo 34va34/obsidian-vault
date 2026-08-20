@@ -11,7 +11,7 @@ obra:
 
 | Funcionário               | Seg | Ter | Qua | Qui | Sex | Sáb | Total Horas | Extras |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------: | :----: |
-| [[António.md\|António]]   | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   1    |
+| [[António Manuel\|António]]   | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   1    |
 | [[Afonso.md\|Afonso]]     | [x] | [x] | [x] | []  | [x] | [ ] |     40      |   0    |
 | [[Diogo nunes.md\|Diogo]] | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   0    |
 | [[Tiago rocha.md\|Tiago]] | [x] | [x] | [x] | [x] | [x] | [ ] |     40      |   0    |
