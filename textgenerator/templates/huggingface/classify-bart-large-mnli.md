@@ -13,6 +13,6 @@ output: '{{requestResults.labels.[0]}}'
 bodyParams:
 steaming: false
 ---
-{{selection}}
+{{casa}}
 ***
 =={{output}}==

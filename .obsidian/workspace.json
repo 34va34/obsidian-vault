@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relatórios Automáticos.md",
+                "file": "Equipa/Pessoas/António.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relatórios Automáticos"
+              "title": "António"
             }
           }
         ]
@@ -225,8 +225,20 @@
   },
   "active": "b9f6b145d868cc75",
   "lastOpenFiles": [
-    "Relatórios Automáticos.md",
+    "Equipa/Pessoas/andre Magalhães .md",
+    "Equipa/Pessoas/Afonso.md",
+    "Equipa/Pessoas/abel mande.md",
+    "Equipa/Pessoas/António rocha.md",
     "Sem título.md",
+    "Equipa/Pessoas/João tiago nvudi.md",
+    "Equipa/Pessoas/paulo nadais.md",
+    "Template - Pessoa.md",
+    "Templates/Ação - Registar Presenças.md",
+    "Relatórios Automáticos.md",
+    "textgenerator/templates/huggingface/classify-bart-large-mnli.md",
+    "textgenerator/templates/huggingface/summarizeBART.md",
+    "textgenerator/templates/huggingface/completeTextBloom.md",
+    "textgenerator/templates/dalle/artAnime.md",
     "Relatório 20-20 - ouro valley - 2026-08-10.md",
     "diário/diário -diario/diario.md",
     "Gestão/Dashboard Chefe/Dashboard Principal.md",
@@ -239,18 +251,6 @@
     "diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
     "Sem título 1.md",
     "Diário - ouro valley - 2026-07-29.md",
-    "Templates/Ação - Início de Dia.md",
-    "Gestão/Vistorias/Vistoria - ouro valley - lote 6 piso 1 - 2026-07-27.md",
-    "Templates/Template - Tarefa de Trabalho.md",
-    "Templates/Template - Mapa Semanal.md",
-    "Templates/Template - Encomenda de Material.md",
-    "Template - Pessoa.md",
-    "Equipa/Pessoas/Yuri.md",
-    "Gestão/Vistorias/Vistoria - ouro valley - lote 5 - 2026-07-29.md",
-    "Equipa/Pessoas/Tiago rocha.md",
-    "Equipa/Pessoas/abel mande.md",
-    "Equipa/Pessoas/Afonso.md",
-    "Equipa/Equipa hoje.md",
     "Gestão/Vistorias",
     "textgenerator/templates/huggingface",
     "Obras/Next Yard 1/Lotes",

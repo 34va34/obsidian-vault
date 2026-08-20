@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: António rocha
-cargo: 
-estado: Ativo
+cargo:
+estado: inativo
 ---
 # 👤 António rocha
 
