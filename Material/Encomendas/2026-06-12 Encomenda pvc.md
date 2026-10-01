@@ -6,6 +6,9 @@ estado: Pendente
 obra: ouro valley lote 6
 lote: 
 responsavel_recepcao: 
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Obra transferida
 ---
 # 📦 Encomenda — pvc
 

@@ -1,23 +1,26 @@
 ---
 tags: material, encomenda
 data_pedido: 2026-06-11
-data_entrega_prevista: 
+data_entrega_prevista:
 estado: Pendente
 obra: ouro valley
-lote: 
-responsavel_recepcao: 
+lote:
+responsavel_recepcao:
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Obra transferida
 ---
-# 📦 Encomenda — pvc 
+# 📦 Encomenda — pvc
 
 ## 📋 Info
 - **Data Pedido**: 2026-06-11
-- **Data Entrega Prevista**: 
+- **Data Entrega Prevista**:
 - **Status**: Pendente
 
 ## 🏢 Destino
 - **Obra**: [[ouro valley]]
 - **Lote**: 5
-- **Responsável Receção**: vânio Andrade 
+- **Responsável Receção**: vânio Andrade
 
 ## 📝 Detalhes do Material
 
@@ -35,14 +38,14 @@ responsavel_recepcao:
 |               |            |         |             |             |            |
 
 ## 💰 Valores
-- **Subtotal**: 
-- **IVA (23%)**: 
-- **Total**: 
+- **Subtotal**:
+- **IVA (23%)**:
+- **Total**:
 
 ## 📋 Referência
-- **Fatura**: 
-- **Guia Remessa**: 
-- **Nota de Pedido**: 
+- **Fatura**:
+- **Guia Remessa**:
+- **Nota de Pedido**:
 
 ## ✅ Receção
 - [ ] Material recebido conforme pedido
@@ -51,4 +54,4 @@ responsavel_recepcao:
 - [ ] Documentação conferida
 
 ## 📝 Notas
-calcular quantidades necessárias 
+calcular quantidades necessárias

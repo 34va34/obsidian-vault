@@ -1,9 +1,13 @@
 ---
 tags: obra, next-yard-2, geral
-estado: Em andamento
+estado: Concluído
 cliente: 
 morada: Next Yard 2
 data_inicio: 2026-05-15
+estado_anterior_transferencia: Em andamento
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Transferência de responsabilidade
 ---
 
 # 🏗️ Next Yard 2 — Visão Geral
@@ -109,3 +113,4 @@ antonio rocha
 - Next Yard 2 é de elevada complexidade
 - Bombas pluviais são críticas (agua retida)
 - Testes de casas de banho e cozinhas importantes antes de ocupação
+> **Transferência em 01/10/2026:** esta nota deixou de estar sob a minha responsabilidade. O histórico foi preservado; os trabalhos pendentes foram fechados administrativamente para não entrarem no acompanhamento atual.

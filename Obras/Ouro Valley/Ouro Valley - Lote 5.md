@@ -1,7 +1,11 @@
 ---
 tags: obra, ouro-valley, lote-5
-estado: Parado
+estado: Concluído
 morada: Ouro Valley — Lote 5
+estado_anterior_transferencia: Parado
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Transferência de responsabilidade
 ---
 
 # 🏗️ Ouro Valley — Lote 5
@@ -86,3 +90,4 @@ morada: Ouro Valley — Lote 5
 
 ## 📝 Notas
 - [[Ouro Valley - Geral]]
+> **Transferência em 01/10/2026:** esta nota deixou de estar sob a minha responsabilidade. O histórico foi preservado; os trabalhos pendentes foram fechados administrativamente para não entrarem no acompanhamento atual.

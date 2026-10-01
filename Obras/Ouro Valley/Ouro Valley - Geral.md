@@ -1,9 +1,13 @@
 ---
 tags: obra, ouro-valley
-estado: Em andamento
+estado: Concluído
 cliente: 
 morada: Ouro Valley
 data_inicio: 2026-05-11
+estado_anterior_transferencia: Em andamento
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Transferência de responsabilidade
 ---
 
 # 🏗️ Ouro Valley — Visão Geral
@@ -58,3 +62,4 @@ data_inicio: 2026-05-11
 - Lotes praticamente iguais em tipologia de trabalho
 - PPR isolado com válvulas identificadas (azul = fria, vermelho = quente)
 - Lote 6 é o mais avançado — serve de referência para os restantes
+> **Transferência em 01/10/2026:** esta nota deixou de estar sob a minha responsabilidade. O histórico foi preservado; os trabalhos pendentes foram fechados administrativamente para não entrarem no acompanhamento atual.

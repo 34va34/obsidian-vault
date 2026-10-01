@@ -7,6 +7,9 @@ estado: Pedido
 obra: Ouro Valley - Geral
 lote: Lote 6
 responsavel_recepcao: Abel
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Obra transferida
 ---
 
 # 📦 Encomenda — Conexões e Válvulas

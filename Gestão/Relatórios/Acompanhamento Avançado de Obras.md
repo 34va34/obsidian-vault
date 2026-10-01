@@ -10,11 +10,12 @@ atualizacao: hoje
 ## 🚦 Resumo executivo
 
 ```dataviewjs
-const obras = dv.pages('"Obras"').where(p => p.estado);
-const tarefas = dv.pages('"Tarefas"').where(p => p.estado);
-const falhas = dv.pages('"Gestão/Falhas"');
-const vistorias = dv.pages('"Gestão/Vistorias"');
-const encomendas = dv.pages('"Material/Encomendas"').where(p => p.estado);
+const current = p => p.responsabilidade_atual !== 'Outra pessoa' && (!p.obra || String(p.obra).toLowerCase().includes('lavandeira'));
+const obras = dv.pages('"Obras"').where(p => p.estado).where(current);
+const tarefas = dv.pages('"Tarefas"').where(p => p.estado).where(current);
+const falhas = dv.pages('"Gestão/Falhas"').where(current);
+const vistorias = dv.pages('"Gestão/Vistorias"').where(current);
+const encomendas = dv.pages('"Material/Encomendas"').where(p => p.estado).where(current);
 const ativos = tarefas.where(p => !['Concluído', 'Cancelado'].includes(String(p.estado)));
 const falhasAbertas = falhas.where(p => !['Concluído', 'Resolvida'].includes(String(p.estado)));
 const encomendasPendentes = encomendas.where(p => ['Pendente', 'Pedido'].includes(String(p.estado)));
@@ -36,7 +37,7 @@ dv.table(['Indicador', 'Valor', 'Ação'], [
 ```dataview
 TABLE obra as "Obra", lote as "Lote", estado as "Estado", data_inicio as "Início", data_conclusao as "Conclusão", tempo_total as "Tempo"
 FROM "Obras"
-WHERE obra AND lote
+WHERE obra AND lote AND responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT obra ASC, lote ASC
 ```
 
@@ -45,7 +46,7 @@ SORT obra ASC, lote ASC
 ```dataview
 TABLE obra as "Obra", lote as "Lote", piso as "Piso", estado as "Estado", tempo_total as "Tempo", data_inicio as "Início"
 FROM "Obras"
-WHERE obra AND lote AND piso
+WHERE obra AND lote AND responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira") AND piso
 SORT obra ASC, lote ASC, piso ASC
 ```
 
@@ -54,7 +55,7 @@ SORT obra ASC, lote ASC, piso ASC
 ```dataview
 TABLE obra as "Obra", lote as "Lote", piso as "Piso", estado as "Estado"
 FROM "Obras"
-WHERE obra AND estado != "Concluído" AND !data_inicio
+WHERE obra AND estado != "Concluído" AND !data_inicio AND responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT obra ASC, lote ASC, piso ASC
 ```
 
@@ -65,7 +66,7 @@ SORT obra ASC, lote ASC, piso ASC
 ```dataview
 TABLE obra as "Obra", lote as "Lote", piso as "Piso", trabalho_modelo as "Trabalho reutilizado", estado as "Estado", responsavel as "Responsável", data_limite as "Prazo"
 FROM "Tarefas"
-WHERE estado != "Concluído"
+WHERE estado != "Concluído" AND responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT obra ASC, lote ASC, estado ASC, data_limite ASC
 ```
 
@@ -73,7 +74,7 @@ SORT obra ASC, lote ASC, estado ASC, data_limite ASC
 
 ```dataviewjs
 const hoje = dv.date('today');
-const paginas = dv.pages('"Tarefas"').where(p => p.estado && !['Concluído', 'Cancelado'].includes(String(p.estado)) && p.data_limite);
+const paginas = dv.pages('"Tarefas"').where(p => p.estado && p.responsabilidade_atual !== 'Outra pessoa' && String(p.obra ?? '').toLowerCase().includes('lavandeira') && !['Concluído', 'Cancelado'].includes(String(p.estado)) && p.data_limite);
 const atrasadas = paginas.where(p => {
   const prazo = dv.date(p.data_limite);
   return prazo && prazo < hoje;
@@ -86,6 +87,7 @@ dv.table(['Tarefa', 'Obra', 'Lote', 'Piso', 'Prazo', 'Estado', 'Responsável'], 
 ```dataview
 TABLE rows.length as "Nº", rows.obra as "Obras", rows.estado as "Estados"
 FROM "Tarefas/Reutilizadas"
+WHERE responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 GROUP BY trabalho_modelo
 SORT rows.length DESC
 ```
@@ -97,6 +99,7 @@ SORT rows.length DESC
 ```dataview
 TABLE obra as "Obra", lote as "Lote/Piso", data as "Data", resultado as "Resultado", trabalhos_ids as "Modelos verificados"
 FROM "Gestão/Vistorias"
+WHERE responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT data DESC
 ```
 
@@ -105,7 +108,7 @@ SORT data DESC
 ```dataview
 TABLE obra as "Obra", lote as "Lote/Piso", data as "Data", file.link as "Abrir vistoria"
 FROM "Gestão/Vistorias"
-WHERE !resultado OR resultado = ""
+WHERE responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira") AND (!resultado OR resultado = "")
 SORT data ASC
 ```
 
@@ -114,7 +117,7 @@ SORT data ASC
 ```dataview
 TABLE obra as "Obra", lote as "Lote", gravidade as "Gravidade", estado as "Estado", data as "Data", file.link as "Abrir falha"
 FROM "Gestão/Falhas"
-WHERE estado != "Concluído"
+WHERE responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira") AND estado != "Concluído"
 SORT gravidade DESC, data ASC
 ```
 
@@ -144,7 +147,7 @@ LIMIT 30
 ```dataview
 TABLE obra as "Obra", lote as "Lote", estado as "Estado", data_pedido as "Pedido", data_entrega_prevista as "Entrega", valor_total as "Total"
 FROM "Material/Encomendas"
-WHERE estado = "Pendente" OR estado = "Pedido"
+WHERE (estado = "Pendente" OR estado = "Pedido") AND contains(lower(obra), "lavandeira")
 SORT data_entrega_prevista ASC, data_pedido ASC
 ```
 
@@ -153,7 +156,7 @@ SORT data_entrega_prevista ASC, data_pedido ASC
 ```dataview
 TABLE obra as "Obra", lote as "Lote", estado as "Estado", file.link as "Encomenda"
 FROM "Material/Encomendas"
-WHERE !valor_total OR valor_total = ""
+WHERE contains(lower(obra), "lavandeira") AND (!valor_total OR valor_total = "")
 SORT obra ASC, data_pedido ASC
 ```
 
@@ -164,6 +167,7 @@ SORT obra ASC, data_pedido ASC
 ```dataview
 TABLE data as "Data", obra as "Obra", estado as "Estado", file.link as "Registo"
 FROM "Equipa/Presenças"
+WHERE responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT data DESC
 LIMIT 15
 ```
@@ -173,6 +177,7 @@ LIMIT 15
 ```dataview
 TABLE data as "Data", obra as "Obra", lote as "Lote", piso as "Piso", estado as "Estado", file.link as "Diário"
 FROM "Diário/Diários Diários"
+WHERE responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT data DESC
 LIMIT 15
 ```

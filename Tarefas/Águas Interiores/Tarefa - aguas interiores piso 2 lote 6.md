@@ -1,9 +1,13 @@
 ---
 tags: tarefa, trabalho
-estado: Em andamento
+estado: Concluído
 data_limite: "false"
 obra: ouro valley
 responsavel:
+estado_anterior_transferencia: Em andamento
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Transferência de responsabilidade
 ---
 # 📝 Tarefa: aguas interiores piso 2 lote 6
 
@@ -25,3 +29,4 @@ aguas interiores piso 2 lote 6
 - atribuido:: [[domingos felix]]
 
 ## Notas
+> **Transferência em 01/10/2026:** esta nota deixou de estar sob a minha responsabilidade. O histórico foi preservado; os trabalhos pendentes foram fechados administrativamente para não entrarem no acompanhamento atual.

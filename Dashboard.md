@@ -24,13 +24,16 @@ limit 5
 
 ## 📊 STATUS GERAL DAS OBRAS
 
-### Ouro Valley — Visão Geral
+### Lavandeira — Visão Atual
 
-| Lote                                       | Progresso | Responsável              | Status          |
-| ------------------------------------------ | --------- | ------------------------ | --------------- |
-| [[Obras/Ouro Valley/Ouro Valley - Lote 6]] | 70%       | [[Diogo nunes.md]] | 🟢 Avançado     |
-| [[Obras/Ouro Valley/Ouro Valley - Lote 4]] | 40%       |                          | 🔵 Em andamento |
-| [[Obras/Ouro Valley/Ouro Valley - Lote 2]] | 20%       |                          | 🟡 Iniciando    |
+```dataview
+TABLE lote as "Lote", estado as "Estado", data_inicio as "Início", data_conclusao as "Conclusão", file.link as "Abrir"
+FROM "Obras/Lavandeira/Lotes"
+WHERE responsabilidade_atual != "Outra pessoa"
+SORT lote ASC
+```
+
+> As obras Ouro Valley e Next Yard continuam no Vault como histórico transferido, mas já não aparecem como acompanhamento atual.
 
 ---
 
@@ -84,7 +87,7 @@ SORT Data ASC
 ```dataview
 TABLE Material as "Material", Quantidade as "Qtd", Fornecedor as "Fornecedor"
 FROM "Material/Encomendas"
-WHERE date(Data) = today()
+WHERE date(Data) = today() AND responsabilidade_atual != "Outra pessoa" AND (obra = "Lavandeira" OR !obra)
 SORT Material ASC
 ```
 
@@ -191,6 +194,6 @@ LIMIT 5
 
 - **Período Relatório**: 20/mês - 20/mês
 - **Equipa**: 6 pessoas
-- **Obras Ativas**: 3 lotes
-- **Tarefas Totais**: 24
-- **Taxa Conclusão**: 45%
+- **Obra sob a minha responsabilidade**: Lavandeira
+- **Obras transferidas para histórico**: Ouro Valley, Next Yard 1, Next Yard 2 e Next Yard 3
+- **Acompanhamento atual**: apenas Lavandeira

@@ -1,9 +1,13 @@
 ---
 tags: tarefa, trabalho
-estado: Pendente
+estado: Concluído
 data_limite:
 obra: ouro valley
 responsavel: diogo
+estado_anterior_transferencia: Pendente
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Transferência de responsabilidade
 ---
 # 📝 Tarefa: prumadas lote 4
 
@@ -25,3 +29,4 @@ prumadas lote 4
 
 ## Notas
 falta abrir carotes/alargar
+> **Transferência em 01/10/2026:** esta nota deixou de estar sob a minha responsabilidade. O histórico foi preservado; os trabalhos pendentes foram fechados administrativamente para não entrarem no acompanhamento atual.

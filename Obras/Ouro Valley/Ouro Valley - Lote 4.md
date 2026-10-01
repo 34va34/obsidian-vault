@@ -1,7 +1,11 @@
 ---
 tags: obra, ouro-valley, lote-4
-estado: Em andamento
+estado: Concluído
 morada: Ouro Valley — Lote 4
+estado_anterior_transferencia: Em andamento
+data_transferencia: 2026-10-01
+responsabilidade_atual: Outra pessoa
+fecho_motivo: Transferência de responsabilidade
 ---
    
 # 🏗️ Ouro Valley — Lote 4
@@ -94,3 +98,4 @@ Furação dos pisos 1,2,3,4,5
 
 ## 📝 Notas
 - [[Ouro Valley - Geral]]
+> **Transferência em 01/10/2026:** esta nota deixou de estar sob a minha responsabilidade. O histórico foi preservado; os trabalhos pendentes foram fechados administrativamente para não entrarem no acompanhamento atual.

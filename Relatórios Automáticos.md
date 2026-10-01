@@ -15,6 +15,7 @@ Este painel utiliza o **Dataview** para calcular dados em tempo real com base na
 ```dataview
 TABLE sum(rows.valor_total) as "Total Gasto", count(rows) as "Nº Encomendas"
 FROM "Material/Encomendas"
+WHERE responsabilidade_atual != "Outra pessoa" AND (obra = "Lavandeira" OR !obra)
 GROUP BY obra
 ```
 
@@ -22,7 +23,7 @@ GROUP BY obra
 ```dataview
 TABLE data_entrega_prevista as "Entrega Prevista", responsavel_recepcao as "Responsável"
 FROM "Material/Encomendas"
-WHERE estado = "Pendente" OR estado = "Pedido"
+WHERE (estado = "Pendente" OR estado = "Pedido") AND responsabilidade_atual != "Outra pessoa" AND (obra = "Lavandeira" OR !obra)
 SORT data_entrega_prevista ASC
 ```
 
@@ -56,7 +57,7 @@ GROUP BY funcionario
 ```dataview
 TABLE estado as "Estado", data_inicio as "Início", morada as "Localização"
 FROM "Obras"
-WHERE tags = "obra" AND estado != "Concluído"
+WHERE tags = "obra" AND estado != "Concluído" AND responsabilidade_atual != "Outra pessoa" AND (obra = "Lavandeira" OR !obra)
 SORT estado DESC
 ```
 
@@ -64,7 +65,7 @@ SORT estado DESC
 ```dataview
 TABLE obra as "Obra", lote as "Lote", piso as "Piso", trabalho_modelo as "Trabalho", estado as "Estado", responsavel as "Responsável"
 FROM "Tarefas/Reutilizadas"
-WHERE estado != "Concluído"
+WHERE estado != "Concluído" AND responsabilidade_atual != "Outra pessoa" AND contains(lower(obra), "lavandeira")
 SORT obra ASC, lote ASC, piso ASC, estado ASC
 ```
 

@@ -14,7 +14,7 @@ tags: dashboard, gestao
 \`\`\`dataview
 TABLE gravidade as "Gravidade", estado as "Estado", data as "Data"
 FROM "Gestão/Falhas"
-WHERE estado != "Concluído"
+WHERE estado != "Concluído" AND responsabilidade_atual != "Outra pessoa" AND (obra = "Lavandeira" OR !obra)
 SORT data DESC
 \`\`\`
 
