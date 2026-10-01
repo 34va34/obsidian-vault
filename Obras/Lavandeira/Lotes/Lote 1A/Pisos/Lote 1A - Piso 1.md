@@ -7,20 +7,20 @@ estado: Em andamento
 tempo_total: 0h
 data_inicio: 2026-09-29
 data_conclusao:
-casas_parte_a: 7
-casas_parte_b: 6
-total_casas: 13
+casas_bloco_a: 7
+casas_bloco_b: 5
+total_casas: 12
 ---
 
 # 🏗️ Lavandeira — Lote 1A — Piso 1
 
-## 🏠 Distribuição de casas por parte
+## 🏠 Distribuição de casas por bloco
 
-| Parte | Casas |
+| Bloco | Casas |
 |---|---:|
-| Parte A | 7 |
-| Parte B | 6 |
-| **Total do piso** | **13** |
+| Bloco A | 7 |
+| Bloco B | 5 |
+| **Total do piso** | **12** |
 
 
 - **Obra**: [[Lavandeira - Geral]]

@@ -4,9 +4,9 @@ obra: Lavandeira
 lote: 1A
 estado: Em andamento
 data_inicio: 2026-10-28
-total_casas: 78
-casas_parte_a: Por confirmar no piso 6
-casas_parte_b: Por confirmar no piso 6
+total_casas: 77
+casas_bloco_a: Por confirmar no piso 6
+casas_bloco_b: Por confirmar no piso 6
 ---
 
 # 🏗️ Lavandeira — Lote 1A
@@ -35,26 +35,26 @@ casas_parte_b: Por confirmar no piso 6
 - [[Lote 1A - Piso 5]]
 - [[Lote 1A - Piso 6]]
 
-## 🏠 Distribuição de casas por parte e piso
+## 🏠 Distribuição de casas por bloco e piso
 
-| Piso | Parte A | Parte B | Total |
+| Piso | Bloco A | Bloco B | Total |
 |---|---:|---:|---:|
 | Piso -1 | 7 | 0 | 7 |
-| Piso 1 | 7 | 6 | 13 |
+| Piso 1 | 7 | 5 | 12 |
 | Piso 2 | 7 | 6 | 13 |
 | Piso 3 | 7 | 6 | 13 |
 | Piso 4 | 7 | 6 | 13 |
 | Piso 5 | 7 | 6 | 13 |
 | Piso 6 | Por confirmar | Por confirmar | 6 |
-| **Total Lote 1A** | **Por confirmar** | **Por confirmar** | **78** |
+| **Total Lote 1A** | **Por confirmar** | **Por confirmar** | **77** |
 
-> O piso 6 tem 6 casas no total; a divisão dessas casas entre as Partes A e B fica por confirmar.
+> O piso 6 tem 6 casas no total; a divisão dessas casas entre os Blocos A e B fica por confirmar.
 
 ## 📝 Notas
 
-- Total atualizado: **78 casas**.
-- Distribuição conhecida: piso -1 com 7 casas na Parte A e nenhuma na Parte B; pisos 1 a 5 com 7 casas na Parte A e 6 na Parte B; piso 6 com 6 casas no total.
-- Os lotes 1A e 1B têm a mesma configuração.
+- Total atualizado: **77 casas**.
+- Distribuição conhecida: piso -1 com 7 casas no Bloco A e nenhuma no Bloco B; piso 1 com 7 casas no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 casas no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total.
+- O Lote 1A está dividido nos Blocos A e B. O Lote 1B mantém a sua configuração registada separadamente.
 
 ## 🔁 Trabalhos reutilizados neste local
 
