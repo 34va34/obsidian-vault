@@ -177,6 +177,7 @@ LIMIT 5
 | 📝 **Nova Tarefa** | [[Templates/Ação - Nova Tarefa]] |
 | 🧰 **Biblioteca de Trabalhos** | [[Biblioteca de Trabalhos]] |
 | 🔁 **Repetir Trabalhos num Lote** | [[Templates/Ação - Repetir Trabalhos]] |
+| ✅ **Nova Vistoria por Trabalhos** | [[Templates/Ação - Realizar Vistoria]] |
 | 📊 **Novo Relatório** | [[Templates/Ação - Novo Relatório]] |
 
 ---

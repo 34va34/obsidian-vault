@@ -17,6 +17,19 @@ Esta biblioteca reúne trabalhos que já foram realizados ou planeados nas obras
 
 > A ação nunca copia datas de conclusão, prioridades, equipas ou responsáveis das obras anteriores.
 
+## Como usar os trabalhos numa vistoria
+
+Para verificar um piso, abra [[Templates/Ação - Realizar Vistoria]]. A ação pergunta a obra, o lote/piso e se quer verificar todos os trabalhos ou apenas algumas categorias.
+
+Na vistoria é criada uma tabela ligada à mesma biblioteca, com quatro opções por trabalho:
+
+- **Feito** — o trabalho foi realizado corretamente;
+- **Em falta** — ainda não foi realizado;
+- **Com erro** — foi realizado, mas precisa de correção;
+- **N/A** — não se aplica a esse piso.
+
+Existe ainda uma tabela de **Não conformidades / correções** para registar o problema, a correção, o responsável, o prazo e o estado.
+
 ## Catálogo atual
 
 ### Preparação
