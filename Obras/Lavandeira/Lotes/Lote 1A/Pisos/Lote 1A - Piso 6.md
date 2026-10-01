@@ -18,7 +18,7 @@ data_conclusao:
 
 ## ✅ O que já foi feito
 
--
+-tubo da pluvia forcado na horizontal
 
 ## 🔨 O que está por fazer
 
@@ -26,7 +26,9 @@ data_conclusao:
 
 ## ⏳ O que está pendente
 
--
+- ligação dos ralos ao tubo principal, 1x de dn 75 e o outro de dn 90
+- no de dn 90 falta retirar redução do ralo e colocar curva direta 
+- retirar calha tipo hilti deixada no local
 
 ## ⏱️ Registo de execução
 

@@ -168,7 +168,7 @@ LIMIT 5
 
 | Ação | Link |
 |------|------|
-| 🌅 **Início de Dia (Presenças + Tarefas)** | [[Templates/Ação - Início de Dia]] |
+| 🌅 **Início de Dia (Presenças + Tarefas)** | [[Ação - Início de Dia]] |
 | 🚀 **Nova Obra** | [[Templates/Ação - Nova Obra]] |
 | 👤 **Nova Pessoa** | [[Templates/Ação - Nova Pessoa]] |
 | 📅 **Mapa de Presenças Semanal** | [[Templates/Ação - Novo Mapa Semanal]] |

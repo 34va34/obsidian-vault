@@ -26,7 +26,7 @@ data_conclusao:
 
 ## ⏳ O que está pendente
 
--
+- falta terminar ligação da pluvia forcado 
 
 ## ⏱️ Registo de execução
 
