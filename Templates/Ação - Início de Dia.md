@@ -11,7 +11,7 @@ const date = tp.date.now("YYYY-MM-DD");
 // --- Função auxiliar para garantir que uma pasta existe ---
 async function ensureFolderExists(folderPath) {
     const folder = app.vault.getAbstractFileByPath(folderPath);
-    if (!folder || !(folder instanceof tp.obsidian.TFolder)) {
+    if (!folder || !Array.isArray(folder.children)) {
         try {
             await app.vault.createFolder(folderPath);
             new Notice(`Pasta '${folderPath}' criada.`, 3000);
@@ -37,10 +37,10 @@ if (!presencaTargetFolder) {
 const peopleFolder = app.vault.getAbstractFileByPath("Equipa/Pessoas");
 let tableRows = "";
 
-if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
+if (peopleFolder && Array.isArray(peopleFolder.children)) {
     // Ordenar funcionários por nome
     const peopleFiles = peopleFolder.children
-        .filter(f => f instanceof tp.obsidian.TFile && f.extension === "md")
+        .filter(f => f.extension === "md")
         .sort((a, b) => a.basename.localeCompare(b.basename));
 
     for (const file of peopleFiles) {
@@ -97,6 +97,10 @@ if (tarefasInput) {
 const diarioFolder = "Diário/Diários Diários";
 const diarioFileName = `Diário - ${obra} - ${date}`;
 const diarioTargetFolder = await ensureFolderExists(diarioFolder);
+if (!diarioTargetFolder) {
+    new Notice(`Erro: Não foi possível aceder ou criar a pasta '${diarioFolder}'. Script abortado.`, 5000);
+    return;
+}
 
 const diarioContent = `---
 tags: diario, obra
