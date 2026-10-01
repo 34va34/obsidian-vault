@@ -4,6 +4,9 @@ obra: Lavandeira
 lote: 1B
 estado: Em andamento
 data_inicio: 2026-10-28
+total_casas: 78
+casas_parte_a: Por confirmar no piso 6
+casas_parte_b: Por confirmar no piso 6
 ---
 
 # 🏗️ Lavandeira — Lote 1B
@@ -32,9 +35,26 @@ data_inicio: 2026-10-28
 - [[Lote 1B - Piso 5]]
 - [[Lote 1B - Piso 6]]
 
+## 🏠 Distribuição de casas por parte e piso
+
+| Piso | Parte A | Parte B | Total |
+|---|---:|---:|---:|
+| Piso -1 | 7 | 0 | 7 |
+| Piso 1 | 7 | 6 | 13 |
+| Piso 2 | 7 | 6 | 13 |
+| Piso 3 | 7 | 6 | 13 |
+| Piso 4 | 7 | 6 | 13 |
+| Piso 5 | 7 | 6 | 13 |
+| Piso 6 | Por confirmar | Por confirmar | 6 |
+| **Total Lote 1B** | **Por confirmar** | **Por confirmar** | **78** |
+
+> O piso 6 tem 6 casas no total; a divisão dessas casas entre as Partes A e B fica por confirmar.
+
 ## 📝 Notas
 
-- Detalhar posteriormente a distribuição exata das áreas entre o piso -1 e o piso 6.
+- Total atualizado: **78 casas**.
+- O lote 1B segue a mesma configuração do lote 1A: piso -1 com 7 casas na Parte A e nenhuma na Parte B; pisos 1 a 5 com 7 casas na Parte A e 6 na Parte B; piso 6 com 6 casas no total.
+- A divisão do piso 6 entre as partes A e B fica por confirmar.
 
 ## 🔁 Trabalhos reutilizados neste local
 

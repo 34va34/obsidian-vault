@@ -7,9 +7,21 @@ estado: Por iniciar
 tempo_total: 0h
 data_inicio:
 data_conclusao:
+casas_parte_a: 7
+casas_parte_b: 0
+total_casas: 7
 ---
 
 # 🏗️ Lavandeira — Lote 1B — Piso -1
+
+## 🏠 Distribuição de casas por parte
+
+| Parte | Casas |
+|---|---:|
+| Parte A | 7 |
+| Parte B | 0 |
+| **Total do piso** | **7** |
+
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 1B]]

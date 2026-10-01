@@ -7,9 +7,22 @@ estado: Por iniciar
 tempo_total: 0h
 data_inicio:
 data_conclusao:
+casas_parte_a:
+casas_parte_b:
+total_casas: 6
 ---
 
 # 🏗️ Lavandeira — Lote 1A — Piso 6
+
+## 🏠 Distribuição de casas por parte
+
+| Parte | Casas |
+|---|---:|
+| Parte A | Por confirmar |
+| Parte B | Por confirmar |
+| **Total do piso** | **6** |
+
+> A divisão do piso 6 entre as Partes A e B ainda não foi indicada.
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 1A]]
@@ -27,7 +40,7 @@ data_conclusao:
 ## ⏳ O que está pendente
 
 - ligação dos ralos ao tubo principal, 1x de dn 75 e o outro de dn 90
-- no de dn 90 falta retirar redução do ralo e colocar curva direta 
+- no de dn 90 falta retirar redução do ralo e colocar curva direta
 - retirar calha tipo hilti deixada no local
 
 ## ⏱️ Registo de execução

@@ -4,6 +4,9 @@ obra: Lavandeira
 lote: 1A
 estado: Em andamento
 data_inicio: 2026-10-28
+total_casas: 78
+casas_parte_a: Por confirmar no piso 6
+casas_parte_b: Por confirmar no piso 6
 ---
 
 # 🏗️ Lavandeira — Lote 1A
@@ -32,22 +35,26 @@ data_inicio: 2026-10-28
 - [[Lote 1A - Piso 5]]
 - [[Lote 1A - Piso 6]]
 
-## 🏠 Levantamento das Frações
+## 🏠 Distribuição de casas por parte e piso
 
-| Piso | T1 | T2 | T3 | Total |
-|---|---:|---:|---:|---:|
-| Piso -1 | 1 | 5 | 1 | 7 |
-| Piso 1 | 0 | 8 | 4 | 12 |
-| Pisos 2–5 | 0 | 36 | 16 | 52 |
-| Piso 6 | 0 | 3 | 3 | 6 |
-| **Total Lote 1A** | **1** | **52** | **24** | **77** |
+| Piso | Parte A | Parte B | Total |
+|---|---:|---:|---:|
+| Piso -1 | 7 | 0 | 7 |
+| Piso 1 | 7 | 6 | 13 |
+| Piso 2 | 7 | 6 | 13 |
+| Piso 3 | 7 | 6 | 13 |
+| Piso 4 | 7 | 6 | 13 |
+| Piso 5 | 7 | 6 | 13 |
+| Piso 6 | Por confirmar | Por confirmar | 6 |
+| **Total Lote 1A** | **Por confirmar** | **Por confirmar** | **78** |
 
-> O levantamento dos pisos 2 a 5 foi registado em conjunto, conforme a informação disponível.
+> O piso 6 tem 6 casas no total; a divisão dessas casas entre as Partes A e B fica por confirmar.
 
 ## 📝 Notas
 
-- Total levantado: **77 frações** — 1 T1, 52 T2 e 24 T3.
-- Os lotes 1A e 1B têm a mesma configuração geral, mas o levantamento do lote 1B ainda não foi registado.
+- Total atualizado: **78 casas**.
+- Distribuição conhecida: piso -1 com 7 casas na Parte A e nenhuma na Parte B; pisos 1 a 5 com 7 casas na Parte A e 6 na Parte B; piso 6 com 6 casas no total.
+- Os lotes 1A e 1B têm a mesma configuração.
 
 ## 🔁 Trabalhos reutilizados neste local
 
