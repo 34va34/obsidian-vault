@@ -22,6 +22,16 @@ data_inicio: 2026-10-28
 - Piso 6 parcial
 - Configuração igual ao [[Lavandeira - Lote 1A]]
 
+## 🗂️ Acompanhamento por Piso
+
+- [[Lote 1B - Piso -1]]
+- [[Lote 1B - Piso 1]]
+- [[Lote 1B - Piso 2]]
+- [[Lote 1B - Piso 3]]
+- [[Lote 1B - Piso 4]]
+- [[Lote 1B - Piso 5]]
+- [[Lote 1B - Piso 6]]
+
 ## 📝 Notas
 
 - Detalhar posteriormente a distribuição exata das áreas entre o piso -1 e o piso 6.

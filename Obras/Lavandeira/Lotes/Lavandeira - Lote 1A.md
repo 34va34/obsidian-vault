@@ -22,6 +22,16 @@ data_inicio: 2026-10-28
 - Piso 6 parcial
 - Configuração igual ao [[Lavandeira - Lote 1B]]
 
+## 🗂️ Acompanhamento por Piso
+
+- [[Lote 1A - Piso -1]]
+- [[Lote 1A - Piso 1]]
+- [[Lote 1A - Piso 2]]
+- [[Lote 1A - Piso 3]]
+- [[Lote 1A - Piso 4]]
+- [[Lote 1A - Piso 5]]
+- [[Lote 1A - Piso 6]]
+
 ## 🏠 Levantamento das Frações
 
 | Piso | T1 | T2 | T3 | Total |
