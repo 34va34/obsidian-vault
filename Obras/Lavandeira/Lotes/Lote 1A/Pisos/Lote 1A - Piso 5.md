@@ -18,7 +18,8 @@ data_conclusao:
 
 ## ✅ O que já foi feito
 
--
+- tubo na vertical
+- ralos
 
 ## 🔨 O que está por fazer
 
@@ -27,6 +28,8 @@ data_conclusao:
 ## ⏳ O que está pendente
 
 - falta terminar ligação da pluvia forcado 
+- colocar te e terminar tubo na horizontal 
+- retirar redução do ralo e colocar curva
 
 ## ⏱️ Registo de execução
 

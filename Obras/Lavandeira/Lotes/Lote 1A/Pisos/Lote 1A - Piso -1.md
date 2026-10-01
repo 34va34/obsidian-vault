@@ -3,9 +3,9 @@ tags: obra, lavandeira, lote-1a, piso-menos-1
 obra: Lavandeira
 lote: 1A
 piso: "-1"
-estado: Por iniciar
+estado: Em andamento
 tempo_total: 0h
-data_inicio:
+data_inicio: 2026-09-29
 data_conclusao:
 ---
 
@@ -23,6 +23,8 @@ data_conclusao:
 ## 🔨 O que está por fazer
 
 - ligações das prumadas de base e lavatório
+- aguas nos tetos dos corredores
+- agua no teto das casas
 
 ## ⏳ O que está pendente
 

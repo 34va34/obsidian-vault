@@ -42,9 +42,9 @@ lotes: 1A, 1B
 ## 👷 Equipa
 
 
-- **Chefe de equipa**: Eu
-- **Trabalhadores**: Vânia Andrade, José Magalhães e André Magalhães
-- **Trabalhadores à hora**: Henriques Macontez e El Alcine
+- **Chefe de equipa**: vânio Andrade 
+- **Trabalhadores**: [[José Magalhães]] [[andre Magalhães ]] 
+- **Trabalhadores à hora**: [[Henriques ]] [[el houcine]]
 
 > Equipa presente em obra no momento do registo.
 

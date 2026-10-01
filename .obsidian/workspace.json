@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lote 1A - Piso 5"
+              "title": "Dashboard"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5.md",
+                "file": "Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,8 +235,17 @@
   },
   "active": "b9f6b145d868cc75",
   "lastOpenFiles": [
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 6.md",
+    "Obras/Lavandeira/Lavandeira - Geral.md",
+    "Template - Pessoa.md",
+    "Sem título.md",
+    "Equipa/Pessoas/el houcine.md",
+    "Equipa/Pessoas/Henriques .md",
+    "Equipa/Equipa hoje.md",
+    "diário/Diários Diários/2026-09-29.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 6.md",
     "Gestão/Relatórios/Cobrança 20-20/README.md",
     "Gestão/Relatórios/Relatório Semanal de Obras.md",
     "Gestão/Relatórios/Cobrança 20-20",
@@ -254,19 +263,10 @@
     "Gestão/Falhas",
     "Biblioteca de Trabalhos.md",
     "Auditoria do Vault - 2026-10-01.md",
-    "Obras/Lavandeira/Lavandeira - Geral.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
     "copilot/projects/lavandeira/project.md",
     "copilot/projects/lavandeira",
     "copilot/projects",
-    "Equipa/Equipa hoje.md",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 6.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 5.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 4.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 3.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 2.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 1.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso -1.md",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos",
     "Obras/Lavandeira/Lotes/Lote 1B",
