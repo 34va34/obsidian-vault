@@ -58,6 +58,14 @@ WHERE tags = "obra" AND estado != "Concluído"
 SORT estado DESC
 ```
 
+### Trabalhos Reutilizados Pendentes
+```dataview
+TABLE obra as "Obra", lote as "Lote", piso as "Piso", trabalho_modelo as "Trabalho", estado as "Estado", responsavel as "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE estado != "Concluído"
+SORT obra ASC, lote ASC, piso ASC, estado ASC
+```
+
 ---
 
 ## 🎯 ATALHOS DE APOIO

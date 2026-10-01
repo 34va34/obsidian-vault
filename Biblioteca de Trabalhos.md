@@ -9,13 +9,22 @@ Esta biblioteca reúne trabalhos que já foram realizados ou planeados nas obras
 ## Como acrescentar trabalhos a uma obra nova
 
 1. Crie a obra e a nota do lote em `Obras/`.
-2. Abra o template [[Ação - Repetir Trabalhos]] no Obsidian e execute-o com o **Templater**.
-3. Escolha a nota do lote de destino.
-4. Filtre por categoria e escolha um trabalho de cada vez.
-5. Acrescente um detalhe quando necessário, por exemplo `piso 2 — 9 casas`.
-6. Escolha **Não — acrescentar agora**. Os trabalhos entram na secção `🔧 Trabalhos a Realizar` como tarefas novas e ficam por iniciar.
+2. Abra o template [[Templates/Ação - Repetir Trabalhos]] no Obsidian e execute-o com o **Templater**.
+3. Escolha a nota do lote ou do piso de destino.
+4. Confirme o responsável comum, se existir.
+5. Filtre por categoria e escolha um trabalho de cada vez.
+6. Acrescente um detalhe quando necessário, por exemplo `piso 2 — 9 casas`.
+7. Escolha **Não — criar as tarefas**.
 
-> A ação nunca copia datas de conclusão, prioridades, equipas ou responsáveis das obras anteriores.
+Para cada trabalho escolhido, a ação agora:
+
+- cria uma nota própria em `Tarefas/Reutilizadas/`;
+- atribui `obra`, `lote`, `piso`, `estado: Por iniciar` e `trabalho_id`;
+- guarda as fontes de experiência e os critérios de conclusão;
+- liga a tarefa à nota do lote/piso com uma checkbox clicável;
+- mantém a tarefa separada do histórico das obras anteriores.
+
+> A ação nunca copia datas de conclusão, prioridades, equipas ou resultados de vistorias das obras anteriores.
 
 ## Como usar os trabalhos numa vistoria
 
@@ -74,8 +83,8 @@ Os nomes foram consolidados a partir dos trabalhos encontrados em:
 - [[Ouro Valley - Lote 6]]
 - [[Next Yard 2 - Geral]]
 
-O catálogo técnico editável está em `Scripts/catalogo_trabalhos.json`. Para acrescentar um novo tipo de trabalho, atualize esse ficheiro e a lista acima.
+O catálogo técnico editável está em `Scripts/catalogo_trabalhos.json`. Cada modelo tem um `id` estável, fontes de experiência e critérios de conclusão. Para acrescentar um novo tipo de trabalho, atualize esse ficheiro e a lista acima.
 
 ## Regra de utilização
 
-A biblioteca contém **modelos de trabalho**, não o histórico de execução. O histórico continua nas notas dos lotes antigos; cada nova obra deve receber uma tarefa nova, com o seu próprio piso, detalhe, responsável, datas e estado.
+A biblioteca contém **modelos de trabalho**, não o histórico de execução. O histórico continua nas notas dos lotes antigos; cada nova obra recebe uma tarefa nova em `Tarefas/Reutilizadas/`, com o seu próprio piso, detalhe, responsável, datas e estado.

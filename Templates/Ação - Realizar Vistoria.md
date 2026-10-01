@@ -53,9 +53,8 @@ if (modo === "categorias") {
 }
 
 const linhasTrabalhos = trabalhos.map(t =>
-    `| ${t.categoria} | ${t.nome} | ☐ | ☐ | ☐ | ☐ | |
-`
-).join("");
+    `| ${t.id} | ${t.categoria} | ${t.nome} | ☐ | ☐ | ☐ | ☐ | |
+`).join("");
 const fileName = `Vistoria - ${obra} - ${lote} - ${date}`;
 
 const content = `---
@@ -66,6 +65,7 @@ obra: "${obra}"
 lote: "${lote}"
 resultado:
 trabalhos_biblioteca: true
+trabalhos_ids: ${JSON.stringify(trabalhos.map(t => t.id))}
 ---
 # ✅ Vistoria de Qualidade: ${obra} — ${lote}
 
@@ -73,8 +73,8 @@ trabalhos_biblioteca: true
 
 ## 🔧 Trabalhos da Biblioteca — verificar neste piso
 
-| Categoria | Trabalho | Feito | Em falta | Com erro | N/A | Observações |
-|---|---|:---:|:---:|:---:|:---:|---|
+| ID | Categoria | Trabalho | Feito | Em falta | Com erro | N/A | Observações |
+|---|---|---|:---:|:---:|:---:|:---:|---|
 ${linhasTrabalhos}
 
 ## 📋 Check-list geral

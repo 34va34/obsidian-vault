@@ -18,15 +18,15 @@ data_conclusao:
 
 ## ✅ O que já foi feito
 
-- 
+-
 
 ## 🔨 O que está por fazer
 
-- 
+-
 
 ## ⏳ O que está pendente
 
-- 
+-
 
 ## ⏱️ Registo de execução
 
@@ -44,3 +44,12 @@ data_conclusao:
 
 - [[Lavandeira - Geral]]
 - [[Lavandeira - Lote 1B]]
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote AND piso = this.piso
+SORT estado ASC, trabalho_modelo ASC
+```

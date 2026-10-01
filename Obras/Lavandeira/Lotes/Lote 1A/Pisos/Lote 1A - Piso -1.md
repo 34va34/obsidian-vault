@@ -22,12 +22,12 @@ data_conclusao:
 
 ## 🔨 O que está por fazer
 
-- ligações das prumadas de base e lavatório 
+- ligações das prumadas de base e lavatório
 
 ## ⏳ O que está pendente
 
 	[] águas no tecto do corredor
-	
+
 
 ## ⏱️ Registo de execução
 
@@ -45,3 +45,12 @@ data_conclusao:
 
 - [[Lavandeira - Geral]]
 - [[Lavandeira - Lote 1A]]
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote AND piso = this.piso
+SORT estado ASC, trabalho_modelo ASC
+```

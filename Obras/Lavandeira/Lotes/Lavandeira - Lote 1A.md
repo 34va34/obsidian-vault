@@ -48,3 +48,12 @@ data_inicio: 2026-10-28
 
 - Total levantado: **77 frações** — 1 T1, 52 T2 e 24 T3.
 - Os lotes 1A e 1B têm a mesma configuração geral, mas o levantamento do lote 1B ainda não foi registado.
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote
+SORT estado ASC, trabalho_modelo ASC
+```

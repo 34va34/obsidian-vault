@@ -35,3 +35,12 @@ data_inicio: 2026-10-28
 ## 📝 Notas
 
 - Detalhar posteriormente a distribuição exata das áreas entre o piso -1 e o piso 6.
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote
+SORT estado ASC, trabalho_modelo ASC
+```

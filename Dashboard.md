@@ -176,7 +176,7 @@ LIMIT 5
 | 📦 **Nova Encomenda** | [[Templates/Ação - Nova Encomenda]] |
 | 📝 **Nova Tarefa** | [[Templates/Ação - Nova Tarefa]] |
 | 🧰 **Biblioteca de Trabalhos** | [[Biblioteca de Trabalhos]] |
-| 🔁 **Repetir Trabalhos num Lote** | [[Templates/Ação - Repetir Trabalhos]] |
+| 🔁 **Aplicar Trabalhos a Lote/Piso** | [[Templates/Ação - Repetir Trabalhos]] |
 | ✅ **Nova Vistoria por Trabalhos** | [[Templates/Ação - Realizar Vistoria]] |
 | 🔎 **Auditoria e Melhorias do Vault** | [[Auditoria do Vault - 2026-10-01]] |
 | 📊 **Novo Relatório** | [[Templates/Ação - Novo Relatório]] |
