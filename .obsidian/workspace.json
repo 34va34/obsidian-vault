@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lavandeira - Lote 1B.md",
+                "file": "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lavandeira - Lote 1B"
+              "title": "Lavandeira - Lote 1A"
             }
           }
         ]
@@ -235,10 +235,12 @@
   },
   "active": "6b974f9ee5718809",
   "lastOpenFiles": [
+    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso -1.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
+    "Obras/Lavandeira/Lotes/Lavandeira - Lote 1B.md",
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 4.md",
     "tarefas/Reutilizadas/README.md",
     "Untitled.md",
@@ -259,8 +261,6 @@
     "Equipa/Equipa hoje.md",
     "Tasks Plugin - Review and check your Statuses 2026-06-22 12-50-43.md",
     "Tasks Plugin - Review and check your Statuses 2026-07-16 12-19-01.md",
-    "Template - Pessoa.md",
-    "Equipa/Pessoas/andre Magalhães .md",
     "Gestão/Relatórios/Cobrança 20-20",
     "Gestão/Relatórios",
     "tarefas/Reutilizadas",
