@@ -3,7 +3,7 @@ tags: dashboard, gestao
 ---
 # 🏗️ Dashboard do Chefe de Equipa
 
-> [[Gestão/Relatórios/Acompanhamento Avançado de Obras|📈 Abrir Acompanhamento Avançado]] · [[Gestão/Relatórios/Relatório Semanal de Obras|📅 Abrir Relatório Semanal]]
+> [[Guia Rápido - Chefe de Equipa|🧭 Guia Rápido]] · [[Gestão/Relatórios/Acompanhamento Avançado de Obras|📈 Abrir Acompanhamento Avançado]] · [[Gestão/Relatórios/Relatório Semanal de Obras|📅 Abrir Relatório Semanal]]
 
 > [!INFO] Atalhos Rápidos
 > [[Templates/Ação - Registar Falha|⚠️ Registar Falha]] | [[Templates/Ação - Realizar Vistoria|✅ Realizar Vistoria]] | [[Templates/Ação - Ponto de Situação|📈 Ponto de Situação]] | [[Templates/Ação - Início de Dia|📅 Início de Dia]]

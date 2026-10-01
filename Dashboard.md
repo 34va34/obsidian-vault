@@ -182,6 +182,7 @@ LIMIT 5
 | 📊 **Novo Relatório** | [[Templates/Ação - Novo Relatório]] |
 | 📈 **Acompanhamento Avançado de Obras** | [[Gestão/Relatórios/Acompanhamento Avançado de Obras]] |
 | 📅 **Criar Relatório Semanal** | [[Templates/Ação - Criar Relatório Semanal]] |
+| 🧭 **Guia Rápido do Chefe de Equipa** | [[Guia Rápido - Chefe de Equipa]] |
 
 ---
 
