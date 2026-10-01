@@ -10,8 +10,8 @@ lotes: 1A, 1B
 # 🏗️ Lavandeira — Visão Geral
 
 > Obra composta por dois lotes: Lote 1A e Lote 1B.
-> Cada lote está dividido em duas partes: Parte A e Parte B.
-> Os dois lotes têm a mesma configuração e 78 casas cada.
+> O Lote 1A está dividido em dois blocos: Bloco A e Bloco B.
+> O Lote 1A tem 77 casas e o Lote 1B mantém 78 casas.
 
 ---
 
@@ -29,18 +29,19 @@ lotes: 1A, 1B
 
 | Lote | Configuração | Estado |
 |---|---|---|
-| [[Lavandeira - Lote 1A]] | Partes A/B; 78 casas | 🔵 Em andamento |
-| [[Lavandeira - Lote 1B]] | Partes A/B; 78 casas | 🔵 Em andamento |
+| [[Lavandeira - Lote 1A]] | Blocos A/B; 77 casas | 🔵 Em andamento |
+| [[Lavandeira - Lote 1B]] | Configuração registada; 78 casas | 🔵 Em andamento |
 
 ## 🏢 Configuração da Obra
 
 - **Número de lotes**: 2
 - **Lotes**: 1A e 1B
-- **Configuração**: cada lote está dividido em Parte A e Parte B
-- **Casas por lote**: 78
-- **Total da obra**: 156 casas
-- **Distribuição**: piso -1 com 7 casas na Parte A e 0 na Parte B; pisos 1 a 5 com 7 na Parte A e 6 na Parte B; piso 6 com 6 casas no total
-- **Observação**: a divisão do piso 6 entre as Partes A e B fica por confirmar.
+- **Configuração do Lote 1A**: Bloco A e Bloco B
+- **Casas no Lote 1A**: 77
+- **Casas no Lote 1B**: 78
+- **Total da obra**: 155 casas
+- **Lote 1A**: piso -1 com 7 casas no Bloco A e 0 no Bloco B; piso 1 com 7 no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total
+- **Observação**: a divisão do piso 6 do Lote 1A entre os Blocos A e B fica por confirmar.
 
 ## 👷 Equipa
 
@@ -60,8 +61,8 @@ lotes: 1A, 1B
 ## 📝 Notas Gerais
 
 - Obra localizada em frente à Lavandeira.
-- Os lotes 1A e 1B têm a mesma configuração, estão divididos em Parte A e Parte B e têm 78 casas cada.
-- Total previsto da obra: **156 casas**.
+- O Lote 1A está dividido nos Blocos A e B e tem **77 casas**. O Lote 1B mantém **78 casas**.
+- Total previsto da obra: **155 casas**.
 
 ## 🔗 Links Relevantes
 

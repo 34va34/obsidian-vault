@@ -7,22 +7,22 @@ estado: Por iniciar
 tempo_total: 0h
 data_inicio:
 data_conclusao:
-casas_parte_a:
-casas_parte_b:
+casas_bloco_a:
+casas_bloco_b:
 total_casas: 6
 ---
 
 # 🏗️ Lavandeira — Lote 1A — Piso 6
 
-## 🏠 Distribuição de casas por parte
+## 🏠 Distribuição de casas por bloco
 
-| Parte | Casas |
+| Bloco | Casas |
 |---|---:|
-| Parte A | Por confirmar |
-| Parte B | Por confirmar |
+| Bloco A | Por confirmar |
+| Bloco B | Por confirmar |
 | **Total do piso** | **6** |
 
-> A divisão do piso 6 entre as Partes A e B ainda não foi indicada.
+> A divisão do piso 6 entre os Blocos A e B ainda não foi indicada.
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 1A]]
