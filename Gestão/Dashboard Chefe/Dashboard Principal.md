@@ -5,10 +5,10 @@ tags: dashboard, gestao
 
 > [[Guia Rápido - Chefe de Equipa|🧭 Guia Rápido]] · [[Templates/Ação - Fecho de Cobrança 20-20|💰 Fecho 20–20]] · [[Gestão/Relatórios/Acompanhamento Avançado de Obras|📈 Abrir Acompanhamento Avançado]] · [[Gestão/Relatórios/Relatório Semanal de Obras|📅 Abrir Relatório Semanal]]
 
-> Para executar o [[Templates/Ação - Início de Dia|Início de Dia]], use `Ctrl/Cmd + P` → **Templater: Create new note from template**. Um clique no link apenas abre o código.
+> Para executar o [[Ação - Início de Dia|Início de Dia]], use `Ctrl/Cmd + P` → **Templater: Create new note from template**. Um clique no link apenas abre o código.
 
 > [!INFO] Atalhos Rápidos
-> [[Templates/Ação - Registar Falha|⚠️ Registar Falha]] | [[Templates/Ação - Realizar Vistoria|✅ Realizar Vistoria]] | [[Templates/Ação - Ponto de Situação|📈 Ponto de Situação]] | [[Templates/Ação - Início de Dia|📅 Início de Dia]]
+> [[Templates/Ação - Registar Falha|⚠️ Registar Falha]] | [[Templates/Ação - Realizar Vistoria|✅ Realizar Vistoria]] | [[Templates/Ação - Ponto de Situação|📈 Ponto de Situação]] | [[Ação - Início de Dia|📅 Início de Dia]]
 
 ---
 

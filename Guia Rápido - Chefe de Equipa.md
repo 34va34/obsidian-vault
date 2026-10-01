@@ -29,7 +29,7 @@ Atalho principal: [[Gestão/Relatórios/Acompanhamento Avançado de Obras]].
 
 No Dashboard, abra:
 
-[[Templates/Ação - Início de Dia|🌅 Início de Dia]]
+[[Ação - Início de Dia|🌅 Início de Dia]]
 
 > Para **executar** a ação, use `Ctrl/Cmd + P` → **Templater: Create new note from template** → escolha `Ação - Início de Dia`. Clicar diretamente no link abre o código do modelo; isso é normal no Obsidian e não executa o script.
 
@@ -228,7 +228,7 @@ O fecho é criado em `Gestão/Relatórios/Cobrança 20-20/` e começa sempre com
 
 Use apenas estes três atalhos:
 
-1. [[Templates/Ação - Início de Dia|Início de Dia]];
+1. [[Ação - Início de Dia|Início de Dia]];
 2. [[Templates/Ação - Repetir Trabalhos|Aplicar Trabalhos a Lote/Piso]];
 3. [[Templates/Ação - Realizar Vistoria|Realizar Vistoria]].
 
@@ -258,7 +258,7 @@ Registe-o no diário, abra uma encomenda em [[Templates/Ação - Nova Encomenda|
 
 - [[Dashboard|🏠 Dashboard]]
 - [[Gestão/Relatórios/Acompanhamento Avançado de Obras|📈 Acompanhamento Avançado]]
-- [[Templates/Ação - Início de Dia|🌅 Início de Dia]]
+- [[Ação - Início de Dia|🌅 Início de Dia]]
 - [[Templates/Ação - Repetir Trabalhos|🔁 Aplicar Trabalhos]]
 - [[Templates/Ação - Realizar Vistoria|✅ Vistoria]]
 - [[Templates/Ação - Registar Falha|⚠️ Registar Falha]]
