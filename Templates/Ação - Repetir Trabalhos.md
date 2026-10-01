@@ -128,10 +128,16 @@ tipo: tarefa-trabalho
 estado: Por iniciar
 data_criacao: ${data}
 data_limite:
+data_inicio:
+data_fim:
 obra: ${yaml(obra)}
 lote: ${yaml(lote)}
 piso: ${yaml(piso)}
 responsavel: ${yaml(responsavel)}
+quantidade_executada:
+unidade:
+valor_a_cobrar:
+incluido_cobranca: false
 trabalho_id: ${yaml(trabalho.id)}
 trabalho_modelo: ${yaml(trabalho.nome)}
 origem_modelo: Biblioteca de Trabalhos
@@ -154,6 +160,12 @@ fontes_modelo: ${JSON.stringify(trabalho.fontes || [])}
 
 ## ✅ Critérios de conclusão
 ${criterios}
+
+## 💰 Medição para cobrança 20–20
+- **Quantidade executada**:
+- **Unidade**: (m, un, fração, piso, serviço, etc.)
+- **Valor a cobrar**:
+- **Incluído no fecho 20–20**: Não
 
 ## ⏱️ Execução
 | Data de início | Data de fim | Tempo gasto | Responsável | Estado |

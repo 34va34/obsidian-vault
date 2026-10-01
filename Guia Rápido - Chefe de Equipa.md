@@ -10,7 +10,7 @@ data: 2026-10-01
 
 Usar este guia para registar o trabalho real sem complicar. Para amanhã, basta seguir esta sequência:
 
-> **1. Início de Dia → 2. Trabalhos → 3. Execução → 4. Vistoria → 5. Fecho do Dia**
+> **1. Início de Dia → 2. Trabalhos → 3. Execução → 4. Vistoria → 5. Fecho do Dia → 6. Fecho 20–20**
 
 ## Antes de começar
 
@@ -179,6 +179,36 @@ Preencha manualmente as secções:
 - **Prioridades da próxima semana**;
 - **Materiais a confirmar**;
 - **Pessoas / equipas a coordenar**.
+
+---
+
+## 7. Fecho de cobrança 20–20
+
+Do dia **20 de um mês ao dia 20 do mês seguinte**, prepare a informação para o patrão cobrar o que foi executado:
+
+[[Templates/Ação - Fecho de Cobrança 20-20|💰 Criar Fecho de Cobrança 20–20]]
+
+Passos:
+
+1. escolha a obra ou **Todas as obras**;
+2. indique quem fez o levantamento;
+3. reveja os trabalhos concluídos encontrados no período;
+4. preencha quantidade, unidade e valor a cobrar nas tarefas;
+5. confirme datas, lotes, pisos e evidências;
+6. copie a mensagem WhatsApp ou o modelo de e-mail;
+7. só envie depois de o valor ser validado.
+
+O sistema usa a `data_fim` da tarefa. Uma tarefa concluída sem data não entra automaticamente no total: fica listada como **registo a rever** para evitar cobranças incorretas.
+
+Campos importantes numa tarefa:
+
+- `data_fim` — quando o trabalho ficou concluído;
+- `quantidade_executada` — quanto foi feito;
+- `unidade` — m, un, fração, piso, serviço, etc.;
+- `valor_a_cobrar` — valor a considerar;
+- `incluido_cobranca` — confirmar se entra no fecho.
+
+O fecho é criado em `Gestão/Relatórios/Cobrança 20-20/` e começa sempre como **Por validar**. O Vault prepara a mensagem, mas não envia WhatsApp nem e-mail automaticamente.
 
 ---
 

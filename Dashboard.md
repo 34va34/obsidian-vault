@@ -183,6 +183,7 @@ LIMIT 5
 | 📈 **Acompanhamento Avançado de Obras** | [[Gestão/Relatórios/Acompanhamento Avançado de Obras]] |
 | 📅 **Criar Relatório Semanal** | [[Templates/Ação - Criar Relatório Semanal]] |
 | 🧭 **Guia Rápido do Chefe de Equipa** | [[Guia Rápido - Chefe de Equipa]] |
+| 💰 **Fecho de Cobrança 20–20** | [[Templates/Ação - Fecho de Cobrança 20-20]] |
 
 ---
 

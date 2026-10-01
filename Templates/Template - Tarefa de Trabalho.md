@@ -10,6 +10,10 @@ responsavel:
 data_inicio:
 data_fim:
 data_atribuicao:
+quantidade_executada:
+unidade:
+valor_a_cobrar:
+incluido_cobranca: false
 origem:
 ---
 # 📝 Tarefa: 
@@ -30,6 +34,12 @@ origem:
 
 ## Responsável
 - **Pessoa**:
+
+## 💰 Medição para cobrança 20–20
+- **Quantidade executada**:
+- **Unidade**: (m, un, fração, piso, serviço, etc.)
+- **Valor a cobrar**:
+- **Incluído no fecho 20–20**: Não
 
 ## Notas
 -

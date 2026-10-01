@@ -76,6 +76,7 @@ SORT obra ASC, lote ASC, piso ASC, estado ASC
 - [[Templates/Ação - Nova Encomenda|📦 Nova Encomenda]]
 - [[Gestão/Relatórios/Acompanhamento Avançado de Obras|📈 Acompanhamento Avançado]]
 - [[Templates/Ação - Criar Relatório Semanal|📅 Criar Relatório Semanal]]
+- [[Templates/Ação - Fecho de Cobrança 20-20|💰 Fecho de Cobrança 20–20]]
 
 ---
 > **Dica**: Se as tabelas estiverem vazias, certifique-se de que preencheu os campos `obra`, `valor_total` e `horas_extras` nas respetivas notas.

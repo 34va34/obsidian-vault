@@ -120,6 +120,25 @@ SORT gravidade DESC, data ASC
 
 ## 📦 Materiais e custos
 
+### Fechos de cobrança 20–20
+
+```dataview
+TABLE obra as "Obra", periodo_inicio as "Início", periodo_fim as "Fim", linhas_com_valor as "Linhas", valor_total as "Total", estado as "Estado", file.link as "Fecho"
+FROM "Gestão/Relatórios/Cobrança 20-20"
+SORT periodo_fim DESC
+LIMIT 10
+```
+
+### Trabalhos concluídos com medição para cobrança
+
+```dataview
+TABLE obra as "Obra", lote as "Lote", piso as "Piso", trabalho_modelo as "Trabalho", data_fim as "Concluído", quantidade_executada as "Qtd.", unidade as "Unidade", valor_a_cobrar as "Valor"
+FROM "Tarefas"
+WHERE estado = "Concluído" AND data_fim
+SORT data_fim DESC
+LIMIT 30
+```
+
 ### Encomendas pendentes
 
 ```dataview
@@ -176,3 +195,4 @@ LIMIT 15
 - [[Templates/Ação - Ponto de Situação|Criar Ponto de Situação]]
 - [[Templates/Ação - Realizar Vistoria|Realizar Vistoria]]
 - [[Templates/Ação - Registar Falha|Registar Falha]]
+- [[Templates/Ação - Fecho de Cobrança 20-20|Criar Fecho de Cobrança 20–20]]
