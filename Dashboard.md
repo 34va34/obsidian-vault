@@ -175,6 +175,8 @@ LIMIT 5
 | 📅 **Novo Diário** | [[Templates/Ação - Novo Diário]] |
 | 📦 **Nova Encomenda** | [[Templates/Ação - Nova Encomenda]] |
 | 📝 **Nova Tarefa** | [[Templates/Ação - Nova Tarefa]] |
+| 🧰 **Biblioteca de Trabalhos** | [[Biblioteca de Trabalhos]] |
+| 🔁 **Repetir Trabalhos num Lote** | [[Templates/Ação - Repetir Trabalhos]] |
 | 📊 **Novo Relatório** | [[Templates/Ação - Novo Relatório]] |
 
 ---

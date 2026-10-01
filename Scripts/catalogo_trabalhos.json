@@ -1,0 +1,102 @@
+[
+  {
+    "categoria": "Preparação",
+    "nome": "Furação / abrir carotes",
+    "descricao": "Furar ou alargar carotes e passagens necessárias para as instalações."
+  },
+  {
+    "categoria": "Preparação",
+    "nome": "Partir chão",
+    "descricao": "Abrir o pavimento para executar ou corrigir as instalações."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Executar prumadas de cozinha e WC",
+    "descricao": "Montar as prumadas verticais de cozinha e casas de banho."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Executar prumadas de lavandaria",
+    "descricao": "Montar as prumadas destinadas à lavandaria."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Executar águas interiores",
+    "descricao": "Executar a distribuição de águas interiores no piso ou lote indicado."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Soldar tubos e uniões de PPR",
+    "descricao": "Soldar tubos, uniões e acessórios de PPR."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Fazer transição de PEX para PPR",
+    "descricao": "Substituir ou adaptar a instalação de PEX para PPR."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Colocar abraçadeiras e suportes",
+    "descricao": "Fixar a tubagem com abraçadeiras e suportes adequados."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Colocar curvas de PPR à entrada das casas",
+    "descricao": "Montar as curvas de PPR nas entradas das frações."
+  },
+  {
+    "categoria": "Águas / PPR",
+    "nome": "Montar válvula geral",
+    "descricao": "Montar e verificar a válvula geral da instalação."
+  },
+  {
+    "categoria": "Esgotos",
+    "nome": "Executar esgotos finos",
+    "descricao": "Montar os esgotos finos das casas de banho e cozinhas."
+  },
+  {
+    "categoria": "Esgotos",
+    "nome": "Executar prumadas de esgotos",
+    "descricao": "Montar as prumadas de esgotos do lote ou piso indicado."
+  },
+  {
+    "categoria": "Esgotos",
+    "nome": "Ligar esgotos às caixas",
+    "descricao": "Ligar as tubagens de esgoto às caixas existentes."
+  },
+  {
+    "categoria": "Esgotos",
+    "nome": "Ligar WC fora do sítio",
+    "descricao": "Corrigir e ligar o WC que ficou fora da posição prevista."
+  },
+  {
+    "categoria": "Testes e acabamento",
+    "nome": "Testar esgotos das casas de banho",
+    "descricao": "Testar os esgotos das casas de banho e registar o resultado."
+  },
+  {
+    "categoria": "Testes e acabamento",
+    "nome": "Testar instalações do piso",
+    "descricao": "Testar as instalações completas do piso indicado."
+  },
+  {
+    "categoria": "Testes e acabamento",
+    "nome": "Executar aranhas / distribuição por fração",
+    "descricao": "Executar as derivações e distribuições por fração no piso indicado."
+  },
+  {
+    "categoria": "Pluviais",
+    "nome": "Iniciar pluviais",
+    "descricao": "Iniciar a execução da rede de águas pluviais."
+  },
+  {
+    "categoria": "Pluviais",
+    "nome": "Colocar ralos para desviar água da chuva",
+    "descricao": "Colocar ralos e encaminhar a água da chuva."
+  },
+  {
+    "categoria": "Gestão",
+    "nome": "Encomendar materiais",
+    "descricao": "Levantar necessidades e encomendar os materiais para o trabalho."
+  }
+]
