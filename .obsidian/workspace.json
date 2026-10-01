@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipa/Equipa hoje.md",
+                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipa hoje"
+              "title": "Lote 1A - Piso 1"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md",
+                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Índice de Sem título"
+              "title": "Índice"
             }
           },
           {
@@ -193,8 +193,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,8 +233,14 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "d40f9cf7812c73dd",
+  "active": "8de64f947283968b",
   "lastOpenFiles": [
+    "Obras/Lavandeira/Lavandeira - Geral.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
+    "copilot/projects/lavandeira/project.md",
+    "copilot/projects/lavandeira",
+    "copilot/projects",
+    "Equipa/Equipa hoje.md",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 6.md",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 5.md",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 4.md",
@@ -248,7 +254,6 @@
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 3.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos",
     "Obras/Lavandeira/Lotes/Lote 1B",
@@ -256,21 +261,16 @@
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 1B.md",
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
     "Obras/Lavandeira/Lotes",
-    "Obras/Lavandeira/Lavandeira - Geral.md",
     "Obras/Lavandeira",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/json-canvas/references",
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "Sem título.canvas"
   ]
 }

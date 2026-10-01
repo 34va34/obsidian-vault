@@ -18,21 +18,22 @@ data_conclusao:
 
 ## ✅ O que já foi feito
 
-- 
+- ligação das prumadas de sanitas
 
 ## 🔨 O que está por fazer
 
-- 
+- ligações das prumadas de base e lavatório 
 
 ## ⏳ O que está pendente
 
-- 
+	[] águas no tecto do corredor
+	
 
 ## ⏱️ Registo de execução
 
 | Atividade | Data de início | Data de fim | Tempo gasto | Responsável | Estado |
-|---|---|---|---:|---|---|
-|  |  |  |  |  |  |
+| --------- | -------------- | ----------- | ----------: | ----------- | ------ |
+|           |                |             |             |             |        |
 
 ## 📝 Diário e observações
 

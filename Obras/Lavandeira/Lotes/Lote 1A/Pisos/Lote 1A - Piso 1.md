@@ -22,11 +22,11 @@ data_conclusao:
 
 ## 🔨 O que está por fazer
 
-- 
+- ligação das prumadas de sanita, base e lavatório 
 
 ## ⏳ O que está pendente
 
-- 
+- águas no teto do corredor
 
 ## ⏱️ Registo de execução
 
