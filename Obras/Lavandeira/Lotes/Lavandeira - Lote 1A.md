@@ -22,6 +22,19 @@ data_inicio: 2026-10-28
 - Piso 6 parcial
 - Configuração igual ao [[Lavandeira - Lote 1B]]
 
+## 🏠 Levantamento das Frações
+
+| Piso | T1 | T2 | T3 | Total |
+|---|---:|---:|---:|---:|
+| Piso -1 | 1 | 5 | 1 | 7 |
+| Piso 1 | 0 | 8 | 4 | 12 |
+| Pisos 2–5 | 0 | 36 | 16 | 52 |
+| Piso 6 | 0 | 3 | 3 | 6 |
+| **Total Lote 1A** | **1** | **52** | **24** | **77** |
+
+> O levantamento dos pisos 2 a 5 foi registado em conjunto, conforme a informação disponível.
+
 ## 📝 Notas
 
-- Detalhar posteriormente a distribuição exata das áreas entre o piso -1 e o piso 6.
+- Total levantado: **77 frações** — 1 T1, 52 T2 e 24 T3.
+- Os lotes 1A e 1B têm a mesma configuração geral, mas o levantamento do lote 1B ainda não foi registado.
