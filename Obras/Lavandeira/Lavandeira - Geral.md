@@ -41,10 +41,14 @@ lotes: 1A, 1B
 
 ## 👷 Equipa
 
-- 
+
+- **Chefe de equipa**: Eu
+- **Trabalhadores**: Vânia Andrade, José Magalhães e André Magalhães
+- **Trabalhadores à hora**: Henriques Macontez e El Alcine
+
+> Equipa presente em obra no momento do registo.
 
 ## 📅 Datas Importantes
-
 | Marco | Data |
 |---|---|
 | Início da obra | 28/10/2026 |
