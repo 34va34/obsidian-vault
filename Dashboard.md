@@ -4,7 +4,7 @@ tags: dashboard, home
 
 # 🏗️ DASHBOARD — Gestão de Obras
 
-[📊 Ver Relatórios Automáticos (Custos e Horas)]([[Relatórios Automáticos]])
+[📊 Ver Relatórios Automáticos (Custos e Horas)]([[Relatórios Automáticos]]) · [📈 Acompanhamento Avançado]([[Gestão/Relatórios/Acompanhamento Avançado de Obras]]) · [📅 Relatório Semanal]([[Gestão/Relatórios/Relatório Semanal de Obras]])
 
 > Última atualização: Hoje  
 > Equipa Ativa: 6 pessoas
@@ -180,6 +180,8 @@ LIMIT 5
 | ✅ **Nova Vistoria por Trabalhos** | [[Templates/Ação - Realizar Vistoria]] |
 | 🔎 **Auditoria e Melhorias do Vault** | [[Auditoria do Vault - 2026-10-01]] |
 | 📊 **Novo Relatório** | [[Templates/Ação - Novo Relatório]] |
+| 📈 **Acompanhamento Avançado de Obras** | [[Gestão/Relatórios/Acompanhamento Avançado de Obras]] |
+| 📅 **Criar Relatório Semanal** | [[Templates/Ação - Criar Relatório Semanal]] |
 
 ---
 
