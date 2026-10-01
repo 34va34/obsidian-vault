@@ -3,9 +3,9 @@ tags: obra, lavandeira, lote-1a, piso-2
 obra: Lavandeira
 lote: 1A
 piso: "2"
-estado: Por iniciar
+estado: Em andamento
 tempo_total: 0h
-data_inicio:
+data_inicio: 2026-10-01
 data_conclusao:
 casas_parte_a: 7
 casas_parte_b: 6
@@ -30,15 +30,15 @@ total_casas: 13
 
 ## ✅ O que já foi feito
 
--
+- ligação das prumadas  
 
 ## 🔨 O que está por fazer
 
--
+- aguas teto dentro da casa
 
 ## ⏳ O que está pendente
 
--
+- aguas para cozinha e bc/mlr
 
 ## ⏱️ Registo de execução
 
