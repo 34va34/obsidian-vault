@@ -2,7 +2,7 @@
 tags: material, encomenda
 data_pedido: 2026-06-12
 data_entrega_prevista: 
-status: Pendente
+estado: Pendente
 obra: ouro valley lote 6
 lote: 
 responsavel_recepcao: 

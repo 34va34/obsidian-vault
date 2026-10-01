@@ -1,8 +1,8 @@
 ---
 tags: tarefa, trabalho
-status: andamento
-due: "false"
-project: ouro valley
+estado: Em andamento
+data_limite: "false"
+obra: ouro valley
 responsavel:
 ---
 # 📝 Tarefa: aguas interiores piso 2 lote 6
@@ -14,7 +14,7 @@ aguas interiores piso 2 lote 6
 - **Data de Criação**: 2026-07-16
 - **Data Limite**: 
 - **Prioridade**: Média
-- **Status**: Pendente
+- **Estado**: Pendente
 
 ## Obra/Projeto
 - **Obra**: ouro valley

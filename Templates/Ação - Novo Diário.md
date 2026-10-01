@@ -11,6 +11,7 @@ data: ${date}
 obra: ${obra}
 lote: ${lote || ""}
 responsavel: 
+estado: Em andamento
 ---
 # 📅 Diário de Obra — ${obra} ${lote ? '(' + lote + ')' : ''} — ${date}
 

@@ -1,29 +1,28 @@
 ---
 tags: obra, geral, projeto
 data_inicio:
-  "{ date }":
-status: Planeado
+estado: Planeado
 ---
-# 🏗️ Obra: {{Bloco A}}
+# 🏗️ Obra: Next Yard 2 — Bloco A
 
 ## 📋 Informações Gerais
-- **Data de Início**: {{date}}
-- **Status**: Planeado
-- **Localização**: 
-- **Cliente**: 
+- **Data de Início**:
+- **Estado**: Planeado
+- **Localização**:
+- **Cliente**:
 
 ## 📝 Descrição do Projeto
 
 ## 👥 Equipa Envolvida
-- 
+-
 
 ## 📅 Cronograma
-- **Fase 1**: 
-- **Fase 2**: 
+- **Fase 1**:
+- **Fase 2**:
 
 ## 💰 Orçamento
-- **Estimativa Inicial**: 
-- **Custos Atuais**: 
+- **Estimativa Inicial**:
+- **Custos Atuais**:
 
 ## 🔗 Links Relevantes
 - [[Dashboard]]

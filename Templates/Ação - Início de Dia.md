@@ -46,7 +46,7 @@ if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
     for (const file of peopleFiles) {
         const personName = file.basename;
         // Formato: | Funcionário | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
-        tableRows += `| [[${personName}]] | [x] | 8 | 0 | [ ] | |\n`;
+        tableRows += `| [[${personName}]] | [ ] | 0 | 0 | [ ] | Por confirmar |\n`;
     }
 } else {
     new Notice("Aviso: Pasta 'Equipa/Pessoas' não encontrada. Tabela de presenças estará vazia.", 5000);
@@ -65,7 +65,7 @@ obra: "${obra}"
 ${tableRows}
 
 > [!TIP] Instruções
-> - **Presença**: [x] para presente, [ ] para falta.
+> - **Presença**: [x] para presente, [ ] para falta; confirme cada pessoa antes de fechar o registo.
 > - **Sábado**: Marcar [x] se o trabalho for realizado ao sábado.
 `;
 

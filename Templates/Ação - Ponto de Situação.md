@@ -7,6 +7,7 @@ const date = tp.date.now("YYYY-MM-DD");
 
 const content = `---
 tags: ponto-situacao, progresso, obra
+estado: Em andamento
 data: ${date}
 obra: "${obra}"
 lote: "${lote}"
@@ -17,7 +18,7 @@ data_inicio: ${dataInicio}
 
 ## 📊 Estado Atual
 - **Progresso**: ${progresso}%
-- **Data de Início**: ${data_inicio}
+- **Data de Início**: ${dataInicio}
 - **Data da Atualização**: ${date}
 
 ## 📝 Notas de Progresso

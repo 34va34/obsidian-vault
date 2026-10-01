@@ -1,6 +1,6 @@
 ---
 tags: obra, ouro-valley, lote-5
-estado: parado
+estado: Parado
 morada: Ouro Valley — Lote 5
 ---
 

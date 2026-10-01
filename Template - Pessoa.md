@@ -32,10 +32,10 @@ LIMIT 10
 
 ### 📝 Tarefas Atribuídas
 ```dataview
-TABLE status as "Status", due as "Data Limite", project as "Obra"
-FROM "Tarefa"
+TABLE estado as "Estado", data_limite as "Data Limite", obra as "Obra"
+FROM "Tarefas"
 WHERE contains(responsavel, this.file.link)
-SORT status ASC, due ASC
+SORT estado ASC, data_limite ASC
 ```
 
 ### 💬 Menções em Diários

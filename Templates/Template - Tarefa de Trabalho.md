@@ -1,28 +1,35 @@
 ---
 tags: tarefa, trabalho
-status: Pendente
-due:
-project:
+estado: Pendente
+data_criacao: {{date}}
+data_limite:
+obra:
+lote:
+piso:
 responsavel:
 data_inicio:
 data_fim:
 data_atribuicao:
+origem:
 ---
-# 📝 Tarefa: completar lote 6
+# 📝 Tarefa: 
 
 ## Descrição
-falta ligar casa de banho piso 3
+
+
 ## Detalhes
 - **Data de Criação**: {{date}}
-- **Data Limite**: hoje
+- **Data Limite**:
 - **Prioridade**: Média
-- **Status**: Pendente
+- **Estado**: Pendente
 
-## Obra/Projeto
+## Obra / Lote / Piso
 - **Obra**:
 - **Lote**:
+- **Piso**:
 
 ## Responsável
-
+- **Pessoa**:
 
 ## Notas
+-

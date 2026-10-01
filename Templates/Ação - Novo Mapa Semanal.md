@@ -11,7 +11,7 @@ let tableRows = "";
 for (const file of peopleFiles) {
     if (file.name.endsWith(".md")) {
         const personName = file.name.replace(".md", "");
-        tableRows += `| [[Equipa/Pessoas/${personName}|${personName}]] | [x] | [x] | [x] | [x] | [x] | [ ] | 40 | 0 |\n`;
+        tableRows += `| [[Equipa/Pessoas/${personName}|${personName}]] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | 0 | 0 |\n`;
     }
 }
 

@@ -1,20 +1,19 @@
 ---
-tags: material, encomenda, template
-data_pedido:
-  "{ date }":
+tags: material, encomenda
+data_pedido: {{date}}
 data_entrega_prevista:
-status: Pendente
+estado: Pendente
 obra:
 lote:
 responsavel_recepcao:
-data do pedido:
+valor_total:
 ---
-# 📦 Encomenda — 
+# 📦 Encomenda —
 
 ## 📋 Info
 - **Data Pedido**: {{date}}
 - **Data Entrega Prevista**: 
-- **Status**: Pendente
+- **Estado**: Pendente
 
 ## 🏢 Destino
 - **Obra**: 

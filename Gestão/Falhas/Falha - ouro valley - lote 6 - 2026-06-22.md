@@ -4,7 +4,7 @@ data: 2026-06-22
 obra: "ouro valley"
 lote: "lote 6"
 gravidade: "Média"
-status: Pendente
+estado: Pendente
 ---
 # ⚠️ Falha: ouro valley - lote 6
 

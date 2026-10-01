@@ -5,6 +5,8 @@ const descricao = await tp.system.prompt("Descrição da Falha/Problema");
 const gravidade = await tp.system.suggester(["Baixa", "Média", "Alta", "Crítica"], ["Baixa", "Média", "Alta", "Crítica"]);
 const date = tp.date.now("YYYY-MM-DD");
 const fileName = `Falha - ${obra} - ${lote} - ${date}`;
+const folderPath = "Gestão/Falhas";
+const folder = app.vault.getAbstractFileByPath(folderPath) || await app.vault.createFolder(folderPath).then(() => app.vault.getAbstractFileByPath(folderPath));
 
 const content = `---
 tags: falha, gestao, obra
@@ -12,7 +14,7 @@ data: ${date}
 obra: "${obra}"
 lote: "${lote}"
 gravidade: "${gravidade}"
-status: Pendente
+estado: Pendente
 ---
 # ⚠️ Falha: ${obra} - ${lote}
 
@@ -28,6 +30,6 @@ ${descricao}
 - 
 `;
 
-await tp.file.create_new(content, fileName, false, app.vault.getAbstractFileByPath("Gestão/Falhas"));
+await tp.file.create_new(content, fileName, false, folder);
 new Notice(`Falha registada para ${obra} - ${lote}`, 5000);
 %>

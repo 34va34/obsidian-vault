@@ -1,8 +1,8 @@
 ---
 tags: tarefa, trabalho
-status: Pendente
-due:
-project: ouro valley
+estado: Pendente
+data_limite:
+obra: ouro valley
 responsavel: diogo
 ---
 # 📝 Tarefa: prumadas lote 4
@@ -14,7 +14,7 @@ prumadas lote 4
 - **Data de Criação**: 2026-06-11
 - **Data Limite**: 
 - **Prioridade**: Média
-- **Status**: Pendente
+- **Estado**: Pendente
 
 ## Obra/Projeto
 - **Obra**: ouro valley

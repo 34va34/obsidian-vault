@@ -20,7 +20,7 @@ GROUP BY obra
 ```dataview
 TABLE data_entrega_prevista as "Entrega Prevista", responsavel_recepcao as "Responsável"
 FROM "Material/Encomendas"
-WHERE status = "Pendente" OR status = "Pedido"
+WHERE estado = "Pendente" OR estado = "Pedido"
 SORT data_entrega_prevista ASC
 ```
 

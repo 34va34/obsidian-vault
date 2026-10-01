@@ -1,49 +1,36 @@
 ---
-tags: pessoa, equipa
-data:
-  "{ date }":
-obra:
-lote:
+tags: diario, obra
+data: {{date}}
+obra: {{obra}}
+lote: {{lote}}
+piso: {{piso}}
 responsavel:
-nome:
-  "{ name }":
-cargo:
-  "{ role }":
-estado: Ativo
+estado: Em andamento
 ---
-# 📅 Diário de Obra — {{date}}
+# 📅 Diário de Obra — {{obra}} — {{date}}
 
-## ☀️ Condições Climáticas
-- **Temperatura**: 
-- **Tempo**: 
+## 🏗️ Local
+- **Obra**: {{obra}}
+- **Lote**: {{lote}}
+- **Piso**: {{piso}}
 
 ## 👷 Equipa Presente
--# 👤 {{António }}
+-
 
-## Contacto
-- **Email**: 
-- **Telefone**: 
-
-## Funções
-- {{canalizador experiente}}
-
-## Observações
-- 
-
-
-## 📝 Atividades do Dia
-- 
-
-## 🚧 Problemas/Ocorrências
-- 
+## 📝 Planeamento / Atividades do Dia
+- [ ]
 
 ## ✅ Tarefas Concluídas
-- 
+-
 
-## 🔜 Próximas Atividades
-- 
+## 🚧 Problemas / Ocorrências
+-
 
-## 📸 Fotos/Anexos
-- 
+## 📦 Materiais em Falta
+-
+
+## 📸 Fotos / Anexos
+-
 
 ## ✍️ Observações Gerais
+-

@@ -1,7 +1,7 @@
 ---
 tags: obra, geral, projeto
 data_inicio: 2026-06-11
-status: Planeado
+estado: Planeado
 ---
 # 🏗️ Obra: Next yard 3
 

@@ -1,7 +1,7 @@
 ---
 tags: obra, geral, projeto
 data_inicio: {{date}}
-status: Planeado
+estado: Planeado
 ---
 # 🏗️ Obra: {{project_name}}
 

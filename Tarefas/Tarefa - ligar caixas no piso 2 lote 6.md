@@ -1,8 +1,8 @@
 ---
 tags: tarefa, trabalho
-status: realizado
-due:
-project: ouro valley
+estado: Concluído
+data_limite:
+obra: ouro valley
 responsavel:
 ---
 # 📝 Tarefa: ligar caixas no piso 2 lote 6
@@ -14,7 +14,7 @@ ligar caixas no piso 2 lote 6
 - **Data de Criação**: 2026-06-11
 - **Data Limite**: 2026-06-12
 - **Prioridade**: urgente 
-- **Status**: Pendente
+- **Estado**: Pendente
 
 ## Obra/Projeto
 - **Obra**: ouro valley

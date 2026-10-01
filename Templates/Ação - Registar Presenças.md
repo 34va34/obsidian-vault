@@ -13,7 +13,7 @@ if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
         .sort((a, b) => a.basename.localeCompare(b.basename));
 
     for (const file of peopleFiles) {
-        tableRows += `| [[${file.basename}]] | [x] | 8 | 0 | [ ] | |\n`;
+        tableRows += `| [[${file.basename}]] | [ ] | 0 | 0 | [ ] | Por confirmar |\n`;
     }
 }
 
@@ -21,6 +21,7 @@ const content = `---
 tags: equipa, presencas
 data: ${date}
 obra: "${obra}"
+estado: Por confirmar
 ---
 # 📅 Registo de Presenças — ${obra} — ${date}
 

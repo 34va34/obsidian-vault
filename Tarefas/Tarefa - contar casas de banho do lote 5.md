@@ -1,8 +1,8 @@
 ---
 tags: tarefa, trabalho
-status: realizado
-due:
-project: ouro valley
+estado: Concluído
+data_limite:
+obra: ouro valley
 responsavel: vânio Andrade
 ---
  📝 Tarefa: contar casas de banho do lote 5
@@ -14,7 +14,7 @@ contar casas de banho do lote 5
 - **Data de Criação**: 2026-06-22
 - **Data Limite**: 
 - **Prioridade**: Média
-- **Status**: Pendente
+- **Estado**: Pendente
 
 ## Obra/Projeto
 - **Obra**: ouro valley

@@ -10,9 +10,9 @@ tags: dashboard, gestao
 
 ## 🚩 Alertas e Falhas Pendentes
 \`\`\`dataview
-TABLE gravidade as "Gravidade", status as "Estado", data as "Data"
+TABLE gravidade as "Gravidade", estado as "Estado", data as "Data"
 FROM "Gestão/Falhas"
-WHERE status != "Concluído"
+WHERE estado != "Concluído"
 SORT data DESC
 \`\`\`
 

@@ -9,7 +9,7 @@ const content = `---
 tags: material, encomenda
 data_pedido: ${date}
 data_entrega_prevista: 
-status: Pendente
+estado: Pendente
 obra: ${obra}
 lote: 
 responsavel_recepcao: 
@@ -19,7 +19,7 @@ responsavel_recepcao:
 ## 📋 Info
 - **Data Pedido**: ${date}
 - **Data Entrega Prevista**: 
-- **Status**: Pendente
+- **Estado**: Pendente
 
 ## 🏢 Destino
 - **Obra**: [[${obra}]]

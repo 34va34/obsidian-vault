@@ -16,13 +16,13 @@ if (projectName) {
     const content = `---
 tags: obra, geral, projeto
 data_inicio: ${tp.date.now("YYYY-MM-DD")}
-status: Planeado
+estado: Planeado
 ---
 # 🏗️ Obra: ${projectName}
 
 ## 📋 Informações Gerais
 - **Data de Início**: ${tp.date.now("YYYY-MM-DD")}
-- **Status**: Planeado
+- **Estado**: Planeado
 - **Localização**: 
 - **Cliente**: 
 
