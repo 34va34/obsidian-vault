@@ -31,6 +31,8 @@ No Dashboard, abra:
 
 [[Templates/Ação - Início de Dia|🌅 Início de Dia]]
 
+> Para **executar** a ação, use `Ctrl/Cmd + P` → **Templater: Create new note from template** → escolha `Ação - Início de Dia`. Clicar diretamente no link abre o código do modelo; isso é normal no Obsidian e não executa o script.
+
 Preencha:
 
 1. **Nome da obra**;

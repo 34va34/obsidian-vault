@@ -171,7 +171,7 @@ LIMIT 5
 
 | Ação | Link |
 |------|------|
-| 🌅 **Início de Dia (Presenças + Tarefas)** | [[Ação - Início de Dia]] |
+| 🌅 **Início de Dia (Presenças + Tarefas)** | [[Templates/Ação - Início de Dia]] |
 | 🚀 **Nova Obra** | [[Templates/Ação - Nova Obra]] |
 | 👤 **Nova Pessoa** | [[Templates/Ação - Nova Pessoa]] |
 | 📅 **Mapa de Presenças Semanal** | [[Templates/Ação - Novo Mapa Semanal]] |
@@ -187,6 +187,8 @@ LIMIT 5
 | 📅 **Criar Relatório Semanal** | [[Templates/Ação - Criar Relatório Semanal]] |
 | 🧭 **Guia Rápido do Chefe de Equipa** | [[Guia Rápido - Chefe de Equipa]] |
 | 💰 **Fecho de Cobrança 20–20** | [[Templates/Ação - Fecho de Cobrança 20-20]] |
+
+> **Executar uma ação Templater:** `Ctrl/Cmd + P` → **Templater: Create new note from template** → escolha o template. Um clique normal no link abre o código do template, mas não o executa.
 
 ---
 
