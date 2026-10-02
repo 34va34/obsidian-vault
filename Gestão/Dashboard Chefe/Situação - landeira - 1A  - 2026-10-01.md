@@ -7,7 +7,7 @@ lote: "1A "
 progresso: 1
 data_inicio: 2026-10-01
 ---
-# 📈 Ponto de Situação: landeira - 1A 
+# 📈 Ponto de Situação: lavandeira - 1A 
 
 ## 📊 Estado Atual
 - **Progresso**: 1%
@@ -15,7 +15,7 @@ data_inicio: 2026-10-01
 - **Data da Atualização**: 2026-10-01
 
 ## 📝 Notas de Progresso
-- ligacaoligação dos esgotos prumadas e agua no andar modelo
+-  ligação dos esgotos prumadas e agua no andar modelo piso dois bloco a
 
 ## ⏳ Estimativa de Término
 ```dataviewjs

@@ -31,6 +31,7 @@ total_casas: 13
 ## ✅ O que já foi feito
 
 - ligação das prumadas  
+- água no teto da casa ate a porta
 
 ## 🔨 O que está por fazer
 
@@ -39,6 +40,7 @@ total_casas: 13
 ## ⏳ O que está pendente
 
 - aguas para cozinha e bc/mlr
+- colocar três de dn40
 
 ## ⏱️ Registo de execução
 

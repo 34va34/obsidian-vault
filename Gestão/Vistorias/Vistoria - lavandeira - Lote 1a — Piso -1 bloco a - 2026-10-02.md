@@ -2,11 +2,13 @@
 tags: vistoria, qualidade, obra
 tipo: vistoria-de-trabalhos
 data: 2026-10-02
-obra: "lavandeira"
-lote: "Lote 1a — Piso -1 bloco a"
+obra: lavandeira
+lote: Lote 1a — Piso -1 bloco a
 resultado:
 trabalhos_biblioteca: true
-trabalhos_ids: ["executar-esgotos-finos","executar-prumadas-de-esgotos","ligar-esgotos-às-caixas","ligar-wc-fora-do-sítio","testar-esgotos-das-casas-de-banho","testar-instalações-do-piso","executar-aranhas-distribuição-por-fração"]
+trabalhos_ids:
+  - executar-prumadas-de-esgotos
+  - testar-esgotos-das-casas-de-banho
 ---
 # ✅ Vistoria de Qualidade: lavandeira — Lote 1a — Piso -1 bloco a
 
@@ -36,14 +38,14 @@ trabalhos_ids: ["executar-esgotos-finos","executar-prumadas-de-esgotos","ligar-e
 
 ## ❌ Não conformidades / correções
 
-| Trabalho relacionado | Problema encontrado | Correção necessária | Responsável | Prazo | Estado |
-|---|---|---|---|---|---|
-| | | | | | Pendente |
+| Trabalho relacionado | Problema encontrado            | Correção necessária | Responsável | Prazo           | Estado   |
+| -------------------- | ------------------------------ | ------------------- | ----------- | --------------- | -------- |
+|                      | falta alargar algumas corretes |                     |             | próxima semana  | Pendente |
 
 ## 💬 Observações do Chefe
 - 
 
 ## ⚖️ Resultado Final
 - [ ] Aprovado
-- [ ] Aprovado com observações
+- [x] Aprovado com observações ✅ 2026-10-02
 - [ ] Reprovado — necessita correção

@@ -31,10 +31,11 @@ total_casas: 12
 ## ✅ O que já foi feito
 
 - ligação das sanitas
+- ligação das bases de duche
 
 ## 🔨 O que está por fazer
 
-- ligação das prumadas de sanita, base e lavatório
+- ligação de algumas prumadas de sanita, e lavatório
 
 ## ⏳ O que está pendente
 
