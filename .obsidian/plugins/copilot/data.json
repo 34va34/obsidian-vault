@@ -793,6 +793,15 @@
       },
       "configuredModelId": "4356b6f4-e70b-4758-81d6-24d468c70da4",
       "configuredAt": 1790853521952
+    },
+    {
+      "providerId": "389267c1-1277-4e5a-a19a-0882f37f5dd6",
+      "info": {
+        "id": "opencode/fledge-alpha-free",
+        "displayName": "OpenCode Zen/Fledge Alpha Free"
+      },
+      "configuredModelId": "cb15a6fe-68bf-4204-9981-6de8ca17feaa",
+      "configuredAt": 1790950237890
     }
   ],
   "backends": {
