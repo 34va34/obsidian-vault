@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão/Dashboard Chefe/Dashboard Principal.md",
+                "file": "Gestão/Relatórios/Relatório Semanal de Obras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard Principal"
+              "title": "Relatório Semanal de Obras"
+            }
+          },
+          {
+            "id": "de2a6b633c74f695",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-10-02 16.20.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-02 16.20.25.excalidraw"
             }
           }
         ]
@@ -212,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +248,13 @@
   },
   "active": "6b974f9ee5718809",
   "lastOpenFiles": [
+    "Gestão/Dashboard Chefe/Dashboard Principal.md",
+    "Drawing 2026-10-02 16.20.25.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Drawing 2026-10-02 16.20.38.excalidraw.md",
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
     "Untitled 3.md",
@@ -244,7 +264,6 @@
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
     "Gestão/Relatórios/Acompanhamento Avançado de Obras.md",
-    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Gestão/Dashboard Chefe/Situação - lavandeira - null - 2026-10-02.md",
     "Gestão/Dashboard Chefe/Situação - landeira - 1A  - 2026-10-01.md",
     "diário/diário -diario/diario.md",
@@ -257,10 +276,6 @@
     "Biblioteca de Trabalhos.md",
     "Gestão/Vistorias/Vistoria - lavandeira - Lote 1a — Piso -1 bloco a - 2026-10-02.md",
     "Untitled 2.md",
-    "Gestão/Vistorias/Vistoria - lavandeira - lote 1a -1 bloo a - 2026-10-02.md",
-    "Gestão/Vistorias/Vistoria - lavandeira - lote 1a piso -1 lado A - 2026-10-02.md",
-    "Untitled 1.md",
-    "Templates/Ação - Ponto de Situação.md",
     "Gestão/Relatórios/Cobrança 20-20",
     "Gestão/Relatórios",
     "tarefas/Reutilizadas",
@@ -269,8 +284,6 @@
     "copilot/projects",
     "Obras/Lavandeira/Lotes/Lote 1B/Pisos",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos",
-    "Obras/Lavandeira/Lotes/Lote 1B",
-    "Obras/Lavandeira/Lotes/Lote 1A",
     "Sem título.canvas"
   ]
 }
