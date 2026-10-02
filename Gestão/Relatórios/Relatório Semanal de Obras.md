@@ -93,7 +93,7 @@ SORT data_entrega_prevista ASC
 
 ### O que avançou
 
-- 
+- andar modelo com aguas quase prontas e esgotos ligados
 
 ### O que bloqueou
 
@@ -105,17 +105,17 @@ SORT data_entrega_prevista ASC
 
 ### Prioridades da próxima semana
 
-1. 
-2. 
-3. 
+1. aguas do corredor teto
+2. iniciar esgotos do -1 bloco b
+3. terminar de fazer aguas no teto do interior das casas
 
 ### Materiais a confirmar
 
-- 
+- chegada dos tes dn110/50 e tes dn 125/110
 
 ### Pessoas / equipas a coordenar
 
-- 
+- [[José Magalhães]][[andre Magalhães ]][[el houcine]][[Henriques ]]
 
 ## 6. Fecho
 
@@ -123,4 +123,4 @@ SORT data_entrega_prevista ASC
 - [ ] Todas as falhas têm responsável e prazo.
 - [ ] Todas as vistorias têm resultado.
 - [ ] Todas as encomendas pendentes foram confirmadas.
-- [ ] As prioridades da próxima semana foram definidas.
+- [x] As prioridades da próxima semana foram definidas. ✅ 2026-10-02
