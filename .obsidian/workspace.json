@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
+                "file": "Gestão/Dashboard Chefe/Dashboard Principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lote 1A - Piso -1"
+              "title": "Dashboard Principal"
             }
           }
         ]
@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,8 +233,12 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "d40f9cf7812c73dd",
+  "active": "6b974f9ee5718809",
   "lastOpenFiles": [
+    "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
+    "Untitled 3.md",
+    "Tarefa - agua no teto dos corredores.md",
     "copilot/copilot-conversations/agent__como_faço_para_add_que_ja_iniciei_as_aguas_no@20261002_153800.md",
     "agent__como_faço_para_add_que_ja_iniciei_as_aguas_no@20261002_153800.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
@@ -257,10 +261,6 @@
     "Gestão/Vistorias/Vistoria - lavandeira - lote 1a piso -1 lado A - 2026-10-02.md",
     "Untitled 1.md",
     "Templates/Ação - Ponto de Situação.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
-    "Equipa/Equipa hoje.md",
-    "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
-    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso -1.md",
     "Gestão/Relatórios/Cobrança 20-20",
     "Gestão/Relatórios",
     "tarefas/Reutilizadas",

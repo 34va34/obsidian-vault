@@ -37,15 +37,15 @@ casas_bloco_b: Por confirmar no piso 6
 
 ## 🏠 Distribuição de casas por bloco e piso
 
-| Piso | Bloco A | Bloco B | Total |
-|---|---:|---:|---:|
-| Piso -1 | 7 | 0 | 7 |
-| Piso 1 | 7 | 5 | 12 |
-| Piso 2 | 7 | 6 | 13 |
-| Piso 3 | 7 | 6 | 13 |
-| Piso 4 | 7 | 6 | 13 |
-| Piso 5 | 7 | 6 | 13 |
-| Piso 6 | Por confirmar | Por confirmar | 6 |
+| Piso              |           Bloco A |           Bloco B |  Total |
+| ----------------- | ----------------: | ----------------: | -----: |
+| Piso -1           |                 7 |                 0 |      7 |
+| Piso 1            |                 7 |                 5 |     12 |
+| Piso 2            |                 7 |                 6 |     13 |
+| Piso 3            |                 7 |                 6 |     13 |
+| Piso 4            |                 7 |                 6 |     13 |
+| Piso 5            |                 7 |                 6 |     13 |
+| Piso 6            |                 0 |                 6 |      6 |
 | **Total Lote 1A** | **Por confirmar** | **Por confirmar** | **77** |
 
 > O piso 6 tem 6 casas no total; a divisão dessas casas entre os Blocos A e B fica por confirmar.
