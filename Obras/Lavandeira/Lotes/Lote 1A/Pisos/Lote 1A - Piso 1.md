@@ -32,6 +32,7 @@ total_casas: 12
 
 - ligação das sanitas
 - ligação das bases de duche
+- águas no teto — **Bloco A** (início em 2026-10-06)
 
 ## 🔨 O que está por fazer
 
@@ -51,7 +52,7 @@ total_casas: 12
 
 | Data | Registo | Tempo gasto |
 |---|---|---:|
-|  |  |  |
+| 2026-10-06 | Bloco A — início da execução das águas no teto |  |
 
 ## 🔗 Ligações
 
