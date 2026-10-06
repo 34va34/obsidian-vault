@@ -11,10 +11,14 @@
             "id": "5a71987abe0d317c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SKILL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "SKILL"
             }
           }
         ]
@@ -189,8 +193,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -204,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -229,8 +233,19 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "5a71987abe0d317c",
+  "active": "d40f9cf7812c73dd",
   "lastOpenFiles": [
+    "Tarefa - agua no teto dos corredores.md",
+    "Tarefa - desvios de agua da chuva para rua.md",
+    "Diário - lavandeira - lote 1a -1 bloco a - 2026-10-02.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "Untitled 4.md",
+    "Dashboard.md",
+    "Biblioteca de Trabalhos.md",
+    "Ação - Início de Dia.md",
+    "agent__como_faço_para_add_que_ja_iniciei_as_aguas_no@20261002_153800.md",
     "Gestão/Relatórios/Cobrança 20-20/README.md",
     "Drawing 2026-10-02 16.20.25.excalidraw.md",
     "Gestão/Relatórios/Acompanhamento Avançado de Obras.md",
@@ -243,23 +258,12 @@
     "Drawing 2026-10-02 16.20.38.excalidraw.md",
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
-    "Untitled 3.md",
-    "Tarefa - agua no teto dos corredores.md",
     "copilot/copilot-conversations/agent__como_faço_para_add_que_ja_iniciei_as_aguas_no@20261002_153800.md",
-    "agent__como_faço_para_add_que_ja_iniciei_as_aguas_no@20261002_153800.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
     "Gestão/Dashboard Chefe/Situação - lavandeira - null - 2026-10-02.md",
     "Gestão/Dashboard Chefe/Situação - landeira - 1A  - 2026-10-01.md",
     "diário/diário -diario/diario.md",
-    "Untitled.md",
-    "Diário - lavandeira - lote 1a -1 bloco a - 2026-10-02.md",
-    "tarefas/Tarefa - ligar caixas no piso 2 lote 6.md",
-    "tarefas/Tarefa - contar casas de banho do lote 5.md",
-    "tarefas/Reutilizadas/README.md",
-    "Tarefa - desvios de agua da chuva para rua.md",
-    "Biblioteca de Trabalhos.md",
-    "Gestão/Vistorias/Vistoria - lavandeira - Lote 1a — Piso -1 bloco a - 2026-10-02.md",
     "Gestão/Relatórios/Cobrança 20-20",
     "Gestão/Relatórios",
     "tarefas/Reutilizadas",
