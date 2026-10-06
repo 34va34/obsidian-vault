@@ -350,7 +350,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": "4.0.1",
-  "lastShownStartupVersion": null,
+  "lastShownStartupVersion": "4.0.13",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -737,25 +737,6 @@
         },
         "limits": {
           "context": 1048576
-        }
-      },
-      {
-        "id": "kimi-k2.6",
-        "displayName": "Kimi K2.6",
-        "description": "Good for long-running reasoning tasks.",
-        "toolCall": true,
-        "reasoning": true,
-        "reasoningEfforts": [],
-        "modalities": {
-          "input": [
-            "text"
-          ],
-          "output": [
-            "text"
-          ]
-        },
-        "limits": {
-          "context": 262144
         }
       },
       {
