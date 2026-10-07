@@ -4,7 +4,7 @@ tags:
   - "#nextyard"
 nome: José Magalhães
 cargo: canalizador
-estado: Ativo
+estado: inativo
 ---
 # 👤 José Magalhães 
 

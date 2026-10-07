@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: Mario sousa
 cargo: canalizador 
-estado: Ativo
+estado: inativo
 ---
 # 👤 Mario Sousa
 

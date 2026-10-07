@@ -12,7 +12,7 @@ obra: "ouro valley"
 | [[António Manuel]] | [x] | 0 | 0 | [ ] | |
 | [[Diogo nunes]] | [x] | 0 | 0 | [ ] | |
 | [[domingos felix]] | [x] | 0 | 0 | [ ] | |
-| [[José Magalhães]] | [x] | 0 | 0 | [ ] | |
+| [[Equipa/José Magalhães]] | [x] | 0 | 0 | [ ] | |
 | [[Mario sousa]] | [x] | 0 | 0 | [ ] | |
 | [[Moisés kalandula]] | [x] | 0 | 0 | [ ] | |
 | [[venacio]] | [x] | 0 | 0 | [ ] | |

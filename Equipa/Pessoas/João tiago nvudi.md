@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: João tiago nvudi
 cargo: oficial
-estado: Ativo
+estado: inativo
 ---
 # 👤 João tiago nvudi
 

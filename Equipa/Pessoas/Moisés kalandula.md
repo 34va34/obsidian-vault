@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: Moisés kalandula
 cargo: canalizador
-estado: Ativo
+estado: inativo
 ---
 # 👤 Moisés kalandula
 

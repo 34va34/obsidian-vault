@@ -115,7 +115,7 @@ SORT data_entrega_prevista ASC
 
 ### Pessoas / equipas a coordenar
 
-- [[José Magalhães]][[andre Magalhães ]][[el houcine]][[Henriques ]]
+- [[Equipa/José Magalhães]][[andre Magalhães ]][[el houcine]][[Henriques ]]
 
 ## 6. Fecho
 

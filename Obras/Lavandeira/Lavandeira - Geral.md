@@ -47,7 +47,7 @@ lotes: 1A, 1B
 
 
 - **Chefe de equipa**: vânio Andrade 
-- **Trabalhadores**: [[José Magalhães]] [[andre Magalhães ]] 
+- **Trabalhadores**: [[Equipa/José Magalhães]] [[andre Magalhães ]] 
 - **Trabalhadores à hora**: [[Henriques ]] [[el houcine]]
 
 > Equipa presente em obra no momento do registo.

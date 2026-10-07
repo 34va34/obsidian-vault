@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: domingos felix
 cargo: canalizador
-estado: Ativo
+estado: inativo
 ---
 # 👤 domingos felix
 

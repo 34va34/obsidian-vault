@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: Diogo
-cargo: 
-estado: Ativo
+cargo: canalizador
+estado: inativo
 ---
 # 👤 Diogo
 

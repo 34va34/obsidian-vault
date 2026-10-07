@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: andre Magalhães 
 cargo: praticante 1 ano
-estado: Ativo
+estado: inativo
 ---
 # 👤 André Magalhães 
 

@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: Henriques 
 cargo: canalizador
-estado: Ativo
+estado: inativo
 ---
 # 👤 Henriques 
 

@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: venacio
-cargo: canalizado
-estado: Ativo
+cargo: canalizador
+estado: inativo
 ---
 # 👤 venacio
 

@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_ee95c96bbffepeCoghW8ziPjMC"
 agentLabel: "<tool_call><function=Read><parameter=file_path>/Users/vasco/dev/2026pessoal/Equipa/Equipa hoje.md..."
-usage: '{"usedTokens":54238,"contextWindow":200000,"updatedAt":1791382663090}'
+usage: '{"usedTokens":88212,"contextWindow":200000,"updatedAt":1791383620843}'
 tags:
   - copilot-conversation
 ---
@@ -185,5 +185,36 @@ depois vou queres dizer quais sao as pessoas ativas e essas vou comecar a contar
 quero colocar todos como inativo
 [Timestamp: 2026/10/07 15:20:29]
 
-**ai**: Vou executar os pontos 1 e 2. Para o ponto 3 ("todos como inativo") explico a dúvida no fim — primeiro trabalho:CLI do Obsidian não está ativo (Settings → General → Command line interface), mas como **todas as ligações ao José são só pelo nome** (`[[José Magalhães]]`), um movimento normal não quebra nada. A mover:
+**ai**: Vou executar os pontos 1 e 2. Para o ponto 3 ("todos como inativo") explico a dúvida no fim — primeiro trabalho:CLI do Obsidian não está ativo (Settings → General → Command line interface), mas como **todas as ligações ao José são só pelo nome** (`[[José Magalhães]]`), um movimento normal não quebra nada. A mover:Movido ✅. Agora os cargos (canalizadores):O ficheiro não aparece onde devia — vou localizá-lo:O ficheiro afinal ficou na **raiz do vault** (algo o moveu para `Minhas obras\José Magalhães.md` em vez de para `Equipa\Pessoas\`). Vou confirmar o conteúdo e completar o movimento:Conteúdo intacto. Movendo com comando que não depende de acentos:José está no sítio certo agora (17 fichas em `Equipa/Pessoas/`, nada ficou na raiz). Antes de poner "todos como inativo", vou ver todos os `estado: Ativo` do vault para não escapatilhar ninguém:14 fichas de pessoas estão `Ativo` (mais o template "Nova Pessoa" e a nota [[Equipa hoje]], que **não** são funcionários — não toco esses). A executar:⚠️ Apareceu um problema: o grep mostra um `José Magalhães.md` **outra vez na raiz do vault**. Vou verificar as duas cópias:A cópia que está na raiz tem o conteúdo **já editado** (`estado: inativo`), ou seja: ou alguém/sincronização o arrastou de volta, ou há um plugin a movê-lo. Vou tentar de novo e confirmar:Tudo executado e verificado. Estado final:
+
+## ✅ 1. José Magalhães movido
+
+Está em `Equipa/Pessoas/José Magalhães.md`, com conteúdo intacto. **Aviso honesto:** o movimento falhou por duas vezes de forma estranha (na primeira o ficheiro acabou na raiz do vault; na segunda, depois de já estar em `Pessoas` e editado, reapareceu na raiz). Movi de novo e confirmei — agora está certo e **não há cópia na raiz**. Se voltar a acontecer, é porque alguém o está a arrastar no Obsidian, ou um plugin/sincronização. Viste o ficheiro mudar de pasta no Obsidian? (O CLI do Obsidian está desativado — Settings → General → Command line interface — e daria para movimentos mais seguros com atualização de ligações.)
+
+## ✅ 2. Cargos — canalizadores
+
+| Pessoa | Antes | Agora |
+|---|---|---|
+| António Manuel, Afonso, Diogo nunes, Yuri | *(vazio)* | `canalizador` |
+| venacio | *canalizado* (typo) | `canalizador` |
+
+## ✅ 3. Todos os funcionários a `inativo`
+
+14 fichas passaram de `Ativo` → `inativo`. Agora **as 17 pessoas do vault estão todas `inativo`** (estes 14 + abel mande, António rocha e dicor mendes que já eram).
+
+**Não toquei em:**
+- `Templates/Ação - Nova Pessoa` — continua com `estado: Ativo` como valor por omissão de novas pessoas. Queres que passe também para `inativo`?
+- [[Equipa hoje]] — `estado: Ativo` (é a nota do dia, não uma pessoa).
+
+---
+
+## O que isto significa agora
+
+- **Zero pessoas ativas** — qualquer lista de ativos fica vazia (a consulta do [[Equipa hoje]] com `WHERE estado = "Ativo"` não devolveria ninguém, e os registos gerados continuariam a listar todos, porque o filtro de ativos na `Ação - Registar Presenças` ainda não existe).
+- Para recuperares os14 que antes estavam ativos, basta dizeres — por exemplo **"reativa os 14"**, **"reativa só a canalizadora X"**, ou dar-me a lista — e eu ponho `estado: Ativo` só nesses.
+
+**Próximos passos possíveis quando decidires quem conta:**
+1. Reativar a equipa que te interessa;
+2. Adicionar o filtro de ativos à `Ação - Registar Presenças` (fase 5.1) para os registos futuros só saírem esses;
+3. Completar a [[Equipa hoje]] com a equipa ativa real.
 [Timestamp: 2026/10/07 15:20:29]

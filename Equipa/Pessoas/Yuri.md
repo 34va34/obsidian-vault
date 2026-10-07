@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: Yuri
-cargo: 
-estado: Ativo
+cargo: canalizador
+estado: inativo
 ---
 # 👤 Yuri
 

@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: Afonso
-cargo: 
-estado: Ativo
+cargo: canalizador
+estado: inativo
 ---
 # 👤 Afonso
 

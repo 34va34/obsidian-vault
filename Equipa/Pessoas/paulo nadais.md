@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: paulo nadais
 cargo: chefe de equipa
-estado: Ativo
+estado: inativo
 ---
 # 👤 Paulo Nadais
 

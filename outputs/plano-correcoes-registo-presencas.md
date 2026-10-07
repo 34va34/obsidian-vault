@@ -11,7 +11,7 @@
 | # | Ação | Detalhe |
 |---|------|---------|
 | 1.1 | Resolver `[[Tiago rocha]]` | Não existe nota. **Decisão do utilizador**: (a) criar `Equipa/Pessoas/Tiago rocha.md` se for pessoa real, ou (b) remover as 4 referências ([[Equipa hoje]], [[Presenças - ouro valley - 2026-07-16]], [[Dashboard]], `Ouro Valley - Lote 6`). |
-| 1.2 | Mover [[José Magalhães]] para `Equipa/Pessoas/` | Mover com atualização automática de ligações (Obsidian CLI / move link-aware). Corrige a exclusão dele da lista gerada de 2026-10-01 e das consultas `FROM "Equipa/Pessoas"`. |
+| 1.2 | Mover [[Equipa/José Magalhães]] para `Equipa/Pessoas/` | Mover com atualização automática de ligações (Obsidian CLI / move link-aware). Corrige a exclusão dele da lista gerada de 2026-10-01 e das consultas `FROM "Equipa/Pessoas"`. |
 | 1.3 | Corrigir frontmatter do José | `tags: - pessoa, equipa` está como item único; passar a lista correta (`pessoa`, `equipa`, `#nextyard`). |
 | 1.4 | Remover espaços finais nos nomes | `andre Magalhães ` e `Henriques ` → renomear ficheiro, frontmatter `nome:` e ligações. |
 | 1.5 | Uniformizar capitalização de pastas | `diário/` → `Diário/` e `tarefas/` → `Tarefas/` (ou ao contrário — decidir um canónico). Crucial se sincronizar fora do Windows. |

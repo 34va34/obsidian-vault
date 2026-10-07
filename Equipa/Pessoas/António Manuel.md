@@ -1,8 +1,8 @@
 ---
 tags: pessoa, equipa
 nome: António
-cargo: 
-estado: Ativo
+cargo: canalizador
+estado: inativo
 ---
 # 👤 António Manuel 
 
