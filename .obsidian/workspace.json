@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SKILL.md",
+                "file": "Equipa/Equipa hoje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "Equipa hoje"
             }
           }
         ]
@@ -235,7 +235,16 @@
   },
   "active": "d40f9cf7812c73dd",
   "lastOpenFiles": [
+    "agent__revê_e_analisa_o_registro_de_presenças._n_mudes_nada@20261007_150102.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
+    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 1.md",
+    "Obras/Lavandeira/Lotes/Lavandeira - Lote 1B.md",
+    "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
+    "Gestão/Relatórios/Acompanhamento Avançado de Obras.md",
+    "Guia Rápido - Chefe de Equipa.md",
     "agent__Responde_apenas_com_“O_agente_está_a_funcionar”._Não_cries,@20261006_141005.md",
+    "SKILL.md",
     "copilot/skills/openartifacts-publish/SKILL.md",
     "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
     "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",
@@ -262,16 +271,7 @@
     "Untitled 4.md",
     "Dashboard.md",
     "Biblioteca de Trabalhos.md",
-    "Ação - Início de Dia.md",
-    "agent__como_faço_para_add_que_ja_iniciei_as_aguas_no@20261002_153800.md",
-    "Gestão/Relatórios/Cobrança 20-20/README.md",
-    "Drawing 2026-10-02 16.20.25.excalidraw.md",
-    "Gestão/Relatórios/Acompanhamento Avançado de Obras.md",
-    "Gestão/Relatórios/Relatório Semanal de Obras.md",
-    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
-    "Drawing 2026-10-02 16.20.38.excalidraw.md",
     "Sem título.canvas"
   ]
 }

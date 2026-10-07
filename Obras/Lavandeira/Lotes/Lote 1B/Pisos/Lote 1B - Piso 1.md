@@ -34,7 +34,12 @@ total_casas: 13
 
 ## 🔨 O que está por fazer
 
--
+- terminar aguas no teto
+- iniciar esgotos 
+- aguas interiores
+- teste de carga
+- teste de esgotos
+- 
 
 ## ⏳ O que está pendente
 
@@ -42,9 +47,10 @@ total_casas: 13
 
 ## ⏱️ Registo de execução
 
-| Atividade | Data de início | Data de fim | Tempo gasto | Responsável | Estado |
-|---|---|---|---:|---|---|
-|  |  |  |  |  |  |
+| Atividade   | Data de início | Data de fim | Tempo gasto | Responsável | Estado |
+| ----------- | -------------- | ----------- | ----------: | ----------- | ------ |
+| aguas tecto | 07/10/26       |             |           8 |             |        |
+|             |                |             |             |             |        |
 
 ## 📝 Diário e observações
 
