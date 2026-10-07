@@ -17,13 +17,12 @@ estado: Ativo
 
 | Funcionário          | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 | -------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[António Manuel]]       | [Ativo]  | 9             | 1            | [ ]     |             |
-| [[Afonso.md]]        | [Ativo]  | 9             | 0            | [ ]     |             |
-| [[Diogo nunes.md]]   | [Ativo]  | 8             | 0            | [ ]     |             |
-| [[Tiago rocha.md]]   | [Ativo]  | 8             | 0            | [ ]     |             |
-| [[Yuri.md]]          | [Ativo]  | 8             | 0            | [ ]     |             |
-| [[Moisés kalandula]] |          |               |              |         |             |
-| [[venacio]]          |          |               |              |         |             |
+| [[António Manuel]]       | [Ativo]  | 0             | 0            | [ ]     |             |
+| [[Afonso.md]]        | [Ativo]  | 0             | 0            | [ ]     |             |
+| [[Diogo nunes.md]]   | [Ativo]  | 0             | 0            | [ ]     |             |
+| [[Yuri.md]]          | [Ativo]  | 0             | 0            | [ ]     |             |
+| [[Moisés kalandula]] |          | 0             | 0            |         |             |
+| [[venacio]]          |          | 0             | 0            |         |             |
 
 ## 📊 Resumo do Dia
 - **Total de Funcionários**: 

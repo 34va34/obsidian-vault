@@ -125,7 +125,6 @@ Status:
 | [[António Manuel]] |         |       |        |
 | [[Afonso.md]]  |         |       |        |
 | [[Diogo nunes.md]]   |         |       |        |
-| [[Tiago rocha.md]]   |         |       |        |
 | [[Yuri.md]]    |         |       |        |
 | [[Equipa/Pessoas/Abel]]    |         |       |        |
 |                            |         |       |        |

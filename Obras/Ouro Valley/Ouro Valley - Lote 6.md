@@ -37,7 +37,6 @@ fecho_motivo: Transferência de responsabilidade
 ## 👷 Equipa na Obra
 - [[Afonso.md]]
 - [[Moisés kalandula.md]]
-- [[Tiago rocha.md]]
 - [[]]
 
 ---

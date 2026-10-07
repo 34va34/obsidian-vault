@@ -8,18 +8,15 @@ obra: "ouro valley"
 ## 👷 Tabela de Presenças
 | Funcionário          | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 | -------------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[abel mande]]       | []       | 8             | 0            | [ ]     |             |
-| [[Afonso]]           | [x]      | 8             | 0            | [ ]     |             |
-| [[António Manuel]]          | [x]      | 8             | 0            | [ ]     |             |
-| [[António rocha]]    | [x]      | 8             | 0            | [ ]     |             |
-| [[dicor mendes]]     | []       | 8             | 0            | [ ]     |             |
-| [[Diogo nunes]]      | [x]      | 8             | 0            | [ ]     |             |
-| [[domingos felix]]   | [x]      | 8             | 0            | [ ]     |             |
-| [[José Magalhães]]   | [x]      | 8             | 0            | [ ]     |             |
-| [[Mario sousa]]      | [x]      | 8             | 0            | [ ]     |             |
-| [[Moisés kalandula]] | []       | 8             | 0            | [ ]     |             |
-| [[venacio]]          | [x]      | 8             | 0            | [ ]     |             |
-| [[Yuri]]             | []       | 8             | 0            | [ ]     |             |
+| [[Afonso]]           | [x]      | 0             | 0            | [ ]     |             |
+| [[António Manuel]]          | [x]      | 0             | 0            | [ ]     |             |
+| [[Diogo nunes]]      | [x]      | 0             | 0            | [ ]     |             |
+| [[domingos felix]]   | [x]      | 0             | 0            | [ ]     |             |
+| [[José Magalhães]]   | [x]      | 0             | 0            | [ ]     |             |
+| [[Mario sousa]]      | [x]      | 0             | 0            | [ ]     |             |
+| [[Moisés kalandula]] | []       | 0             | 0            | [ ]     |             |
+| [[venacio]]          | [x]      | 0             | 0            | [ ]     |             |
+| [[Yuri]]             | []       | 0             | 0            | [ ]     |             |
 
 
 > [!TIP] Instruções

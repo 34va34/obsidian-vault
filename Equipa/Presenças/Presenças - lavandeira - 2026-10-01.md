@@ -9,12 +9,9 @@ estado: Por confirmar
 ## 👷 Tabela de Presenças
 | Funcionário          | Presença | Horas Normais | Horas Extras | Sábado? | Observações   |
 | -------------------- | -------- | ------------- | ------------ | ------- | ------------- |
-| [[abel mande]]       | [ ]      | 0             | 0            | [ ]     | Por confirmar |
 | [[Afonso]]           | [ ]      | 0             | 0            | [ ]     | Por confirmar |
 | [[andre Magalhães ]] | [x ]     | 0             | 0            | [ ]     | Por confirmar |
 | [[António Manuel]]   | [ ]      | 0             | 0            | [ ]     | Por confirmar |
-| [[António rocha]]    | [ ]      | 0             | 0            | [ ]     | Por confirmar |
-| [[dicor mendes]]     | [ ]      | 0             | 0            | [ ]     | Por confirmar |
 | [[Diogo nunes]]      | [ ]      | 0             | 0            | [ ]     | Por confirmar |
 | [[domingos felix]]   | [ ]      | 0             | 0            | [ ]     | Por confirmar |
 | [[el houcine]]       | [ x]     | 0             | 0            | [ ]     | Por confirmar |

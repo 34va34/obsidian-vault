@@ -8,6 +8,5 @@ obra: "ouro valley"
 ## 👷 Tabela de Presenças
 | Funcionário    | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 | -------------- | -------- | ------------- | ------------ | ------- | ----------- |
-| [[abel mande]] |          | 8             | 1            |         |             |
 |                |          |               |              |         |             |
 
