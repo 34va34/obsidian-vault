@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_ee95c96bbffepeCoghW8ziPjMC"
 agentLabel: "<tool_call><function=Read><parameter=file_path>/Users/vasco/dev/2026pessoal/Equipa/Equipa hoje.md..."
-usage: '{"usedTokens":94831,"contextWindow":200000,"updatedAt":1791443122082}'
+usage: '{"usedTokens":102105,"contextWindow":200000,"updatedAt":1791443529805}'
 tags:
   - copilot-conversation
 ---
@@ -247,5 +247,39 @@ Segui a estrutura das fichas reais do vault (frontmatter + 📜 Histórico Autom
 **user**: as pessoas que tenho ativas neste momento são só; andre magalhaes, jose Magalhães, Rafael, el moucine, bacar sissé. os outros estao todos inativos para ja
 [Timestamp: 2026/10/08 08:08:36]
 
-**ai**: Vou ativar essas 5. Nota: **"el moucine" = o [[el houcine]]** (é o único com esse nome no vault — não há nenhuma "moucine"). Já estão ativos o Rafael e o Bacar; faltam3:Falta o José nos resultados — vou verificar se a ficha continua lá:A ficha do José **voltou para a raiz outra vez (3.ª vez), já com a edição `estado: Ativo`** — ou seja, é o mesmo ficheiro que está a ser arrastado/de volta depois de eu o mover. Vou movê-lo de novo e depois explico-te o problema:
+**ai**: Vou ativar essas 5. Nota: **"el moucine" = o [[el houcine]]** (é o único com esse nome no vault — não há nenhuma "moucine"). Já estão ativos o Rafael e o Bacar; faltam3:Falta o José nos resultados — vou verificar se a ficha continua lá:A ficha do José **voltou para a raiz outra vez (3.ª vez), já com a edição `estado: Ativo`** — ou seja, é o mesmo ficheiro que está a ser arrastado/de volta depois de eu o mover. Vou movê-lo de novo e depois explico-te o problema:Confirmado — a tua equipa ativa agora é exatamente essas5, e a ficha do José está no sítio certo (novamente).
+
+## ✅ Roster final
+
+**ATIVOS (5)** — todos com `estado: Ativo` verificado:
+
+| # | Pessoa | Cargo |
+|---|--------|-------|
+| 1 | [[andre Magalhães]] | praticante 1 ano |
+| 2 | [[José Magalhães]] | canalizador |
+| 3 | [[Rafael Gc]] | *por preencher* |
+| 4 | [[el houcine]] *(="el moucine" que escreveste)* | canalizador |
+| 5 | [[Bacar Sissé]] | *por preencher* |
+
+**INATIVOS (14):** abel mande, António rocha, António Manuel, Afonso, dicor mendes, Diogo nunes, domingos felix, Henriques, João tiago nvudi, Mario sousa, Moisés kalandula, Paulo Nadais, venacio, Yuri.
+
+---
+
+## ⚠️ A ficha do José Magalhães não para quieta
+
+Ocorreu **3 vezes**: depois de mover `José Magalhães.md` para `Equipa/Pessoas/`, ele reaparece na **raiz do vault** — e vem sempre com as minhas edições mais recentes (desta vez já com `estado: Ativo`), ou seja, é o mesmo ficheiro a ser "puxado" de volta. Acabei de mover pela4.ª vez e verifiquei: está em `Pessoas`, raiz limpa.
+
+Não sei a causa com certeza. Perguntas rápidas:
+1. **Estás a arrastar a nota no Obsidian?** (se sim e a queres na raiz, é só dizer e deixo lá)
+2. **Tens a nota aberta numa aba?** Fecha-a e vê se para de voltar.
+3. **Tens alguma sincronização** (OneDrive em `Documents`, Obsidian Sync) **ou plugin que organize/mova notas?** É o suspeito do costume para este comportamento.
+
+**Sugestão:** daqui a uns minutos, abre a pasta `Equipa/Pessoas` no Obsidian e confirma se o José lá continua. Se voltar à raiz outra vez, diz-me — nesse caso tratamos primeiro da causa (sync/plugin) antes de insistir em mover.
+
+---
+
+**Próximos passos possíveis agora que sabemos quem é a equipa (5):**
+1. Atualizar a tabela do [[Equipa hoje]] para estes5 (hoje tem6 pessoas,4 delas erradas);
+2. Meter o filtro "só ativos" na `Ação - Registar Presenças` — assim os registos futuros já nascem só com estes5;
+3. Preencher os cargos do Rafael e do Bacar, quando souberes.
 [Timestamp: 2026/10/08 08:08:36]
