@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_ee95c96bbffepeCoghW8ziPjMC"
 agentLabel: "<tool_call><function=Read><parameter=file_path>/Users/vasco/dev/2026pessoal/Equipa/Equipa hoje.md..."
-usage: '{"usedTokens":102105,"contextWindow":200000,"updatedAt":1791443529805}'
+usage: '{"usedTokens":107071,"contextWindow":200000,"updatedAt":1791450738295}'
 tags:
   - copilot-conversation
 ---
@@ -283,3 +283,65 @@ Não sei a causa com certeza. Perguntas rápidas:
 2. Meter o filtro "só ativos" na `Ação - Registar Presenças` — assim os registos futuros já nascem só com estes5;
 3. Preencher os cargos do Rafael e do Bacar, quando souberes.
 [Timestamp: 2026/10/08 08:08:36]
+
+**user**: quando registar presenças quero que add automaticamente que sao 8 horas. e se tiver horas extras eu acrescento
+[Timestamp: 2026/10/08 10:04:14]
+
+**ai**: Feito. Dois sítios atualizados:
+
+## ✅ Horas automáticas ao registar presenças
+
+**1. [[Ação - Registar Presenças]]** (a ação principal) — cada linha agora nasce assim:
+
+```
+| [[Nome]] | [ ] | 8 | 0 | [ ] | Por confirmar |
+                presença  ↑  ↑ extras
+                      horas normais
+```
+
+**2. [[Template - Registo de Presenças]]** (modelo base) — linha do esqueleto também com `8 | 0`.
+
+**Como vai funcionar no dia a dia:**
+- Crias o registo → todos vêm com **8 horas normais** já preenchidas;
+- Se alguém fizer **horas extras**, acrescentas tu na coluna *Horas Extras*;
+- ⚠️ Se alguém **não aparecer**, não te esqueças de lhe pôr as horas a `0` (vêm pré-preenchidas a8 por omissão).
+
+---
+
+## ⚠️ Falta o filtro — senão o próximo registo sai com19 pessoas
+
+A ação lista **todos** os ficheiros de `Equipa/Pessoas` — hoje são **19** (os14 inativos incluídos), todos com8h. Se eu adicionar o filtro "só `estado: Ativo`", o registo nasce só com a tua equipa atual:
+
+> **[[andre Magalhães]], [[José Magalhães]], [[Rafael Gc]], [[el houcine]], [[Bacar Sissé]]** — 5 linhas.
+
+É uma alteração de uma linha no mesmo ficheiro que acabei de editar. **Meto o filtro?**
+[Timestamp: 2026/10/08 10:04:14]
+
+**user**: sim
+[Timestamp: 2026/10/08 10:11:00]
+
+**ai**: Filtro adicionado e verificado — linha13 da [[Ação - Registar Presenças]]):
+
+```js
+.filter(f => String(app.metadataCache.getFileCache(f)?.frontmatter?.estado ?? "").trim().toLowerCase() === "ativo")
+```
+
+## ✅ Como funciona agora o registo de presenças
+
+Quando correres a ação (`Ctrl+P` → **Templater: Create new note from template** → *Ação - Registar Presenças*):
+
+1. **Só entra quem tem `estado: Ativo`** — hoje: **5 linhas** (andre Magalhães, José Magalhães, Rafael Gc, el houcine, Bacar Sissé);
+2. **Cada linha nasce com 8 horas normais** e 0 extras — extras acrescentas tu;
+3. Quem estiver `inativo` (ou sem `estado`) fica de fora automaticamente.
+
+**Bónus:** se amanhã reativares alguém (só mudar `estado: Ativo` na ficha dele), o próximo registo já inclui essa pessoa — e se alguém passar a inativo, sai do registo. Não depende de eu andar a mexer no script.
+
+**Os4 registos antigos ficaram como estão** (todos a0, sem os inativos) — esta mudança é só para registos futuros.
+
+---
+
+**Ficam pendentes, quando quiseres:**
+- Cargos do **Rafael Gc** e do **Bacar Sissé** (diz-me e completo);
+- Confirmar se a ficha do **José** continuou em `Equipa/Pessoas/` (aquele problema de ele voltar à raiz — vê se voltou a acontecer);
+- Corrigir as consultas partidas das17 fichas antigas (a das novas5 já está corrigida).
+[Timestamp: 2026/10/08 10:11:00]

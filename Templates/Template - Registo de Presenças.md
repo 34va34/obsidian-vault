@@ -13,7 +13,7 @@ estado: Por confirmar
 
 | Funcionário | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
 |---|---|---:|---:|---|---|
-| | [ ] | | | [ ] | |
+| | [ ] | 8 | 0 | [ ] | |
 
 ## 📊 Resumo do Dia
 - **Total de Funcionários**: 

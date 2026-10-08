@@ -10,10 +10,11 @@ let tableRows = "";
 if (peopleFolder && peopleFolder instanceof tp.obsidian.TFolder) {
     const peopleFiles = peopleFolder.children
         .filter(f => f instanceof tp.obsidian.TFile && f.extension === "md")
+        .filter(f => String(app.metadataCache.getFileCache(f)?.frontmatter?.estado ?? "").trim().toLowerCase() === "ativo")
         .sort((a, b) => a.basename.localeCompare(b.basename));
 
     for (const file of peopleFiles) {
-        tableRows += `| [[${file.basename}]] | [ ] | 0 | 0 | [ ] | Por confirmar |\n`;
+        tableRows += `| [[${file.basename}]] | [ ] | 8 | 0 | [ ] | Por confirmar |\n`;
     }
 }
 
