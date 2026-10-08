@@ -3,6 +3,7 @@
 > Estado: **plano — nada foi alterado no vault.**
 > Data da revisão: 2026-10-07
 > Fonte: análise de [[Equipa hoje]], 4 registos em `Equipa/Presenças/`, modelos em `Templates/`, [[Guia Rápido - Chefe de Equipa]].
+> **2026-10-08**: executado o ponto **5.2** (restauração de `Templates/Ação - Início de Dia.md` + atualização da secção 1 do guia). Todos os restantes pontos continuam por fazer.
 
 ---
 
@@ -53,7 +54,7 @@
 | # | Ação | Detalhe |
 |---|------|---------|
 | 5.1 | Filtrar inativos na `Ação - Registar Presenças` | Hoje lista todos os ficheiros; adicionar `.filter(f => f.basename !== undefined && frontmatter estado === "Ativo")` (ler `cachedMetadata` ou frontmatter). Evita abel/António rocha/dicor em registos futuros. |
-| 5.2 | Criar `Ação - Início de Dia` **ou** corrigir o guia | O [[Guia Rápido - Chefe de Equipa]] aponta para uma ação que não existe. |
+| 5.2 | Criar `Ação - Início de Dia` **ou** corrigir o guia | O [[Guia Rápido - Chefe de Equipa]] aponta para uma ação que não existe. ✅ **Feito a 2026-10-08**: script restaurado do histórico git para `Templates/Ação - Início de Dia.md` (com filtro de ativos e pastas ignore-case); a nota vazia na raiz foi removida. |
 | 5.3 | Corrigir `diário/diário -diario/diario.md` | Sem bloco ` ```dataviewjs ``` ` (não executa) e chama "Presenças" ao que são atribuições de tarefas — renomear ou apagar. |
 | 5.4 | Decidir destino do `Template - Mapa Semanal` | Nunca usado — usar, manter como alternativa, ou remover. |
 | 5.5 | Corrigir dados das pessoas | 6 pessoas sem `cargo`; typo `canalizado` → `canalizador` (venacio); uniformizar `estado: inativo` vs `Ativo`. |

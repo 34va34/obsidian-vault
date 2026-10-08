@@ -36,8 +36,8 @@ No Dashboard, abra:
 Preencha:
 
 1. **Nome da obra**;
-2. **Tarefas para hoje**, separadas por vírgulas;
-3. responsável, quando quiser atribuir uma tarefa a alguém.
+2. **Tarefas para hoje**, separadas por vírgulas — escreva o responsável com `@Nome`;
+3. **Só pessoas Ativas** — `s` (por omissão) lista apenas quem tem `estado: Ativo`; `n` lista toda a gente.
 
 Exemplo:
 
@@ -50,6 +50,8 @@ A ação cria:
 - o registo de presenças;
 - o diário da obra;
 - as tarefas planeadas para o dia.
+
+Corre sempre que as pastas de destino já existam (mesmo com maiúsculas diferentes) e não duplica ficheiros criados no mesmo dia.
 
 ### Atenção às presenças
 
