@@ -345,3 +345,10 @@ Quando correres a ação (`Ctrl+P` → **Templater: Create new note from templat
 - Confirmar se a ficha do **José** continuou em `Equipa/Pessoas/` (aquele problema de ele voltar à raiz — vê se voltou a acontecer);
 - Corrigir as consultas partidas das17 fichas antigas (a das novas5 já está corrigida).
 [Timestamp: 2026/10/08 10:11:00]
+
+**user**: o rafael e ajudante e o bacar é canalizador
+podes fazer o que esta  pendente
+[Timestamp: 2026/10/08 10:25:43]
+
+**ai**: Vou tratar dos três pendentes em paralelo: cargos, verificação do José, e correção das consultas nas17 fichas antigas:
+[Timestamp: 2026/10/08 10:25:43]

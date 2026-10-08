@@ -1,7 +1,7 @@
 ---
 tags: pessoa, equipa
 nome: Rafael Gc
-cargo:
+cargo: ajudante
 estado: Ativo
 ---
 # 👤 Rafael Gc

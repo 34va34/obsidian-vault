@@ -1,7 +1,7 @@
 ---
 tags: pessoa, equipa
 nome: Bacar Sissé
-cargo:
+cargo: canalizador
 estado: Ativo
 ---
 # 👤 Bacar Sissé
