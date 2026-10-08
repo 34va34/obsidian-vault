@@ -22,21 +22,6 @@
       "folder": "Material/inventário",
       "tag": "#falta",
       "pattern": ""
-    },
-    {
-      "folder": "",
-      "tag": "",
-      "pattern": ""
-    },
-    {
-      "folder": "",
-      "tag": "",
-      "pattern": ""
-    },
-    {
-      "folder": "",
-      "tag": "",
-      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,

@@ -350,5 +350,22 @@ Quando correres a ação (`Ctrl+P` → **Templater: Create new note from templat
 podes fazer o que esta  pendente
 [Timestamp: 2026/10/08 10:25:43]
 
-**ai**: Vou tratar dos três pendentes em paralelo: cargos, verificação do José, e correção das consultas nas17 fichas antigas:
+**ai**: Vou tratar dos três pendentes em paralelo: cargos, verificação do José, e correção das consultas nas17 fichas antigas:9 fichas atualizadas e **zero** restantes com a consulta `funcionario` — mas esperava17. Algumas fichas antigas devem ter estrutura diferente. A verificar:O José não aparece no grep — pode ter voltado a mudar. A verificar tudo:O ficheiro na raiz tem a **correção mais recente** — é o mesmo ficheiro a ser puxado de volta (5.ª vez). A verificar os plugins e sessão do Obsidian (ficheiros ocultos):Encontrei o suspeeto: o plugin **Auto Note Mover**! Ele move notas automaticamente conforme regras. A ver a configuração:O José está mesmo fora (18 em Pessoas, ele na raiz). Vou examinar a lógica do plugin para confirmar a causa exata:**Causa-raiz encontrada no código do plugin.** A regra tem esta lógica (main.js:2096-2101):
+
+```js
+const regex = new RegExp(settingTag);      // settingTag = "" → regex que casa TUDO
+if (cacheTag.find((e) => regex.test(e))) { // qualquer nota COM tags
+    fileMove(app, settingFolder, ...)      // settingFolder = "" → MOVE PARA A RAIZ
+}
+```
+
+Tens **3 regras vazias** no Auto Note Mover (pasta destino = raiz!) — qualquer nota com tags que não caiba nas regras `#material`/`#encomendas`/`#tarefas`/`#falta` é **empurrada para a raiz do vault**. A corrigir e a repôr o José:Mistério resolvido e todos os pendentes tratados. Resumo:
+
+## ✅ 1. Cargos preenchidos
+- **[[Rafael Gc]]** → `ajudante`
+- **[[Bacar Sissé]]** → `canalizador`
+
+## ✅ 2. Consultas corrigidas
+- **9 fichas** tinham as queries partidas e foram corrigidas todas de uma vez: `funcionario` → `file.outlinks`, `FROM "tarefas"`, ordenação `estado/data_limite`, pasta `diário/Diários Diários` — verifiquei no [[Yuri]] e está perfeito. Zero restantes com a consulta antiga.
+- **As outras8 antigas** (el houcine, andre, domingos, Henriques, João, Mario, Paulo, venacio) **não têm query nenhuma** — estão na estrutura antiga "Contacto/Funções". Não estava
 [Timestamp: 2026/10/08 10:25:43]

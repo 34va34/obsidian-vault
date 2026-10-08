@@ -7,8 +7,8 @@ estado: Por iniciar
 tempo_total: 0h
 data_inicio:
 data_conclusao:
-casas_bloco_a:
-casas_bloco_b:
+casas_bloco_a: 0
+casas_bloco_b: 6
 total_casas: 6
 ---
 
