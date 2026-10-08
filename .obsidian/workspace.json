@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 2.md",
+                "file": "Tarefa - agua no teto dos corredores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lote 1B - Piso 2"
+              "title": "Tarefa - agua no teto dos corredores"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 2.md",
+                "file": "Tarefa - agua no teto dos corredores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,14 +213,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 2.md"
+                "file": "Tarefa - agua no teto dos corredores.md"
               },
               "icon": "lucide-info",
               "title": "Propriedades do ficheiro"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -245,8 +245,9 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "c788c8097b612b91",
+  "active": "8de64f947283968b",
   "lastOpenFiles": [
+    "Obras/Lavandeira/Lotes/Lote 1B/Pisos/Lote 1B - Piso 2.md",
     "Dashboard.md",
     "Biblioteca de Trabalhos.md",
     "Equipa/Pessoas/José Magalhães.md",
@@ -272,7 +273,6 @@
     "José Magalhães.md",
     "Equipa/Pessoas/Rafael Gc.md",
     "Equipa/Pessoas/Bacar Sissé.md",
-    "Gestão/Dashboard Chefe/Situação - landeira - 1A  - 2026-10-01.md",
     "outputs",
     "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
     "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",

@@ -3,9 +3,9 @@ tags: obra, lavandeira, lote-1b, piso-2
 obra: Lavandeira
 lote: 1B
 piso: "2"
-estado: Por iniciar
+estado: Em andamento
 tempo_total: 0h
-data_inicio:
+data_inicio: 2016-10-08
 data_conclusao:
 casas_parte_a: 7
 casas_parte_b: 6
@@ -30,11 +30,11 @@ total_casas: 13
 
 ## ✅ O que já foi feito
 
--
+- [[Tarefa - agua no teto dos corredores]]
 
 ## 🔨 O que está por fazer
 
--
+- 
 
 ## ⏳ O que está pendente
 

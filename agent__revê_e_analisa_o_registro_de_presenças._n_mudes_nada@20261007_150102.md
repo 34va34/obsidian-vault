@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_ee95c96bbffepeCoghW8ziPjMC"
 agentLabel: "<tool_call><function=Read><parameter=file_path>/Users/vasco/dev/2026pessoal/Equipa/Equipa hoje.md..."
-usage: '{"usedTokens":107071,"contextWindow":200000,"updatedAt":1791450738295}'
+usage: '{"usedTokens":142263,"contextWindow":200000,"updatedAt":1791455184296}'
 tags:
   - copilot-conversation
 ---
@@ -367,5 +367,27 @@ Tens **3 regras vazias** no Auto Note Mover (pasta destino = raiz!) — qualquer
 
 ## ✅ 2. Consultas corrigidas
 - **9 fichas** tinham as queries partidas e foram corrigidas todas de uma vez: `funcionario` → `file.outlinks`, `FROM "tarefas"`, ordenação `estado/data_limite`, pasta `diário/Diários Diários` — verifiquei no [[Yuri]] e está perfeito. Zero restantes com a consulta antiga.
-- **As outras8 antigas** (el houcine, andre, domingos, Henriques, João, Mario, Paulo, venacio) **não têm query nenhuma** — estão na estrutura antiga "Contacto/Funções". Não estava
+- **As outras8 antigas** (el houcine, andre, domingos, Henriques, João, Mario, Paulo, venacio) **não têm query nenhuma** — estão na estrutura antiga "Contacto/Funções". Não estava partido, estava só ausente. Se quiseres, passo as8 para a estrutura com Histórico Automático.
+
+## 🔍 3. O José — causa-raiz ENCONTRADA
+
+Era o plugin **Auto Note Mover** (`trigger: Automatic`). Tinha **3 regras vazias** acumuladas:
+
+```json
+{ "folder": "", "tag": "", "pattern": "" }   ← destino: RAIZ do vault!
+```
+
+Com "regex nas tags" ativo, `new RegExp("")` **casa qualquer tag** → qualquer nota com tags parseáveis era **empurrada para a raiz** sempre que o Obsidian a re-indexava. Só o José saltava porque (a) é o único com tags em *lista* YAML (`#nextyard`) — as outras fichas têm `tags: pessoa, equipa` em string, que o plugin ignora — e (b) a ficha dele está **aberta numa aba com o caminho antigo da raiz** (`workspace.json` confirma), o que dispara a re-indexação logo depois de eu editar.
+
+**Feito:** regras vazias removidas do `data.json` (sobram só `#material`, `#encomendas`, `#tarefas`, `#falta`) + José reposto em `Equipa/Pessoas/` (verificado, raiz limpa).
+
+## ⚠️ Ação tua — reinicia o Obsidian
+
+O plugin tem as regras antigas **em memória** enquanto a app estiver aberta — e eu não posso reiniciar a aplicação. Depois do restart ele carrega a configuração já corrigida e o José fica em paz.
+
+- **Reinicia o Obsidian** (fechar e abrir);
+- **Antes de reiniciar, não toques** nas definições do Auto Note Mover (podiam reescrever o ficheiro com as regras velhas);
+- Depois do restart, confirma que `José Magalhães` está em `Equipa/Pessoas`.
+
+**Bónus desta caça:** esse bug também metia em risco os teus **registos de presenças** e diários (têm tags) — podiam saltar todos para a raiz. Com as regras limpas, isso acaba.
 [Timestamp: 2026/10/08 10:25:43]
