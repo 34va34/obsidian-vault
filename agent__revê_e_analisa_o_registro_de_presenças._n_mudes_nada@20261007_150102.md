@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_ee95c96bbffepeCoghW8ziPjMC"
 agentLabel: "<tool_call><function=Read><parameter=file_path>/Users/vasco/dev/2026pessoal/Equipa/Equipa hoje.md..."
-usage: '{"usedTokens":88212,"contextWindow":200000,"updatedAt":1791383620843}'
+usage: '{"usedTokens":94831,"contextWindow":200000,"updatedAt":1791443122082}'
 tags:
   - copilot-conversation
 ---
@@ -218,3 +218,34 @@ Está em `Equipa/Pessoas/José Magalhães.md`, com conteúdo intacto. **Aviso ho
 2. Adicionar o filtro de ativos à `Ação - Registar Presenças` (fase 5.1) para os registos futuros só saírem esses;
 3. Completar a [[Equipa hoje]] com a equipa ativa real.
 [Timestamp: 2026/10/07 15:20:29]
+
+**user**: quero add duas pessoas novas a equipa, o Rafael Gc
+bacar sissé
+[Timestamp: 2026/10/08 08:03:08]
+
+**ai**: Vou primeiro ver o modelo de pessoa para criar as fichas com a estrutura certa:O modelo existe (`Ação - Nova Pessoa`) mas as fichas reais do vault têm outra estrutura (com "Histórico Automático") — vou seguir a estrutura real, que é a que o vault usa. A criar:Feito — as duas fichas criadas e verificadas:
+
+## ✅ Novas pessoas em `Equipa/Pessoas/`
+
+| Ficheiro | `nome` | `cargo` | `estado` |
+|---|---|---|---|
+| [[Rafael Gc]] | Rafael Gc | *(por preencher)* | **Ativo** |
+| [[Bacar Sissé]] | Bacar Sissé | *(por preencher)* | **Ativo** |
+
+Segui a estrutura das fichas reais do vault (frontmatter + 📜 Histórico Automático com as 3 consultas Dataview + Notas).
+
+**Notas:**
+1. **São agora as únicas duas pessoas `Ativo`** do vault — os outros17 estão `inativo`. Ou seja: a tua equipa ativa de contagem de horas começa com o Rafael e o Bacar.
+2. **Cargo vazio** — não me disseste as funções. Diz-me (canalizador? oficial? praticante?) e completo as duas fichas.
+3. Escrevi **"Bacar Sissé"** com maiúsculas (tinhas escrito em minúsculas) — se quiseres exatamente como escreveste, renomeio.
+4. **Nas novas já usei as consultas corrigidas** (`file.outlinks` em vez do campo `funcionario` que nunca existe, pastas com a capitalização real, ordenação pelos campos certos). Nas17 fichas antigas as consultas continuam partidas — posso propagar a correção a todas quando quiseres.
+5. O template `Ação - Nova Pessoa` cria pessoas com `estado: Ativo` por omissão — já não precisa de alteração.
+
+**Se quiseres, próximos passos:** adicioná-los à tabela do [[Equipa hoje]] e aos registos de presenças, e/ou meter o filtro "só ativos" na `Ação - Registar Presenças` para os registos futuros saírem só com eles.
+[Timestamp: 2026/10/08 08:03:08]
+
+**user**: as pessoas que tenho ativas neste momento são só; andre magalhaes, jose Magalhães, Rafael, el moucine, bacar sissé. os outros estao todos inativos para ja
+[Timestamp: 2026/10/08 08:08:36]
+
+**ai**: Vou ativar essas 5. Nota: **"el moucine" = o [[el houcine]]** (é o único com esse nome no vault — não há nenhuma "moucine"). Já estão ativos o Rafael e o Bacar; faltam3:Falta o José nos resultados — vou verificar se a ficha continua lá:A ficha do José **voltou para a raiz outra vez (3.ª vez), já com a edição `estado: Ativo`** — ou seja, é o mesmo ficheiro que está a ser arrastado/de volta depois de eu o mover. Vou movê-lo de novo e depois explico-te o problema:
+[Timestamp: 2026/10/08 08:08:36]

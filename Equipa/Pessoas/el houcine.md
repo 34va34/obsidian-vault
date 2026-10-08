@@ -2,7 +2,7 @@
 tags: pessoa, equipa
 nome: el houcine
 cargo: canalizador
-estado: inativo
+estado: Ativo
 ---
 # 👤 el houcine
 
