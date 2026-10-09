@@ -18,11 +18,11 @@ total_casas: 6
 
 | Bloco | Casas |
 |---|---:|
-| Bloco A | Por confirmar |
-| Bloco B | Por confirmar |
+| Bloco A | 0 |
+| Bloco B | 6 |
 | **Total do piso** | **6** |
 
-> A divisão do piso 6 entre os Blocos A e B ainda não foi indicada.
+> As 6 casas do piso 6 estão todas no Bloco B.
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 1A]]

@@ -5,8 +5,8 @@ lote: 3A
 estado: Em andamento
 data_inicio: 2026-10-28
 total_casas: 77
-casas_bloco_a: Por confirmar no piso 6
-casas_bloco_b: Por confirmar no piso 6
+casas_bloco_a: 41
+casas_bloco_b: 36
 ---
 
 # 🏗️ Lavandeira — Lote 3A
@@ -46,18 +46,18 @@ casas_bloco_b: Por confirmar no piso 6
 | Piso 3 | 7 | 6 | 13 |
 | Piso 4 | 7 | 6 | 13 |
 | Piso 5 | 7 | 6 | 13 |
-| Piso 6 | Por confirmar | Por confirmar | 6 |
-| **Total Lote 3A** | **Por confirmar** | **Por confirmar** | **77** |
+| Piso 6 | 0 | 6 | 6 |
+| **Total Lote 3A** | **41** | **36** | **77** |
 
 > O piso -1 do Lote 3A tem **6 casas** (o do Lote 1A tem 7). A somatória por pisos fecha em 77.
 
-> O piso 6 tem 6 casas no total; a divisão dessas casas entre os Blocos A e B fica por confirmar.
+> O piso 6 tem 6 casas, todas no Bloco B.
 
 ## 📝 Notas
 
 - Total atualizado: **77 casas**.
 - O lote 3A segue a mesma configuração do lote 1A, com a exceção do piso -1: este tem **6 casas no Bloco A** e nenhuma no Bloco B (no Lote 1A são 7); pisos 1 a 5 com 7 casas no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total.
-- A divisão do piso 6 entre os Blocos A e B fica por confirmar.
+- A divisão do piso 6 está confirmada: as 6 casas estão todas no Bloco B.
 
 ## 🔁 Trabalhos reutilizados neste local
 

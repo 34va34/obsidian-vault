@@ -5,8 +5,8 @@ lote: 1A
 estado: Em andamento
 data_inicio: 2026-10-28
 total_casas: 77
-casas_bloco_a: Por confirmar no piso 6
-casas_bloco_b: Por confirmar no piso 6
+casas_bloco_a: 42
+casas_bloco_b: 35
 ---
 
 # 🏗️ Lavandeira — Lote 1A
@@ -46,9 +46,9 @@ casas_bloco_b: Por confirmar no piso 6
 | Piso 4            |                 7 |                 6 |     13 |
 | Piso 5            |                 7 |                 6 |     13 |
 | Piso 6            |                 0 |                 6 |      6 |
-| **Total Lote 1A** | **Por confirmar** | **Por confirmar** | **77** |
+| **Total Lote 1A** | **42** | **35** | **77** |
 
-> O piso 6 tem 6 casas no total; a divisão dessas casas entre os Blocos A e B fica por confirmar.
+> O piso 6 tem 6 casas, todas no Bloco B.
 
 ## 🧩 Tipologias (T1/T2/T3)
 
@@ -62,13 +62,13 @@ casas_bloco_b: Por confirmar no piso 6
 - **Piso -1**: 5 T2 + 1 T3 + 1 T1 (7 casas, todas no Bloco A).
 - **Piso 1**: 8 T2 + 4 T3 (12 casas; 7 no Bloco A e 5 no Bloco B).
 - **Pisos 2 a 5**: 7 casas no Bloco A e 6 no Bloco B (13 por piso).
-- **Piso 6**: 6 casas.
+- **Piso 6**: 6 casas, todas no Bloco B.
 - Tipologias dos pisos 2 a 6 (e respetiva divisão por bloco): por registar.
 
 ## 📝 Notas
 
 - Total atualizado: **77 casas**.
-- Distribuição conhecida: piso -1 com 7 casas no Bloco A e nenhuma no Bloco B; piso 1 com 7 casas no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 casas no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total.
+- Distribuição conhecida: piso -1 com 7 casas no Bloco A e nenhuma no Bloco B; piso 1 com 7 casas no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 casas no Bloco A e 6 no Bloco B; piso 6 com 6 casas, todas no Bloco B.
 - O Lote 1A está dividido nos Blocos A e B. O Lote 3A mantém a sua configuração registada separadamente.
 
 ## 🔁 Trabalhos reutilizados neste local

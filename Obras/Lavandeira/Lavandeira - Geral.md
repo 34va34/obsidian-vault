@@ -42,8 +42,9 @@ lotes: 1A, 3A
 - **Casas no Lote 1A**: 77
 - **Casas no Lote 3A**: 77
 - **Total da obra**: 154 casas
-- **Lote 1A**: piso -1 com 7 casas no Bloco A e 0 no Bloco B; piso 1 com 7 no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total
-- **Observação**: a divisão do piso 6 do Lote 1A entre os Blocos A e B fica por confirmar.
+- **Lote 1A**: piso -1 com 7 casas no Bloco A e 0 no Bloco B; piso 1 com 7 no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 no Bloco A e 6 no Bloco B; piso 6 com 6 casas, todas no Bloco B
+- **Lote 3A**: piso -1 com 6 casas no Bloco A e 0 no Bloco B; pisos 1 a 5 com 7 no Bloco A e 6 no Bloco B; piso 6 com 6 casas, todas no Bloco B
+- **Observação**: as diferenças entre os lotes estão no piso -1 (7 casas no 1A, 6 no 3A) e no piso 1 (12 casas no 1A, 13 no 3A).
 
 ## 👷 Equipa
 
