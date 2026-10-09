@@ -1,15 +1,15 @@
 ---
-tags: obra, lavandeira, lote-1b
+tags: obra, lavandeira, lote-3a
 obra: Lavandeira
-lote: 1B
+lote: 3A
 estado: Em andamento
 data_inicio: 2026-10-28
 total_casas: 78
-casas_parte_a: Por confirmar no piso 6
-casas_parte_b: Por confirmar no piso 6
+casas_bloco_a: Por confirmar no piso 6
+casas_bloco_b: Por confirmar no piso 6
 ---
 
-# 🏗️ Lavandeira — Lote 1B
+# 🏗️ Lavandeira — Lote 3A
 
 ## 📋 Informações Gerais
 
@@ -20,6 +20,7 @@ casas_parte_b: Por confirmar no piso 6
 
 ## 🏢 Configuração
 
+- Dividido em dois blocos: Bloco A e Bloco B
 - 5 pisos principais
 - Piso -1 parcial
 - Piso 6 parcial
@@ -27,17 +28,17 @@ casas_parte_b: Por confirmar no piso 6
 
 ## 🗂️ Acompanhamento por Piso
 
-- [[Lote 1B - Piso -1]]
-- [[Lote 1B - Piso 1]]
-- [[Lote 1B - Piso 2]]
-- [[Lote 1B - Piso 3]]
-- [[Lote 1B - Piso 4]]
-- [[Lote 1B - Piso 5]]
-- [[Lote 1B - Piso 6]]
+- [[Lote 3A - Piso -1]]
+- [[Lote 3A - Piso 1]]
+- [[Lote 3A - Piso 2]]
+- [[Lote 3A - Piso 3]]
+- [[Lote 3A - Piso 4]]
+- [[Lote 3A - Piso 5]]
+- [[Lote 3A - Piso 6]]
 
-## 🏠 Distribuição de casas por parte e piso
+## 🏠 Distribuição de casas por bloco e piso
 
-| Piso | Parte A | Parte B | Total |
+| Piso | Bloco A | Bloco B | Total |
 |---|---:|---:|---:|
 | Piso -1 | 7 | 0 | 7 |
 | Piso 1 | 7 | 6 | 13 |
@@ -46,15 +47,15 @@ casas_parte_b: Por confirmar no piso 6
 | Piso 4 | 7 | 6 | 13 |
 | Piso 5 | 7 | 6 | 13 |
 | Piso 6 | Por confirmar | Por confirmar | 6 |
-| **Total Lote 1B** | **Por confirmar** | **Por confirmar** | **78** |
+| **Total Lote 3A** | **Por confirmar** | **Por confirmar** | **78** |
 
-> O piso 6 tem 6 casas no total; a divisão dessas casas entre as Partes A e B fica por confirmar.
+> O piso 6 tem 6 casas no total; a divisão dessas casas entre os Blocos A e B fica por confirmar.
 
 ## 📝 Notas
 
 - Total atualizado: **78 casas**.
-- O lote 1B segue a mesma configuração do lote 1A: piso -1 com 7 casas na Parte A e nenhuma na Parte B; pisos 1 a 5 com 7 casas na Parte A e 6 na Parte B; piso 6 com 6 casas no total.
-- A divisão do piso 6 entre as partes A e B fica por confirmar.
+- O lote 3A segue a mesma configuração do lote 1A: piso -1 com 7 casas no Bloco A e nenhuma no Bloco B; pisos 1 a 5 com 7 casas no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total.
+- A divisão do piso 6 entre os Blocos A e B fica por confirmar.
 
 ## 🔁 Trabalhos reutilizados neste local
 

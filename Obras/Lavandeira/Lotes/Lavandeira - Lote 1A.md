@@ -23,7 +23,7 @@ casas_bloco_b: Por confirmar no piso 6
 - 5 pisos principais
 - Piso -1 parcial
 - Piso 6 parcial
-- Configuração igual ao [[Lavandeira - Lote 1B]]
+- Configuração igual ao [[Lavandeira - Lote 3A]]
 
 ## 🗂️ Acompanhamento por Piso
 
@@ -54,7 +54,7 @@ casas_bloco_b: Por confirmar no piso 6
 
 - Total atualizado: **77 casas**.
 - Distribuição conhecida: piso -1 com 7 casas no Bloco A e nenhuma no Bloco B; piso 1 com 7 casas no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 casas no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total.
-- O Lote 1A está dividido nos Blocos A e B. O Lote 1B mantém a sua configuração registada separadamente.
+- O Lote 1A está dividido nos Blocos A e B. O Lote 3A mantém a sua configuração registada separadamente.
 
 ## 🔁 Trabalhos reutilizados neste local
 

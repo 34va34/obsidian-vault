@@ -400,7 +400,8 @@
         "defaultModel": {
           "baseModelId": "opencode/mimo-v2.6-flash-free",
           "effort": null
-        }
+        },
+        "defaultMode": "auto"
       }
     },
     "debugFullFrames": true,

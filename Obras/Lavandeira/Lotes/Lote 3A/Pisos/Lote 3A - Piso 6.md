@@ -1,30 +1,31 @@
 ---
-tags: obra, lavandeira, lote-1b, piso-menos-1
+tags: obra, lavandeira, lote-3a, piso-6
 obra: Lavandeira
-lote: 1B
-piso: "-1"
+lote: 3A
+piso: "6"
 estado: Por iniciar
 tempo_total: 0h
 data_inicio:
 data_conclusao:
-casas_parte_a: 7
-casas_parte_b: 0
-total_casas: 7
+casas_bloco_a:
+casas_bloco_b:
+total_casas: 6
 ---
 
-# 🏗️ Lavandeira — Lote 1B — Piso -1
+# 🏗️ Lavandeira — Lote 3A — Piso 6
 
-## 🏠 Distribuição de casas por parte
+## 🏠 Distribuição de casas por bloco
 
-| Parte | Casas |
+| Bloco | Casas |
 |---|---:|
-| Parte A | 7 |
-| Parte B | 0 |
-| **Total do piso** | **7** |
+| Bloco A | Por confirmar |
+| Bloco B | Por confirmar |
+| **Total do piso** | **6** |
 
+> A divisão do piso 6 entre os Blocos A e B ainda não foi indicada.
 
 - **Obra**: [[Lavandeira - Geral]]
-- **Lote**: [[Lavandeira - Lote 1B]]
+- **Lote**: [[Lavandeira - Lote 3A]]
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 
@@ -55,7 +56,7 @@ total_casas: 7
 ## 🔗 Ligações
 
 - [[Lavandeira - Geral]]
-- [[Lavandeira - Lote 1B]]
+- [[Lavandeira - Lote 3A]]
 
 ## 🔁 Trabalhos reutilizados neste local
 
