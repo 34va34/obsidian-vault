@@ -16,15 +16,15 @@ trabalhos_ids:
 
 ## 🔧 Trabalhos da Biblioteca — verificar neste piso
 
-| ID                                       | Categoria           | Trabalho                                   | Feito | Em falta | Com erro | N/A | Observações |
-| ---------------------------------------- | ------------------- | ------------------------------------------ | :---: | :------: | :------: | :-: | ----------- |
-| executar-esgotos-finos                   | Esgotos             | Executar esgotos finos                     |   ☐   |    ☐     |    ☐     |  ☐  |             |
-| executar-prumadas-de-esgotos             | Esgotos             | Executar prumadas de esgotos               |   ☐   |    x     |    ☐     |  ☐  |             |
-| ligar-esgotos-às-caixas                  | Esgotos             | Ligar esgotos às caixas                    |   ☐   |    ☐     |    ☐     |  ☐  |             |
-| ligar-wc-fora-do-sítio                   | Esgotos             | Ligar WC fora do sítio                     |   ☐   |    ☐     |    ☐     |  ☐  |             |
-| testar-esgotos-das-casas-de-banho        | Testes e acabamento | Testar esgotos das casas de banho          |   ☐   |    ☐     |    ☐     |  ☐  |             |
-| testar-instalações-do-piso               | Testes e acabamento | Testar instalações do piso                 |   ☐   |    ☐     |    ☐     |  ☐  |             |
-| executar-aranhas-distribuição-por-fração | Testes e acabamento | Executar aranhas / distribuição por fração |   ☐   |    ☐     |    ☐     |  ☐  |             |
+| Observações | ID                                       | Categoria           | Trabalho                                   | Feito | Em falta | Com erro | N/A |
+| ----------- | ---------------------------------------- | ------------------- | ------------------------------------------ | :---: | :------: | :------: | :-: |
+|             | executar-esgotos-finos                   | Esgotos             | Executar esgotos finos                     |   ☐   |    ☐     |    ☐     |  ☐  |
+|             | executar-prumadas-de-esgotos             | Esgotos             | Executar prumadas de esgotos               |   ☐   |    x     |    ☐     |  ☐  |
+|             | ligar-esgotos-às-caixas                  | Esgotos             | Ligar esgotos às caixas                    |   ☐   |    ☐     |    ☐     |  ☐  |
+|             | ligar-wc-fora-do-sítio                   | Esgotos             | Ligar WC fora do sítio                     |   ☐   |    ☐     |    ☐     |  ☐  |
+|             | testar-esgotos-das-casas-de-banho        | Testes e acabamento | Testar esgotos das casas de banho          |   ☐   |    ☐     |    ☐     |  ☐  |
+|             | testar-instalações-do-piso               | Testes e acabamento | Testar instalações do piso                 |   ☐   |    ☐     |    ☐     |  ☐  |
+|             | executar-aranhas-distribuição-por-fração | Testes e acabamento | Executar aranhas / distribuição por fração |   ☐   |    ☐     |    ☐     |  ☐  |
 
 
 ## 📋 Check-list geral

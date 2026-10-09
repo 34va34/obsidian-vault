@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ac04c08710e9a6e",
+        "id": "13f78e5f80094bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "1359a10b040c3184",
+            "id": "cfa63f34cc73cf59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1 - Bloco A.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lote 1A - Piso -1 - Bloco A"
+              "title": "Nova aba"
             }
           }
         ]
@@ -80,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "02f95464b0f7023a",
@@ -245,10 +241,24 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "1359a10b040c3184",
+  "active": "120d59677b893e51",
   "lastOpenFiles": [
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
+    "Gestão/Vistorias/Vistoria - ouro valley - lote 6 piso 1 - 2026-07-27.md",
+    "Gestão/Vistorias/Vistoria - ouro valley - lote 5 - 2026-07-29.md",
+    "Gestão/Vistorias/Vistoria - lavandeira - lote 1A bloco A piso -1 - 2026-10-09.md",
+    "Gestão/Vistorias/Vistoria - lavandeira - Lote 1a — Piso -1 bloco a - 2026-10-02.md",
+    "Untitled 1.md",
+    "Templates/Ação - Realizar Vistoria.md",
+    "Guia Rápido - Chefe de Equipa.md",
+    "Diário/Diários Diários/Diário - lavandeira - 2026-10-09.md",
+    "Equipa/Equipa hoje.md",
+    "copilot/copilot-conversations/agent__a_equipa_de_hoje_n_esta_a_bater_certo_com@20261009_163916.md",
+    "Gestão/Dashboard Chefe/Situação - landeira - 1A  - 2026-10-01.md",
+    "Gestão/Dashboard Chefe/Situação - lavandeira - null - 2026-10-02.md",
+    "Guia Rápido - Cheche de Equipa.md",
+    "Gestão/Dashboard Chefe/Dashboard Principal.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1 - Bloco A.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
     "Obras/Lavandeira/Lavandeira - Geral.md",
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
     "Obras/Lavandeira/Lotes/Lavandeira - Lote 3A.md",
@@ -259,20 +269,6 @@
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 6 - Bloco B.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 5 - Bloco B.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 5 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 4 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 3 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 3 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 4 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 2 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 2 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 1 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 6 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso -1 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 1 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 4 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 4 - Bloco A.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos",
     "Obras/Lavandeira/Lotes/Lote 3A",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
