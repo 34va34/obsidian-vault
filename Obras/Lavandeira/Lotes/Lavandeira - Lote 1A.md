@@ -25,15 +25,15 @@ casas_bloco_b: 35
 - Piso 6 parcial
 - Configuração igual ao [[Lavandeira - Lote 3A]]
 
-## 🗂️ Acompanhamento por Piso
+## 🗂️ Acompanhamento por Piso e Bloco
 
-- [[Lote 1A - Piso -1]]
-- [[Lote 1A - Piso 1]]
-- [[Lote 1A - Piso 2]]
-- [[Lote 1A - Piso 3]]
-- [[Lote 1A - Piso 4]]
-- [[Lote 1A - Piso 5]]
-- [[Lote 1A - Piso 6]]
+- **Piso -1**: [[Lote 1A - Piso -1 - Bloco A|Bloco A]]
+- **Piso 1**: [[Lote 1A - Piso 1 - Bloco A|Bloco A]] · [[Lote 1A - Piso 1 - Bloco B|Bloco B]]
+- **Piso 2**: [[Lote 1A - Piso 2 - Bloco A|Bloco A]] · [[Lote 1A - Piso 2 - Bloco B|Bloco B]]
+- **Piso 3**: [[Lote 1A - Piso 3 - Bloco A|Bloco A]] · [[Lote 1A - Piso 3 - Bloco B|Bloco B]]
+- **Piso 4**: [[Lote 1A - Piso 4 - Bloco A|Bloco A]] · [[Lote 1A - Piso 4 - Bloco B|Bloco B]]
+- **Piso 5**: [[Lote 1A - Piso 5 - Bloco A|Bloco A]] · [[Lote 1A - Piso 5 - Bloco B|Bloco B]]
+- **Piso 6**: [[Lote 1A - Piso 6 - Bloco B|Bloco B]]
 
 ## 🏠 Distribuição de casas por bloco e piso
 

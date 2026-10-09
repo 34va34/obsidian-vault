@@ -6,7 +6,7 @@ piso: "2"
 bloco: A
 estado: Em andamento
 tempo_total: 0h
-data_inicio:
+data_inicio: 2026-10-08
 data_conclusao:
 total_casas: 7
 ---
@@ -17,11 +17,10 @@ total_casas: 7
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 3A]]
-- **Piso**: [[Lote 3A - Piso 2]]
+- **Piso**: 2
 - **Bloco**: A
 - **Estado**: Em andamento
 - **Tempo total de execução**: 0h
-- **Registos do piso**: os trabalhos escritos ao nível do piso estão em [[Lote 3A - Piso 2]].
 
 ## 🏠 Casas do Bloco
 
@@ -40,7 +39,9 @@ total_casas: 7
 
 ## ✅ O que já foi feito
 
-- (por preencher)
+_Comum aos dois blocos (registo ao nível do piso):_
+
+- [[Tarefa - agua no teto dos corredores]]
 
 ## 🔨 O que está por fazer
 
@@ -66,4 +67,12 @@ total_casas: 7
 
 - [[Lavandeira - Geral]]
 - [[Lavandeira - Lote 3A]]
-- [[Lote 3A - Piso 2]]
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote AND piso = this.piso
+SORT estado ASC, trabalho_modelo ASC
+```

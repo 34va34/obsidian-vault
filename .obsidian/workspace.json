@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1 - Bloco B.md",
+                "file": "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1 - Bloco A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lote 1A - Piso 1 - Bloco B"
+              "title": "Lote 1A - Piso -1 - Bloco A"
             }
           }
         ]
@@ -245,8 +245,17 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "120d59677b893e51",
+  "active": "1359a10b040c3184",
   "lastOpenFiles": [
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1 - Bloco A.md",
+    "Obras/Lavandeira/Lavandeira - Geral.md",
+    "Obras/Lavandeira/Lotes/Lavandeira - Lote 1A.md",
+    "Obras/Lavandeira/Lotes/Lavandeira - Lote 3A.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2 - Bloco B.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2 - Bloco A.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1 - Bloco B.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 6 - Bloco B.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 5 - Bloco B.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 5 - Bloco A.md",
@@ -263,16 +272,7 @@
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos/Lote 3A - Piso 1 - Bloco A.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5 - Bloco A.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 4 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1 - Bloco A.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 4 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 3 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 3 - Bloco A.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2 - Bloco B.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1 - Bloco A.md",
-    "Obras/Lavandeira/Lavandeira - Geral.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1 - Bloco B.md",
-    "copilot/copilot-conversations/agent__se_quiser_escrever_algo_sobre_o_lote_1A_piso_1@20261009_141726.md",
     "Obras/Lavandeira/Lotes/Lote 3A/Pisos",
     "Obras/Lavandeira/Lotes/Lote 3A",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",

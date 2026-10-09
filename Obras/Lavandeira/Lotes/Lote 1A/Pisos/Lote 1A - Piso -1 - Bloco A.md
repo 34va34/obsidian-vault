@@ -17,11 +17,10 @@ total_casas: 7
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 1A]]
-- **Piso**: [[Lote 1A - Piso -1]]
+- **Piso**: -1
 - **Bloco**: A
 - **Estado**: Em andamento
 - **Tempo total de execução**: 0h
-- **Registos do piso**: os trabalhos escritos ao nível do piso estão em [[Lote 1A - Piso -1]].
 
 ## 🏠 Casas do Bloco
 
@@ -40,15 +39,17 @@ total_casas: 7
 
 ## ✅ O que já foi feito
 
-- (por preencher)
+- ligação das prumadas de sanitas
 
 ## 🔨 O que está por fazer
 
-- (por preencher)
+- ligações das prumadas de base e lavatório
+- aguas nos tetos dos corredores
+- agua no teto das casas
 
 ## ⏳ O que está pendente
 
-- (por preencher)
+- esgotos de 110x40 das duas ultimas casa
 
 ## ⏱️ Registo de execução
 
@@ -66,4 +67,12 @@ total_casas: 7
 
 - [[Lavandeira - Geral]]
 - [[Lavandeira - Lote 1A]]
-- [[Lote 1A - Piso -1]]
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote AND piso = this.piso
+SORT estado ASC, trabalho_modelo ASC
+```

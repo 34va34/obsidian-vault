@@ -17,11 +17,10 @@ total_casas: 6
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 3A]]
-- **Piso**: [[Lote 3A - Piso 3]]
+- **Piso**: 3
 - **Bloco**: B
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
-- **Registos do piso**: os trabalhos escritos ao nível do piso estão em [[Lote 3A - Piso 3]].
 
 ## 🏠 Casas do Bloco
 
@@ -65,4 +64,12 @@ total_casas: 6
 
 - [[Lavandeira - Geral]]
 - [[Lavandeira - Lote 3A]]
-- [[Lote 3A - Piso 3]]
+
+## 🔁 Trabalhos reutilizados neste local
+
+```dataview
+TABLE WITHOUT ID file.link AS "Tarefa", trabalho_modelo AS "Trabalho", estado AS "Estado", responsavel AS "Responsável"
+FROM "Tarefas/Reutilizadas"
+WHERE obra = this.obra AND lote = this.lote AND piso = this.piso
+SORT estado ASC, trabalho_modelo ASC
+```

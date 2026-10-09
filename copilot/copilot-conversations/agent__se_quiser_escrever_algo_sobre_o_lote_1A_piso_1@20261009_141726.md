@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_edf3160d9ffeKje4oh3f3OalmZ"
 agentLabel: "Onde escrever sobre lote 1A piso 1 bloco B"
-usage: '{"usedTokens":48662,"contextWindow":200000,"updatedAt":1791552235491}'
+usage: '{"usedTokens":92366,"contextWindow":200000,"updatedAt":1791554240647}'
 tags:
   - copilot-conversation
 ---
@@ -70,3 +70,23 @@ Dois apontamentos:
 1. **[[Lote 1A - Piso 1]]** continua com a divisão das tipologias (8 T2 + 4 T3) por bloco **por indicar** — as notas A e B desse piso têm as tabelas de casas vazias. Se me disseres as tipologias das 12 casas, completo.
 2. Corrigi um typo no frontmatter de [[Lote 3A - Piso 2]]: `data_inicio` estava `2016-10-08` → `2026-10-08`.
 [Timestamp: 2026/10/09 14:20:57]
+
+**user**: n preciso de ter o piso 1 sozinho sem nada. nem nenum piso que so diga o piso. porque o piso é sempre so 1 mais esta dividido. por isso so preciso d por exemplo piso 1 bloco a e piso 1 bloco B
+[Timestamp: 2026/10/09 14:51:20]
+
+**ai**: Percebido — fora as notas de piso, ficam só as de bloco. Primeiro vou ver onde essas notas de piso são referenciadas e qual o conteúdo delas para migrar.Agora vou reescrever as 24 notas de bloco: sem ligação ao piso, com o conteúdo do piso migrado e a consulta Dataview que estava nas notas de piso. Primeiro lote (1A):Lote 3A:Agora apago as 14 notas de piso e atualizo as listas nos lotes:Feito. Agora a estrutura é só **Lote → Piso X Bloco A/B** — as 14 notas de piso foram apagadas e ficaram 24 notas de bloco.
+
+**O que mudou:**
+
+- **Apaguei** `Lote 1A - Piso -1/1/2/3/4/5/6` e `Lote 3A - Piso -1/…/6` (recuperáveis pelo histórico do git, se algum dia precisares).
+- **Migrei o conteúdo** das notas de piso para as de bloco:
+  - **Pisos com um único bloco** (piso -1 → Bloco A; piso 6 → Bloco B): tudo passou para a nota do bloco, sem duplicação.
+  - **[[Lote 1A - Piso 1]]**: o conteúdo já estava no Bloco A (incluindo o diário de 2026-10-06); o Bloco B fica por preencher.
+  - **Trabalhos ao nível do piso** (1A pisos 2 e 5, 3A pisos 1 e 2): como não sei a que bloco pertencem, ficaram nos **dois** blocos marcados com _"Comum aos dois blocos (registo ao nível do piso)"_ — quando souberes a que bloco pertence, apaga de um deles.
+  - O registo de **8h "aguas tecto" (07/10/26)** do 3A piso 1 meti só no **Bloco A**, marcado "bloco por confirmar" — para não contar o tempo duas vezes. Diz-me se é do B ou comum.
+- **Consulta Dataview** "Trabalhos reutilizados neste local" passou para dentro de cada nota de bloco (filtra por `obra` + `lote` + `piso`, que continuam no frontmatter juntamente com `bloco`).
+- **[[Lavandeira - Lote 1A]]** e **[[Lavandeira - Lote 3A]]** passaram a ter a secção **"Acompanhamento por Piso e Bloco"** com ligação direta às 12 notas de cada lote.
+- Verifiquei que não ficou nenhuma ligação partida dentro de `Obras/` (as conversas antigas em `copilot/` e logs de agente continuam a mencionar os nomes antigos — são transcrições históricas, não toquei).
+
+Continua por preencher: a divisão das tipologias (8 T2 + 4 T3) do piso 1 do Lote 1A entre o Bloco A e o Bloco B.
+[Timestamp: 2026/10/09 14:51:20]
