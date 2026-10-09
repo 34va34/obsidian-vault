@@ -31,6 +31,19 @@ total_casas: 6
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 
+## 🏷️ Casas (nº por preencher)
+
+Preencher a coluna **Nº** com a numeração da casa. A ordem das linhas ainda não corresponde à ordem física — se me der os números, eu reordeno.
+
+| Nº | Bloco | Tipologia |
+|---|---|---|
+|  | B | T2 |
+|  | B | T2 |
+|  | B | T2 |
+|  | B | T3 |
+|  | B | T3 |
+|  | B | T3 |
+
 ## ✅ O que já foi feito
 
 -

@@ -30,6 +30,20 @@ total_casas: 7
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 
+## 🏷️ Casas (nº por preencher)
+
+Preencher a coluna **Nº** com a numeração da casa. A ordem das linhas ainda não corresponde à ordem física — se me der os números, eu reordeno.
+
+| Nº | Bloco | Tipologia |
+|---|---|---|
+|  | A | T2 |
+|  | A | T2 |
+|  | A | T2 |
+|  | A | T2 |
+|  | A | T2 |
+|  | A | T3 |
+|  | A | T1 |
+
 ## ✅ O que já foi feito
 
 - ligação das prumadas de sanitas

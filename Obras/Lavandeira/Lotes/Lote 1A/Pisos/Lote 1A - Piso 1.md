@@ -30,6 +30,25 @@ total_casas: 12
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 
+## 🏷️ Casas (nº por preencher)
+
+Preencher **Nº** e **Tipologia** — total do piso: 8 T2 + 4 T3 (divisão por bloco ainda por indicar).
+
+| Nº | Bloco | Tipologia |
+|---|---|---|
+|  | A |  |
+|  | A |  |
+|  | A |  |
+|  | A |  |
+|  | A |  |
+|  | A |  |
+|  | A |  |
+|  | B |  |
+|  | B |  |
+|  | B |  |
+|  | B |  |
+|  | B |  |
+
 ## ✅ O que já foi feito
 
 - ligação das sanitas
