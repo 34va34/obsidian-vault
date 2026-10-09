@@ -4,9 +4,9 @@ obra: Lavandeira
 lote: 3A
 piso: "2"
 bloco: B
-estado: Em andamento
+estado: Por iniciar
 tempo_total: 0h
-data_inicio: 2026-10-08
+data_inicio:
 data_conclusao:
 total_casas: 6
 ---
@@ -19,7 +19,7 @@ total_casas: 6
 - **Lote**: [[Lavandeira - Lote 3A]]
 - **Piso**: 2
 - **Bloco**: B
-- **Estado**: Em andamento
+- **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 
 ## 🏠 Casas do Bloco
@@ -38,9 +38,7 @@ total_casas: 6
 
 ## ✅ O que já foi feito
 
-_Comum aos dois blocos (registo ao nível do piso):_
-
-- [[Tarefa - agua no teto dos corredores]]
+- (por preencher)
 
 ## 🔨 O que está por fazer
 

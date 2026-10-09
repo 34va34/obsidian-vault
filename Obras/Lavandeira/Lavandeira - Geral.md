@@ -31,7 +31,7 @@ lotes: 1A, 3A
 | Lote                     | Configuração                     | Estado          |
 | ------------------------ | -------------------------------- | --------------- |
 | [[Lavandeira - Lote 1A]] | Blocos A/B; 77 casas             | 🔵 Em andamento |
-| [[Lavandeira - Lote 3A]] | Blocos A/B; 77 casas | 🔵 Em andamento |
+| [[Lavandeira - Lote 3A]] | Blocos A/B; 77 casas | ⏸️ Parado |
 
 ## 🏢 Configuração da Obra
 

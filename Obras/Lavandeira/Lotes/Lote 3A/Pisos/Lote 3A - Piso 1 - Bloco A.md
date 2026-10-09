@@ -43,8 +43,6 @@ total_casas: 7
 
 ## 🔨 O que está por fazer
 
-_Comum aos dois blocos (registo ao nível do piso):_
-
 - terminar aguas no teto
 - iniciar esgotos
 - aguas interiores
@@ -59,7 +57,7 @@ _Comum aos dois blocos (registo ao nível do piso):_
 
 | Atividade | Data de início | Data de fim | Tempo gasto | Responsável | Estado |
 |---|---|---|---:|---|---|
-| aguas tecto (piso — bloco por confirmar) | 07/10/26 |  | 8 |  |  |
+|  |  |  |  |  |  |
 
 ## 📝 Diário e observações
 

@@ -49,7 +49,7 @@ total_casas: 7
 
 ## ⏳ O que está pendente
 
-- águas no teto do corredor
+- (por preencher)
 
 ## ⏱️ Registo de execução
 

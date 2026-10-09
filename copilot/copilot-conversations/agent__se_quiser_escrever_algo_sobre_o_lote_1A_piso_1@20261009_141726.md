@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_edf3160d9ffeKje4oh3f3OalmZ"
 agentLabel: "Onde escrever sobre lote 1A piso 1 bloco B"
-usage: '{"usedTokens":92366,"contextWindow":200000,"updatedAt":1791554240647}'
+usage: '{"usedTokens":107911,"contextWindow":200000,"updatedAt":1791555037810}'
 tags:
   - copilot-conversation
 ---
@@ -90,3 +90,47 @@ Dois apontamentos:
 
 Continua por preencher: a divisão das tipologias (8 T2 + 4 T3) do piso 1 do Lote 1A entre o Bloco A e o Bloco B.
 [Timestamp: 2026/10/09 14:51:20]
+
+**user**: todos os trabalhos que foram feito e que estao por fazer foram no bloco A. 
+so no piso 1 que esta feito aguas no teto corredor no piso 1 bloco B
+[Timestamp: 2026/10/09 15:00:54]
+
+**ai**: Entendido — tudo o que está duplicado "comum ao piso" é na verdade do **Bloco A**, e a única coisa feita no Bloco B é a água no teto do corredor no piso 1. Vou corrigir:Corrigido. Resumo das alterações:
+
+**Bloco A passou a ter tudo:**
+- [[Lote 1A - Piso 2 - Bloco A]] — ligação das prumadas, águas no teto, prumadas de cozinha/bc-mlr, dn40 (marcadores "comum ao piso" removidos).
+- [[Lote 1A - Piso 5 - Bloco A]] — tubo na vertical, ralos, pluvia forçada, TE, curva no ralo.
+- [[Lote 3A - Piso 1 - Bloco A]] — terminar águas no teto, esgotos, águas interiores, testes de carga e de esgotos; o registo de **8h "aguas tecto" (07/10/26)** fica aqui, já sem a nota "bloco por confirmar".
+- [[Lote 3A - Piso 2 - Bloco A]] — [[Tarefa - agua no teto dos corredores]].
+
+**Bloco B ficou limpo nessas quatro notas** — todas as secções passaram a "(por preencher)", já não há trabalho duplicado.
+
+**Piso 1 do Lote 1A:**
+- [[Lote 1A - Piso 1 - Bloco B]] → **✅ O que já foi feito**: *água no teto do corredor (Bloco B)* — único trabalho feito no Bloco B.
+- [[Lote 1A - Piso 1 - Bloco A]] → saiu de "pendente" (que já está vazio) e mantém só o que é dele: sanitas, duches, águas no teto (início 2026-10-06) e por fazer das prumadas de sanita/lavatório.
+
+Verifiquei que não resta nenhum marcador "comum aos dois blocos" no vault.
+
+Uma dúvida: falei no **Lote 1A** (foi o piso 1 com que começámos). Se "água no teto do corredor feita no Bloco B" se aplica também ao **Lote 3A — Piso 1**, diz-me e faço o mesmo lá (neste momento o 3A piso 1 tem "terminar águas no teto" como por fazer no Bloco A e o Bloco B está vazio).
+[Timestamp: 2026/10/09 15:00:54]
+
+**user**: o lote 3A neste momento ainda esta sem nada. esta parado
+[Timestamp: 2026/10/09 15:08:05]
+
+**ai**: O `Parado` é mesmo um estado previsto no teu "Guia Rápido". Vou atualizar o 3A para refletir isso:Feito — o Lote 3A fica coerente com "sem nada, parado":
+
+**[[Lavandeira - Lote 3A]]**
+- `estado: Parado` (frontmatter e corpo) — usei o valor `Parado` que está previsto no teu [[Guia Rápido - Cheche de Equipa|Guia Rápido - Chefe de Equipa]] ("A obra/lote está temporariamente parado").
+
+**[[Lavandeira - Geral]]**
+- Resumo dos lotes: Lote 3A passou a **⏸️ Parado**; a obra e o Lote 1A mantêm **🔵 Em andamento**.
+
+**Blocos do 3A**
+- [[Lote 3A - Piso 2 - Bloco A]] e [[Lote 3A - Piso 2 - Bloco B]]: deixaram de estar "Em andamento" → **Por iniciar**, sem `data_inicio`; e saiu o "[[Tarefa - agua no teto dos corredores]]" do "já foi feito" (ficou "(por preencher)").
+- [[Lote 3A - Piso 1 - Bloco A]]: removido o registo das **8h "aguas tecto" (07/10/26)** — a tabela de registo de execução ficou vazia.
+- Todos os 12 blocos do 3A estão agora **Por iniciar**, com as secções de feito/pendente vazias.
+
+Verifiquei: já não há nenhuma "Em andamento" no 3A — só na obra e no 1A.
+
+Uma coisa que deixei e pode não fazer sentido: o [[Lote 3A - Piso 1 - Bloco A]] ainda tem na lista **"por fazer"** — *terminar águas no teto, iniciar esgotos, águas interiores, teste de carga, teste de esgotos*. Se isso é o plano para quando retomar, fica bem assim; se não disser respeito ao 3A, limpo. E o mesmo para o [[Lote 3A - Piso 1 - Bloco B]], que está vazio.
+[Timestamp: 2026/10/09 15:08:05]

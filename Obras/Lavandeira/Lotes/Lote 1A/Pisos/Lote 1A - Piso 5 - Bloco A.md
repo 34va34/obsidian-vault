@@ -39,8 +39,6 @@ total_casas: 7
 
 ## ✅ O que já foi feito
 
-_Comum aos dois blocos (registo ao nível do piso):_
-
 - tubo na vertical
 - ralos
 
@@ -49,8 +47,6 @@ _Comum aos dois blocos (registo ao nível do piso):_
 - (por preencher)
 
 ## ⏳ O que está pendente
-
-_Comum aos dois blocos (registo ao nível do piso):_
 
 - falta terminar ligação da pluvia forcado
 - colocar te e terminar tubo na horizontal

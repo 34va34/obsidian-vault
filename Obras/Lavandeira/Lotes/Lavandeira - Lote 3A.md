@@ -2,7 +2,7 @@
 tags: obra, lavandeira, lote-3a
 obra: Lavandeira
 lote: 3A
-estado: Em andamento
+estado: Parado
 data_inicio: 2026-10-28
 total_casas: 77
 casas_bloco_a: 41
@@ -14,7 +14,7 @@ casas_bloco_b: 36
 ## 📋 Informações Gerais
 
 - **Obra**: [[Lavandeira - Geral]]
-- **Estado**: Em andamento
+- **Estado**: Parado
 - **Data de início**: 28/10/2026
 - **Morada**: Em frente à Lavandeira
 

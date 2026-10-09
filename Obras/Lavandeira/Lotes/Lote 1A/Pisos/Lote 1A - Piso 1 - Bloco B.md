@@ -19,7 +19,7 @@ total_casas: 5
 - **Lote**: [[Lavandeira - Lote 1A]]
 - **Piso**: 1
 - **Bloco**: B
-- **Estado**: Por iniciar
+- **Estado**: Em andamento
 - **Tempo total de execução**: 0h
 
 ## 🏠 Casas do Bloco
@@ -37,7 +37,7 @@ total_casas: 5
 
 ## ✅ O que já foi feito
 
-- (por preencher)
+- água no teto do corredor (Bloco B)
 
 ## 🔨 O que está por fazer
 

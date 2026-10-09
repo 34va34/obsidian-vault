@@ -39,20 +39,14 @@ total_casas: 7
 
 ## ✅ O que já foi feito
 
-_Comum aos dois blocos (registo ao nível do piso):_
-
 - ligação das prumadas
 - água no teto da casa ate a porta
 
 ## 🔨 O que está por fazer
 
-_Comum aos dois blocos (registo ao nível do piso):_
-
 - aguas teto dentro da casa
 
 ## ⏳ O que está pendente
-
-_Comum aos dois blocos (registo ao nível do piso):_
 
 - aguas para cozinha e bc/mlr
 - colocar três de dn40

@@ -42,13 +42,7 @@ total_casas: 6
 
 ## 🔨 O que está por fazer
 
-_Comum aos dois blocos (registo ao nível do piso):_
-
-- terminar aguas no teto
-- iniciar esgotos
-- aguas interiores
-- teste de carga
-- teste de esgotos
+- (por preencher)
 
 ## ⏳ O que está pendente
 
