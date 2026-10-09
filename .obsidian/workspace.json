@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a14395df77a872bf",
+        "id": "4ac04c08710e9a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "9280f7a65420c229",
+            "id": "1359a10b040c3184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obras/Lavandeira/Lavandeira - Geral.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Lavandeira - Geral"
             }
           }
         ]
@@ -220,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +246,19 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "8de64f947283968b",
+  "active": "1359a10b040c3184",
   "lastOpenFiles": [
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
+    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
+    "Equipa/Presenças/Presenças - lavandeira - 2026-10-09.md",
+    "Equipa/Presenças/Presenças - ouro valley - 2026-07-29.md",
+    "Equipa/Presenças/Presenças - ouro valley - 2026-07-16.md",
+    "Equipa/Presenças/Presenças - lavandeira - 2026-10-01.md",
+    "Equipa/Equipa hoje.md",
+    "Diário/Diários Diários/Diário - lavandeira - 2026-10-09.md",
+    "Gestão/Dashboard Chefe/Dashboard Principal.md",
+    "Gestão/Dashboard Chefe/Situação - lavandeira - null - 2026-10-02.md",
+    "Gestão/Dashboard Chefe/Situação - landeira - 1A  - 2026-10-01.md",
     "desenho de contadores lavandeira.md",
     "Guia Rápido - Chefe de Equipa.md",
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
@@ -259,27 +275,16 @@
     "diário/Diários Diários/Diário - lavandeira - 2026-10-09.md",
     "Tarefas/Águas Interiores/Tarefa - aguas interiores piso 2 lote 6.md",
     "Tarefas/Reutilizadas/README.md",
-    "Tarefas/Esgotos Prumadas/Tarefa - prumadas lote 4.md",
     "Tarefas/Águas Interiores",
     "Tarefas/Reutilizadas",
-    "Tarefas/Tarefa - contar casas de banho do lote 5.md",
     "Tarefas/Água Corredores",
     "Tarefas/Pluviais",
     "Tarefas/Esgotos Prumadas",
     "Tarefas/Esgotos Finos",
     "Tarefas",
-    "Diário/Diários Diários/Diário - ouro valley - 2026-06-22.md",
-    "Diário/Diários Diários/Diário - lavandeira - 2026-10-09.md",
-    "Diário/Diários Diários/2026-10-01.md",
-    "Diário/Diários Diários/2026-09-29.md",
-    "Diário/Diários Diários/2026-07-29.md",
-    "Diário/diário -diario/diario.md",
     "Diário/relatórios 20-20",
     "Diário/Diários Diários",
     "Diário/diário -diario",
-    "Equipa/Pessoas/Diogo nunes.md",
-    "Equipa/Pessoas/Rafael Gc.md",
-    "diário/diário -diario/diario.md",
     "Sem título.canvas"
   ]
 }

@@ -40,7 +40,7 @@ total_casas: 7
 
 ## ⏳ O que está pendente
 
-	[] águas no tecto do corredor
+- esgotos de 110x40 das duas ultimas casa 
 
 
 ## ⏱️ Registo de execução

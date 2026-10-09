@@ -27,9 +27,9 @@ lotes: 1A, 1B
 
 ## 📊 Resumo dos Lotes
 
-| Lote | Configuração | Estado |
-|---|---|---|
-| [[Lavandeira - Lote 1A]] | Blocos A/B; 77 casas | 🔵 Em andamento |
+| Lote                     | Configuração                     | Estado          |
+| ------------------------ | -------------------------------- | --------------- |
+| [[Lavandeira - Lote 1A]] | Blocos A/B; 77 casas             | 🔵 Em andamento |
 | [[Lavandeira - Lote 1B]] | Configuração registada; 78 casas | 🔵 Em andamento |
 
 ## 🏢 Configuração da Obra

@@ -7,13 +7,13 @@ estado: Por confirmar
 # 📅 Registo de Presenças — lavandeira — 2026-10-09
 
 ## 👷 Tabela de Presenças
-| Funcionário | Presença | Horas Normais | Horas Extras | Sábado? | Observações |
-|-------------|----------|---------------|--------------|---------|-------------|
-| [[andre Magalhães ]] | [ ] | 8 | 0 | [ ] | Por confirmar |
-| [[Bacar Sissé]] | [ ] | 8 | 0 | [ ] | Por confirmar |
-| [[el houcine]] | [ ] | 8 | 0 | [ ] | Por confirmar |
-| [[José Magalhães]] | [ ] | 8 | 0 | [ ] | Por confirmar |
-| [[Rafael Gc]] | [ ] | 8 | 0 | [ ] | Por confirmar |
+| Funcionário          | Presença | Horas Normais | Horas Extras | Sábado? | Observações |     |
+| -------------------- | -------- | ------------- | ------------ | ------- | ----------- | --- |
+| [[andre Magalhães ]] | [x]      | 8             | 0            | [ ]     | confirmado  |     |
+| [[Bacar Sissé]]      | [x]      | 8             | 0            | [ ]     | confirmado  |     |
+| [[el houcine]]       | [x]      | 8             | 0            | [ ]     | confirmado  |     |
+| [[José Magalhães]]   | [x]      | 8             | 0            | [ ]     | confirmado  |     |
+| [[Rafael Gc]]        | [x]      | 8             | 0            | [ ]     | confirmado  |     |
 
 
 > [!TIP] Instruções
