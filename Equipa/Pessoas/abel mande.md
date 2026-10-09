@@ -26,7 +26,7 @@ LIMIT 10
 ### 📝 Tarefas Atribuídas
 ```dataview
 TABLE estado as "Estado", data_limite as "Data Limite", obra as "Obra"
-FROM "tarefas"
+FROM "Tarefas"
 WHERE contains(responsavel, this.file.link)
 SORT estado ASC, data_limite ASC
 ```
@@ -34,7 +34,7 @@ SORT estado ASC, data_limite ASC
 ### 💬 Menções em Diários
 ```dataview
 LIST rows.file.link
-FROM "diário/Diários Diários"
+FROM "Diário/Diários Diários"
 WHERE contains(file.outlinks, this.file.link) OR contains(file.text, this.nome)
 GROUP BY file.link
 LIMIT 5

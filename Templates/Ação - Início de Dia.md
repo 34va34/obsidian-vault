@@ -33,8 +33,9 @@ const soAtivosInput = await tp.system.prompt(
 const soAtivos = String(soAtivosInput ?? "s").trim().toLowerCase() !== "n";
 
 // --- Pastas ---------------------------------------------------------------
-// Procura ignore-case: o vault tem 'diário' e 'Diário' (e 'tarefas'/'Tarefas')
-// misturados, e uma diferença de maiúsculas fazia o script abortar.
+// Procura ignore-case (defensivo): desde 2026-10-09 as pastas estão
+// normalizadas em 'Diário/' e 'Tarefas/', mas uma diferença de maiúsculas
+// fazia o script abortar a meio.
 async function getFolder(folderPath) {
     const parts = String(folderPath).split("/").filter(Boolean);
     let current = app.vault.getRoot();

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8def9d2499cc3af4",
+        "id": "fcf51d04e6eddf59",
         "type": "tabs",
         "children": [
           {
-            "id": "11527a22b1452878",
+            "id": "26873d34ad70f0ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Equipa/Pessoas/José Magalhães.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2026-10-02 16.20.25.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "José Magalhães"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-02 16.20.25.excalidraw"
             }
           }
         ]
@@ -80,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02f95464b0f7023a",
@@ -245,8 +244,20 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "11527a22b1452878",
+  "active": "26873d34ad70f0ad",
   "lastOpenFiles": [
+    "Guia Rápido - Chefe de Equipa.md",
+    "Diário - ouro valley - lote 6 - 2026-06-11.md",
+    "Diário - ouro valley - 2026-07-29.md",
+    "Diário - ouro valley - 2026-07-16.md",
+    "Diário - lavandeira - lote 1a -1 bloco a - 2026-10-02.md",
+    "Diário - null - 2026-06-11.md",
+    "Relatórios Automáticos.md",
+    "jose.md",
+    "Material/Encomendas/2026-06-11 Encomenda pvc .md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Equipa/Pessoas/José Magalhães.md",
     "diário/Diários Diários/Diário - lavandeira - 2026-10-09.md",
     "Tarefas/Águas Interiores/Tarefa - aguas interiores piso 2 lote 6.md",
     "Tarefas/Reutilizadas/README.md",
@@ -268,22 +279,10 @@
     "Diário/relatórios 20-20",
     "Diário/Diários Diários",
     "Diário/diário -diario",
-    "Equipa/Pessoas/José Magalhães.md",
     "Equipa/Pessoas/Diogo nunes.md",
     "Equipa/Pessoas/Rafael Gc.md",
-    "jose.md",
     "diário/diário -diario/diario.md",
     "Untitled.md",
-    "Guia Rápido - Chefe de Equipa.md",
-    "Equipa/Presenças/Presenças - lavandeira - 2026-10-09.md",
-    "Templates/Ação - Início de Dia.md",
-    "Relatórios Automáticos.md",
-    "SKILL.md",
-    "Ação - Início de Dia.md",
-    "copilot/copilot-conversations/agent__qual_a_melhor_forma_d_fazer_o_inicio_do_dia@20261008_162617.md",
-    "Gestão/Dashboard Chefe/Dashboard Principal.md",
-    "Gestão/Dashboard Chefe/Situação - lavandeira - null - 2026-10-02.md",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Sem título.canvas"
   ]
 }

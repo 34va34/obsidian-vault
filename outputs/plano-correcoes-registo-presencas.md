@@ -3,7 +3,9 @@
 > Estado: **plano — nada foi alterado no vault.**
 > Data da revisão: 2026-10-07
 > Fonte: análise de [[Equipa hoje]], 4 registos em `Equipa/Presenças/`, modelos em `Templates/`, [[Guia Rápido - Chefe de Equipa]].
-> **2026-10-08**: executado o ponto **5.2** (restauração de `Templates/Ação - Início de Dia.md` + atualização da secção 1 do guia). Todos os restantes pontos continuam por fazer.
+> **2026-10-08**: executado o ponto **5.2** (restauração de `Templates/Ação - Início de Dia.md` + atualização da secção 1 do guia).
+> **2026-10-09**: executado o ponto **1.5** (canónico `Diário/` e `Tarefas/`, queries e configs corrigidas).
+> Os restantes pontos continuam por fazer.
 
 ---
 
@@ -15,7 +17,7 @@
 | 1.2 | Mover [[Equipa/José Magalhães]] para `Equipa/Pessoas/` | Mover com atualização automática de ligações (Obsidian CLI / move link-aware). Corrige a exclusão dele da lista gerada de 2026-10-01 e das consultas `FROM "Equipa/Pessoas"`. |
 | 1.3 | Corrigir frontmatter do José | `tags: - pessoa, equipa` está como item único; passar a lista correta (`pessoa`, `equipa`, `#nextyard`). |
 | 1.4 | Remover espaços finais nos nomes | `andre Magalhães ` e `Henriques ` → renomear ficheiro, frontmatter `nome:` e ligações. |
-| 1.5 | Uniformizar capitalização de pastas | `diário/` → `Diário/` e `tarefas/` → `Tarefas/` (ou ao contrário — decidir um canónico). Crucial se sincronizar fora do Windows. |
+| 1.5 | Uniformizar capitalização de pastas | `diário/` → `Diário/` e `tarefas/` → `Tarefas/` (ou ao contrário — decidir um canónico). Crucial se sincronizar fora do Windows. ✅ **Feito a 2026-10-09**: canónico **maiúsculas** (`Diário/`, `Tarefas/`), alinhado com o índice do git, os Dashboards, os relatórios, o guia e os scripts de `Templates/`. Renomeadas as 2 pastas da raiz; corrigidas `daily-notes.json`, a regra do auto-note-mover e as queries `FROM` de 11 fichas de pessoas. |
 | 1.6 | Normalizar estilo de ligações | Passar tudo a `[[Nome]]` sem `.md` (ou tudo com — decidir; recomendo sem). |
 
 ## Fase 2 — Corrigir [[Equipa hoje]]
