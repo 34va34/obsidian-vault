@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eae1cf06e07da89e",
+        "id": "8def9d2499cc3af4",
         "type": "tabs",
         "children": [
           {
-            "id": "f22f84c84ad89ee5",
+            "id": "11527a22b1452878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia Rápido - Chefe de Equipa.md",
+                "file": "Equipa/Pessoas/Rafael Gc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia Rápido - Chefe de Equipa"
+              "title": "Rafael Gc"
             }
           }
         ]
@@ -245,8 +245,14 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "f22f84c84ad89ee5",
+  "active": "11527a22b1452878",
   "lastOpenFiles": [
+    "diário/Diários Diários/Diário - lavandeira - 2026-10-09.md",
+    "jose.md",
+    "diário/diário -diario/diario.md",
+    "Untitled.md",
+    "Guia Rápido - Chefe de Equipa.md",
+    "Equipa/Presenças/Presenças - lavandeira - 2026-10-09.md",
     "Templates/Ação - Início de Dia.md",
     "Relatórios Automáticos.md",
     "SKILL.md",
@@ -267,12 +273,6 @@
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 5.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 6.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 3.md",
-    "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 2.md",
-    "Gestão/Relatórios/Acompanhamento Avançado de Obras.md",
-    "Untitled.md",
-    "Equipa/Presenças/Presenças - lavandeira - 2026-10-01.md",
     "outputs",
     "copilot/skills/openartifacts-publish/openartifacts-publish.ps1",
     "copilot/skills/openartifacts-publish/openartifacts-publish.cmd",

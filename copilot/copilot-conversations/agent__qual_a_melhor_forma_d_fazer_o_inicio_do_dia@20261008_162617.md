@@ -50,3 +50,9 @@ Melhorias face à versão antiga:
 
 Queres que trate também da normalização de pastas (1.5) ou da limpeza dos nomes com espaços finais (`andre Magalhães `, `Henriques `)?
 [Timestamp: 2026/10/08 16:26:17]
+
+**user**: normaliza as pastas 1.5
+[Timestamp: 2026/10/09 08:10:55]
+
+**ai**: 
+[Timestamp: 2026/10/09 08:10:55]

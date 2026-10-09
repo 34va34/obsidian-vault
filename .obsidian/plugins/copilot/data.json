@@ -674,15 +674,6 @@
     {
       "providerId": "389267c1-1277-4e5a-a19a-0882f37f5dd6",
       "info": {
-        "id": "opencode/fledge-alpha-free",
-        "displayName": "opencode/Fledge Alpha Free"
-      },
-      "configuredModelId": "cb15a6fe-68bf-4204-9981-6de8ca17feaa",
-      "configuredAt": 1790950237890
-    },
-    {
-      "providerId": "389267c1-1277-4e5a-a19a-0882f37f5dd6",
-      "info": {
         "id": "opencode/ling-3.1-flash-free",
         "displayName": "opencode/Ling 3.1 Flash Free"
       },
@@ -753,7 +744,6 @@
         "dc69ba95-9c2f-4574-a5ba-00983da1dd1f",
         "3c746241-f945-4c17-aaa2-0f04be11277f",
         "4356b6f4-e70b-4758-81d6-24d468c70da4",
-        "cb15a6fe-68bf-4204-9981-6de8ca17feaa",
         "592fa019-92ca-4c2c-8ea7-367a1affb885"
       ]
     }
