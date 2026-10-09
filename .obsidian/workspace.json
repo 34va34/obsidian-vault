@@ -220,12 +220,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,7 +245,7 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "1359a10b040c3184",
+  "active": "d40f9cf7812c73dd",
   "lastOpenFiles": [
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso 1.md",
     "Obras/Lavandeira/Lotes/Lote 1A/Pisos/Lote 1A - Piso -1.md",
