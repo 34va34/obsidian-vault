@@ -22,6 +22,8 @@ total_casas: 13
 | Bloco B | 6 |
 | **Total do piso** | **13** |
 
+- **Tipologias**: Bloco A = 6 T2 + 1 T3; Bloco B = 2 T2 + 1 T1 + 3 T3 (total 8 T2 + 4 T3 + 1 T1).
+
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 3A]]

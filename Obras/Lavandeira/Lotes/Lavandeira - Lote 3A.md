@@ -53,6 +53,20 @@ casas_bloco_b: 36
 
 > O piso 6 tem 6 casas, todas no Bloco B.
 
+## 🧩 Tipologias (T1/T2/T3)
+
+| Tipologia | Casas |
+|---|---:|
+| T1 | 1 |
+| T2 | 52 |
+| T3 | 24 |
+| **Total Lote 3A** | **77** |
+
+- **Piso -1**: 5 T2 + 1 T3 (6 casas, todas no Bloco A).
+- **Piso 1**: 8 T2 + 4 T3 + 1 T1 (13 casas; Bloco A = 6 T2 + 1 T3, Bloco B = 2 T2 + 1 T1 + 3 T3).
+- **Pisos 2 a 5** (idênticos): Bloco A = 6 T2 + 1 T3; Bloco B = 3 T2 + 3 T3 → 9 T2 + 4 T3 por piso (13 casas).
+- **Piso 6**: 6 casas, todas no Bloco B: 3 T2 + 3 T3.
+
 ## 📝 Notas
 
 - Total atualizado: **77 casas**.
