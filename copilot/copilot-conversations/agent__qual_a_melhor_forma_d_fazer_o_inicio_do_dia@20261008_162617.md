@@ -54,5 +54,7 @@ Queres que trate também da normalização de pastas (1.5) ou da limpeza dos nom
 **user**: normaliza as pastas 1.5
 [Timestamp: 2026/10/09 08:10:55]
 
-**ai**: 
+**ai**: Plano confirmado. Canónico: **`Diário/` e `Tarefas/`** (maiúsculas) — é o que já usam os Dashboards, os relatórios, o guia e todos os scripts de `Templates/`. Só o disco e as12 fichas de pessoas é que estão em minúsculas.
+
+Primeiro, renomear e ver como o git reage:O índice do git já tem `Diário/` e `Tarefas/` (maiúsculas) — é o disco que está em minúsculas. Ou seja, a renomeação vai alinhar tudo sem tocar no histórico. Vou usar um rename de uma vez (suporta só-maiúsculas no Windows):
 [Timestamp: 2026/10/09 08:10:55]

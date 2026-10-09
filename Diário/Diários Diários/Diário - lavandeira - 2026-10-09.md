@@ -21,13 +21,15 @@ Ver registo detalhado em: [[Presenças - lavandeira - 2026-10-09|Registo de Pres
 -
 
 ## 🚧 Ocorrências / Progresso
--
+- terminar todos os esgotos do piso -1 (falta tes de 110x40)
 
 ## 📦 Materiais em Falta
--
+- tes de 110x40
 
 ## 🔜 Prioridades de Amanhã
--
+- concluir barraco
+- cabo eletrico para barraco
+- ir buscar coisas da obra antiga
 
 ## 📸 Fotos
 -
