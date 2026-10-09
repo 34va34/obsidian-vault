@@ -40,10 +40,11 @@ total_casas: 7
 ## ✅ O que já foi feito
 
 - ligação das prumadas de sanitas
+- ligações de prumadas das bases e lav.
 
 ## 🔨 O que está por fazer
 
-- ligações das prumadas de base e lavatório
+- ligações das prumadas de base e lavatório 
 - aguas nos tetos dos corredores
 - agua no teto das casas
 

@@ -3,6 +3,7 @@ epoch: 1791560356317
 mode: agent
 backendId: opencode
 sessionId: "ses_edeaedcb3ffe74nOXHSyKN0M3q"
+usage: '{"usedTokens":35151,"contextWindow":200000,"updatedAt":1791561342078}'
 tags:
   - copilot-conversation
 ---
