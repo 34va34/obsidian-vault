@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fcf51d04e6eddf59",
+        "id": "a14395df77a872bf",
         "type": "tabs",
         "children": [
           {
-            "id": "26873d34ad70f0ad",
+            "id": "9280f7a65420c229",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2026-10-02 16.20.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-02 16.20.25.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "02f95464b0f7023a",
@@ -219,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -244,8 +241,9 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "26873d34ad70f0ad",
+  "active": "8de64f947283968b",
   "lastOpenFiles": [
+    "desenho de contadores lavandeira.md",
     "Guia Rápido - Chefe de Equipa.md",
     "Diário - ouro valley - lote 6 - 2026-06-11.md",
     "Diário - ouro valley - 2026-07-29.md",
@@ -282,7 +280,6 @@
     "Equipa/Pessoas/Diogo nunes.md",
     "Equipa/Pessoas/Rafael Gc.md",
     "diário/diário -diario/diario.md",
-    "Untitled.md",
     "Sem título.canvas"
   ]
 }
