@@ -12,7 +12,7 @@ lotes: 1A, 3A
 > Obra composta por dois lotes: Lote 1A e Lote 3A.
 > O Lote 1A está dividido em dois blocos: Bloco A e Bloco B.
 > O Lote 3A também está dividido em dois blocos: Bloco A e Bloco B.
-> O Lote 1A tem 77 casas e o Lote 3A mantém 78 casas.
+> O Lote 1A tem 77 casas e o Lote 3A tem também 77 casas.
 
 ---
 
@@ -31,7 +31,7 @@ lotes: 1A, 3A
 | Lote                     | Configuração                     | Estado          |
 | ------------------------ | -------------------------------- | --------------- |
 | [[Lavandeira - Lote 1A]] | Blocos A/B; 77 casas             | 🔵 Em andamento |
-| [[Lavandeira - Lote 3A]] | Blocos A/B; 78 casas | 🔵 Em andamento |
+| [[Lavandeira - Lote 3A]] | Blocos A/B; 77 casas | 🔵 Em andamento |
 
 ## 🏢 Configuração da Obra
 
@@ -40,8 +40,8 @@ lotes: 1A, 3A
 - **Configuração do Lote 1A**: Bloco A e Bloco B
 - **Configuração do Lote 3A**: Bloco A e Bloco B
 - **Casas no Lote 1A**: 77
-- **Casas no Lote 3A**: 78
-- **Total da obra**: 155 casas
+- **Casas no Lote 3A**: 77
+- **Total da obra**: 154 casas
 - **Lote 1A**: piso -1 com 7 casas no Bloco A e 0 no Bloco B; piso 1 com 7 no Bloco A e 5 no Bloco B; pisos 2 a 5 com 7 no Bloco A e 6 no Bloco B; piso 6 com 6 casas no total
 - **Observação**: a divisão do piso 6 do Lote 1A entre os Blocos A e B fica por confirmar.
 
@@ -63,8 +63,8 @@ lotes: 1A, 3A
 ## 📝 Notas Gerais
 
 - Obra localizada em frente à Lavandeira.
-- O Lote 1A está dividido nos Blocos A e B e tem **77 casas**. O Lote 3A mantém **78 casas**.
-- Total previsto da obra: **155 casas**.
+- O Lote 1A está dividido nos Blocos A e B e tem **77 casas**. O Lote 3A também está dividido nos Blocos A e B e tem **77 casas**.
+- Total previsto da obra: **154 casas**.
 
 ## 🔗 Links Relevantes
 

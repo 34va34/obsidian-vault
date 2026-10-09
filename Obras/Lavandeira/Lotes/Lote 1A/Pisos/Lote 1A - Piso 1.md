@@ -22,6 +22,8 @@ total_casas: 12
 | Bloco B | 5 |
 | **Total do piso** | **12** |
 
+- **Tipologias**: 8 T2 + 4 T3 (total 12).
+
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 1A]]

@@ -50,6 +50,21 @@ casas_bloco_b: Por confirmar no piso 6
 
 > O piso 6 tem 6 casas no total; a divisão dessas casas entre os Blocos A e B fica por confirmar.
 
+## 🧩 Tipologias (T1/T2/T3)
+
+| Tipologia | Casas |
+|---|---:|
+| T1 | 1 |
+| T2 | 56 |
+| T3 | 20 |
+| **Total Lote 1A** | **77** |
+
+- **Piso -1**: 5 T2 + 1 T3 + 1 T1 (7 casas, todas no Bloco A).
+- **Piso 1**: 8 T2 + 4 T3 (12 casas; 7 no Bloco A e 5 no Bloco B).
+- **Pisos 2 a 5**: 7 casas no Bloco A e 6 no Bloco B (13 por piso).
+- **Piso 6**: 6 casas.
+- Tipologias dos pisos 2 a 6 (e respetiva divisão por bloco): por registar.
+
 ## 📝 Notas
 
 - Total atualizado: **77 casas**.

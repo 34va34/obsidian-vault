@@ -7,9 +7,9 @@ estado: Por iniciar
 tempo_total: 0h
 data_inicio:
 data_conclusao:
-casas_bloco_a: 7
+casas_bloco_a: 6
 casas_bloco_b: 0
-total_casas: 7
+total_casas: 6
 ---
 
 # 🏗️ Lavandeira — Lote 3A — Piso -1
@@ -18,9 +18,9 @@ total_casas: 7
 
 | Bloco | Casas |
 |---|---:|
-| Bloco A | 7 |
+| Bloco A | 6 |
 | Bloco B | 0 |
-| **Total do piso** | **7** |
+| **Total do piso** | **6** |
 
 
 - **Obra**: [[Lavandeira - Geral]]
