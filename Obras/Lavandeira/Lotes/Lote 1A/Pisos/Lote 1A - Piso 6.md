@@ -22,6 +22,8 @@ total_casas: 6
 | Bloco B | 6 |
 | **Total do piso** | **6** |
 
+- **Tipologias**: 3 T2 + 3 T3 (total 6), todas no Bloco B.
+
 > As 6 casas do piso 6 estão todas no Bloco B.
 
 - **Obra**: [[Lavandeira - Geral]]
