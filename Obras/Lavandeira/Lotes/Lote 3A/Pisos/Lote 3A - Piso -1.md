@@ -27,6 +27,7 @@ total_casas: 6
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 3A]]
+- **Blocos**: [[Lote 3A - Piso -1 - Bloco A|Bloco A]] (o Bloco B não tem casas neste piso)
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 

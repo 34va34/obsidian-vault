@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_ee03512d8ffeb63r7LjxhEGiKn"
 agentLabel: "Estrutura de lotes e blocos da Lavandeira"
-usage: '{"usedTokens":161045,"contextWindow":200000,"updatedAt":1791551512338}'
+usage: '{"usedTokens":161325,"contextWindow":200000,"updatedAt":1791551562312}'
 tags:
   - copilot-conversation
 ---
@@ -361,5 +361,15 @@ E, se depois de preencher quiser, **dê uma olhadela e eu faço a conferência a
 **user**: obrigada
 [Timestamp: 2026/10/09 14:12:24]
 
-**ai**: 
+**ai**: De nada! 😊
+
+Fica então registado no vault, para resumir o que ficou fechado hoje:
+
+- **Lavandeira = 2 lotes** (1A e 3A), cada um com **Bloco A e Bloco B** — renomeação completa do antigo "Lote 1B" para **Lote 3A** (ficheiros, pastas, links e frontmatter)
+- **154 casas** no total — 77 + 77, com composição idêntica: **1 T1 + 52 T2 + 24 T3** por lote
+- Distribuição por piso e bloco confirmada e fechada nos dois lotes
+- Tipologias registadas por piso
+- Tabelas `Nº | Bloco | Tipologia` em todas as notas de piso, para preencher
+
+Quando preencher a numeração (e a tipologia do piso 1 do 1A), avisar que eu faço a conferência dos totais. Qualquer coisa sobre a obra, é só dizer. Bom trabalho! 🏗️
 [Timestamp: 2026/10/09 14:12:24]

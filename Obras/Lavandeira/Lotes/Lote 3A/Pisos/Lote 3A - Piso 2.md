@@ -5,7 +5,7 @@ lote: 3A
 piso: "2"
 estado: Em andamento
 tempo_total: 0h
-data_inicio: 2016-10-08
+data_inicio: 2026-10-08
 data_conclusao:
 casas_bloco_a: 7
 casas_bloco_b: 6
@@ -27,6 +27,7 @@ total_casas: 13
 
 - **Obra**: [[Lavandeira - Geral]]
 - **Lote**: [[Lavandeira - Lote 3A]]
+- **Blocos**: [[Lote 3A - Piso 2 - Bloco A|Bloco A]] · [[Lote 3A - Piso 2 - Bloco B|Bloco B]]
 - **Estado**: Por iniciar
 - **Tempo total de execução**: 0h
 
